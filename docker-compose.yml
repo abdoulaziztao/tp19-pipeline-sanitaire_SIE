@@ -1,0 +1,49 @@
+services:
+  source-db:
+    image: postgres:16-alpine
+    environment: {POSTGRES_USER: source, POSTGRES_PASSWORD: source, POSTGRES_DB: sourcedb}
+    ports: ["5433:5432"]
+    volumes:
+      - source_data:/var/lib/postgresql/data
+      - ./sql/init_source.sql:/docker-entrypoint-initdb.d/01_init.sql:ro
+      - ./data:/data:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U source -d sourcedb"]
+      interval: 5s
+      retries: 10
+
+  warehouse-db:
+    image: postgres:16-alpine
+    environment: {POSTGRES_USER: dwh, POSTGRES_PASSWORD: dwh, POSTGRES_DB: warehouse}
+    ports: ["5434:5432"]
+    volumes:
+      - warehouse_data:/var/lib/postgresql/data
+      - ./sql/init_warehouse.sql:/docker-entrypoint-initdb.d/01_init.sql:ro
+      - ./tests:/tests:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dwh -d warehouse"]
+      interval: 5s
+      retries: 10
+
+  dagster:
+    build: ./dagster
+    environment:
+      WAREHOUSE_URL: postgresql+psycopg2://dwh:dwh@warehouse-db:5432/warehouse
+    ports: ["3000:3000"]
+    volumes: [dagster_home:/dagster_home]
+    depends_on:
+      warehouse-db: {condition: service_healthy}
+
+  api:
+    build: ./api
+    environment:
+      WAREHOUSE_URL: postgresql+psycopg2://dwh:dwh@warehouse-db:5432/warehouse
+    ports: ["8001:8000"]
+    depends_on:
+      warehouse-db: {condition: service_healthy}
+
+# Airbyte n'est pas dans ce fichier : il s'installe avec abctl (http://localhost:8000).
+volumes:
+  source_data:
+  warehouse_data:
+  dagster_home:
