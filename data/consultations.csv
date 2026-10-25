@@ -1,0 +1,2001 @@
+id_consultation,id_structure,id_patient,date_consultation,motif,diagnostic,age_patient,sexe
+CSL-000001,STR-0009,PAT-03715,2026-04-13,Contrôle,Anémie,20,F
+CSL-000002,STR-0020,PAT-01402,2026-09-18,Vaccination,Hypertension artérielle,20,F
+CSL-000003,STR-0002,PAT-01877,2026-05-11,Fièvre,Anémie,51,F
+CSL-000004,STR-0007,PAT-04090,2026-05-16,Suivi de grossesse,Plaie et traumatisme,18,F
+CSL-000005,STR-0009,PAT-04789,2026-01-22,Suivi de grossesse,Malnutrition aiguë,46,M
+CSL-000006,STR-0004,PAT-01253,2026-09-30,Contrôle,Diarrhée aiguë,87,F
+CSL-000007,STR-0004,PAT-04399,2025-11-10,Douleurs abdominales,Anémie,14,F
+CSL-000008,STR-0006,PAT-04159,2026-02-10,Fièvre,Diabète,81,M
+CSL-000009,STR-0001,PAT-04907,2026-01-26,Douleurs abdominales,Plaie et traumatisme,2,M
+CSL-000010,STR-0003,PAT-03982,2026-09-14,Fièvre,Diarrhée aiguë,16,F
+CSL-000011,STR-0007,PAT-02554,2025-11-05,Suivi de grossesse,Anémie,56,F
+CSL-000012,STR-0001,PAT-04820,2026-05-04,Vaccination,Hypertension artérielle,75,M
+CSL-000013,STR-0008,PAT-00553,2026-09-24,Fièvre,Anémie,9,M
+CSL-000014,STR-0019,PAT-03873,2026-01-05,Toux,Plaie et traumatisme,52,M
+CSL-000015,STR-0014,PAT-03368,2026-04-26,Suivi de grossesse,Paludisme simple,86,M
+CSL-000016,STR-0008,PAT-01570,2026-08-30,Toux,Plaie et traumatisme,17,F
+CSL-000017,STR-0015,PAT-04509,2026-09-16,Fièvre,Paludisme simple,83,M
+CSL-000018,STR-0016,PAT-03944,2026-03-30,Toux,Malnutrition aiguë,7,M
+CSL-000019,STR-0018,PAT-03987,2026-03-22,Toux,Hypertension artérielle,37,M
+CSL-000020,STR-0011,PAT-00469,2026-09-23,Fièvre,Plaie et traumatisme,64,M
+CSL-000021,STR-0020,PAT-00557,2026-09-19,Contrôle,Hypertension artérielle,51,M
+CSL-000022,STR-0017,PAT-02592,2026-01-08,Douleurs abdominales,Hypertension artérielle,85,F
+CSL-000023,STR-0010,PAT-03746,2025-11-15,Douleurs abdominales,Infection respiratoire aiguë,1,F
+CSL-000024,STR-0008,PAT-03028,2026-09-19,Douleurs abdominales,Diarrhée aiguë,56,F
+CSL-000025,STR-0009,PAT-00946,2026-08-17,Fièvre,Diarrhée aiguë,34,F
+CSL-000026,STR-0009,PAT-00417,2026-02-16,Fièvre,Malnutrition aiguë,35,M
+CSL-000027,STR-0006,PAT-03620,2026-06-12,Vaccination,Malnutrition aiguë,71,M
+CSL-000028,STR-0002,PAT-03025,2026-01-18,Vaccination,Diarrhée aiguë,55,M
+CSL-000029,STR-0007,PAT-02045,2026-04-24,Contrôle,Infection respiratoire aiguë,45,F
+CSL-000030,STR-0014,PAT-02033,2026-05-07,Douleurs abdominales,Diarrhée aiguë,89,M
+CSL-000031,STR-0010,PAT-01865,2026-04-28,Toux,Paludisme simple,84,M
+CSL-000032,STR-0017,PAT-03275,2025-11-30,Contrôle,Anémie,3,M
+CSL-000033,STR-0012,PAT-02570,2026-03-16,Suivi de grossesse,Infection respiratoire aiguë,49,M
+CSL-000034,STR-0007,PAT-02984,2025-11-07,Suivi de grossesse,Infection respiratoire aiguë,85,F
+CSL-000035,STR-0013,PAT-02423,2026-05-10,Vaccination,Diarrhée aiguë,24,F
+CSL-000036,STR-0010,PAT-02351,2026-10-24,Toux,Malnutrition aiguë,74,F
+CSL-000037,STR-0003,PAT-02325,2026-07-30,Vaccination,Anémie,11,M
+CSL-000038,STR-0015,PAT-03396,2026-09-17,Contrôle,Hypertension artérielle,89,F
+CSL-000039,STR-0014,PAT-01793,2026-08-31,Toux,Plaie et traumatisme,6,M
+CSL-000040,STR-0017,PAT-04579,2025-11-17,Vaccination,Anémie,56,F
+CSL-000041,STR-0017,PAT-03970,2026-06-05,Contrôle,Hypertension artérielle,35,F
+CSL-000042,STR-0011,PAT-02620,2026-06-07,Vaccination,Infection respiratoire aiguë,17,M
+CSL-000043,STR-0007,PAT-00527,2025-10-28,Suivi de grossesse,Malnutrition aiguë,42,F
+CSL-000044,STR-0019,PAT-03117,2026-10-14,Suivi de grossesse,Paludisme simple,45,F
+CSL-000045,STR-0008,PAT-04000,2025-12-20,Toux,Diabète,55,F
+CSL-000046,STR-0013,PAT-01353,2025-11-11,Suivi de grossesse,Diarrhée aiguë,79,M
+CSL-000047,STR-0005,PAT-03783,2026-03-19,Toux,Paludisme simple,33,F
+CSL-000048,STR-0009,PAT-00671,2026-03-23,Suivi de grossesse,Paludisme simple,69,M
+CSL-000049,STR-0008,PAT-01634,2026-10-09,Fièvre,Diarrhée aiguë,30,M
+CSL-000050,STR-0012,PAT-01375,2026-06-15,Vaccination,Infection respiratoire aiguë,20,F
+CSL-000051,STR-0013,PAT-03250,2026-01-03,Contrôle,Hypertension artérielle,9,M
+CSL-000052,STR-0004,PAT-04637,2025-12-21,Fièvre,Anémie,68,F
+CSL-000053,STR-0014,PAT-02968,2026-08-31,Contrôle,Plaie et traumatisme,90,M
+CSL-000054,STR-0016,PAT-03809,2026-01-22,Suivi de grossesse,Diabète,41,M
+CSL-000055,STR-0019,PAT-05000,2026-03-01,Contrôle,Malnutrition aiguë,43,M
+CSL-000056,STR-0011,PAT-02291,2026-06-14,Vaccination,Diabète,71,M
+CSL-000057,STR-0016,PAT-03672,2026-02-23,Fièvre,Infection respiratoire aiguë,37,M
+CSL-000058,STR-0018,PAT-04350,2026-02-24,Douleurs abdominales,Malnutrition aiguë,70,F
+CSL-000059,STR-0007,PAT-02585,2026-08-24,Fièvre,Diarrhée aiguë,24,M
+CSL-000060,STR-0008,PAT-02957,2026-05-26,Toux,Diabète,1,M
+CSL-000061,STR-0016,PAT-00841,2025-12-02,Fièvre,Diabète,60,F
+CSL-000062,STR-0013,PAT-04029,2026-09-21,Fièvre,Paludisme simple,19,M
+CSL-000063,STR-0017,PAT-03117,2026-07-01,Suivi de grossesse,Plaie et traumatisme,38,F
+CSL-000064,STR-0007,PAT-02168,2026-07-10,Contrôle,Infection respiratoire aiguë,20,M
+CSL-000065,STR-0014,PAT-03691,2026-10-23,Contrôle,Plaie et traumatisme,37,M
+CSL-000066,STR-0015,PAT-00584,2025-10-30,Contrôle,Hypertension artérielle,33,M
+CSL-000067,STR-0003,PAT-00489,2026-08-13,Toux,Diabète,76,F
+CSL-000068,STR-0017,PAT-04424,2026-06-07,Suivi de grossesse,Plaie et traumatisme,10,M
+CSL-000069,STR-0019,PAT-04810,2026-06-29,Fièvre,Diabète,73,M
+CSL-000070,STR-0009,PAT-01487,2026-03-12,Vaccination,Malnutrition aiguë,81,F
+CSL-000071,STR-0011,PAT-00857,2026-05-07,Toux,Anémie,52,F
+CSL-000072,STR-0009,PAT-02649,2026-05-16,Fièvre,Malnutrition aiguë,65,M
+CSL-000073,STR-0015,PAT-00423,2026-02-11,Toux,Diabète,70,M
+CSL-000074,STR-0008,PAT-01298,2025-12-17,Douleurs abdominales,Paludisme simple,70,F
+CSL-000075,STR-0005,PAT-04083,2026-08-25,Contrôle,Diabète,65,F
+CSL-000076,STR-0013,PAT-01562,2026-08-11,Vaccination,Diarrhée aiguë,8,F
+CSL-000077,STR-0019,PAT-04751,2026-05-25,Contrôle,Plaie et traumatisme,19,F
+CSL-000078,STR-0008,PAT-04685,2025-11-01,Suivi de grossesse,Hypertension artérielle,52,M
+CSL-000079,STR-0005,PAT-04058,2025-11-19,Fièvre,Diarrhée aiguë,64,F
+CSL-000080,STR-0015,PAT-00126,2026-01-28,Contrôle,Diarrhée aiguë,52,M
+CSL-000081,STR-0013,PAT-00658,2025-12-09,Douleurs abdominales,Malnutrition aiguë,40,F
+CSL-000082,STR-0014,PAT-00807,2026-09-08,Contrôle,Infection respiratoire aiguë,56,M
+CSL-000083,STR-0008,PAT-04352,2026-08-11,Suivi de grossesse,Diarrhée aiguë,21,M
+CSL-000084,STR-0008,PAT-04077,2025-11-09,Vaccination,Diarrhée aiguë,29,F
+CSL-000085,STR-0003,PAT-03619,2026-08-05,Douleurs abdominales,Diabète,81,F
+CSL-000086,STR-0012,PAT-04709,2026-01-05,Douleurs abdominales,Diabète,2,F
+CSL-000087,STR-0016,PAT-02345,2025-12-18,Toux,Anémie,28,M
+CSL-000088,STR-0002,PAT-02531,2026-09-05,Suivi de grossesse,Paludisme simple,74,F
+CSL-000089,STR-0012,PAT-04349,2026-01-21,Vaccination,Diabète,21,F
+CSL-000090,STR-0003,PAT-01154,2026-02-27,Toux,Malnutrition aiguë,71,F
+CSL-000091,STR-0018,PAT-01013,2026-06-11,Suivi de grossesse,Anémie,86,F
+CSL-000092,STR-0011,PAT-04998,2026-01-10,Toux,Infection respiratoire aiguë,81,F
+CSL-000093,STR-0004,PAT-01924,2026-08-26,Vaccination,Diarrhée aiguë,49,F
+CSL-000094,STR-0014,PAT-00812,2026-08-06,Suivi de grossesse,Malnutrition aiguë,35,M
+CSL-000095,STR-0012,PAT-00497,2026-01-19,Suivi de grossesse,Diabète,24,M
+CSL-000096,STR-0002,PAT-02733,2026-10-14,Toux,Diarrhée aiguë,72,M
+CSL-000097,STR-0007,PAT-01909,2025-12-28,Douleurs abdominales,Diarrhée aiguë,76,M
+CSL-000098,STR-0001,PAT-01080,2026-08-29,Fièvre,Anémie,30,F
+CSL-000099,STR-0014,PAT-04310,2026-08-21,Fièvre,Infection respiratoire aiguë,60,F
+CSL-000100,STR-0002,PAT-04272,2025-12-14,Douleurs abdominales,Plaie et traumatisme,82,M
+CSL-000101,STR-0004,PAT-04017,2025-11-07,Contrôle,Plaie et traumatisme,9,M
+CSL-000102,STR-0019,PAT-04493,2025-12-04,Contrôle,Anémie,48,F
+CSL-000103,STR-0018,PAT-01762,2025-11-23,Suivi de grossesse,Plaie et traumatisme,29,F
+CSL-000104,STR-0014,PAT-02561,2026-05-17,Contrôle,Diabète,47,M
+CSL-000105,STR-0005,PAT-04558,2026-04-17,Fièvre,Anémie,85,M
+CSL-000106,STR-0020,PAT-02560,2026-05-30,Douleurs abdominales,Infection respiratoire aiguë,73,M
+CSL-000107,STR-0012,PAT-04557,2026-08-30,Douleurs abdominales,Infection respiratoire aiguë,35,M
+CSL-000108,STR-0001,PAT-04989,2026-01-12,Contrôle,Diabète,3,M
+CSL-000109,STR-0019,PAT-03284,2026-08-12,Fièvre,Diarrhée aiguë,81,M
+CSL-000110,STR-0014,PAT-03717,2026-04-15,Douleurs abdominales,Diarrhée aiguë,47,F
+CSL-000111,STR-0003,PAT-02230,2025-11-13,Suivi de grossesse,Malnutrition aiguë,62,F
+CSL-000112,STR-0010,PAT-04859,2026-08-29,Suivi de grossesse,Diabète,5,M
+CSL-000113,STR-0009,PAT-02372,2026-08-15,Douleurs abdominales,Infection respiratoire aiguë,0,F
+CSL-000114,STR-0012,PAT-00591,2025-11-16,Suivi de grossesse,Paludisme simple,55,M
+CSL-000115,STR-0014,PAT-02372,2025-10-26,Fièvre,Malnutrition aiguë,2,F
+CSL-000116,STR-0012,PAT-00722,2025-11-05,Suivi de grossesse,Infection respiratoire aiguë,31,F
+CSL-000117,STR-0003,PAT-04182,2026-07-30,Contrôle,Infection respiratoire aiguë,67,M
+CSL-000118,STR-0005,PAT-02097,2026-09-02,Toux,Diarrhée aiguë,77,M
+CSL-000119,STR-0019,PAT-02648,2025-11-10,Contrôle,Anémie,19,F
+CSL-000120,STR-0009,PAT-04845,2026-05-22,Fièvre,Anémie,64,M
+CSL-000121,STR-0003,PAT-04867,2026-09-15,Vaccination,Malnutrition aiguë,59,M
+CSL-000122,STR-0017,PAT-01236,2026-02-23,Fièvre,Plaie et traumatisme,13,F
+CSL-000123,STR-0017,PAT-04996,2026-01-29,Toux,Anémie,47,F
+CSL-000124,STR-0011,PAT-00540,2025-11-27,Douleurs abdominales,Infection respiratoire aiguë,71,F
+CSL-000125,STR-0019,PAT-01159,2026-09-13,Douleurs abdominales,Diabète,83,F
+CSL-000126,STR-0018,PAT-03086,2026-05-19,Contrôle,Anémie,16,M
+CSL-000127,STR-0016,PAT-01573,2026-05-03,Toux,Diarrhée aiguë,19,M
+CSL-000128,STR-0002,PAT-02759,2026-01-28,Vaccination,Diarrhée aiguë,76,F
+CSL-000129,STR-0006,PAT-03586,2025-12-09,Fièvre,Malnutrition aiguë,46,M
+CSL-000130,STR-0008,PAT-02536,2026-01-24,Suivi de grossesse,Hypertension artérielle,47,F
+CSL-000131,STR-0007,PAT-04954,2026-08-03,Toux,Diabète,6,F
+CSL-000132,STR-0003,PAT-01314,2026-06-01,Douleurs abdominales,Plaie et traumatisme,65,M
+CSL-000133,STR-0013,PAT-04113,2026-09-27,Douleurs abdominales,Hypertension artérielle,49,M
+CSL-000134,STR-0005,PAT-01128,2026-05-06,Fièvre,Diabète,60,M
+CSL-000135,STR-0020,PAT-04324,2026-01-17,Suivi de grossesse,Infection respiratoire aiguë,36,M
+CSL-000136,STR-0003,PAT-00909,2026-03-04,Suivi de grossesse,Paludisme simple,80,M
+CSL-000137,STR-0003,PAT-04289,2026-07-21,Douleurs abdominales,Infection respiratoire aiguë,67,M
+CSL-000138,STR-0001,PAT-02926,2026-06-17,Fièvre,Anémie,30,M
+CSL-000139,STR-0015,PAT-03921,2025-11-08,Contrôle,Diarrhée aiguë,17,M
+CSL-000140,STR-0010,PAT-04223,2026-05-16,Suivi de grossesse,Plaie et traumatisme,32,M
+CSL-000141,STR-0014,PAT-03277,2026-04-19,Contrôle,Plaie et traumatisme,49,F
+CSL-000142,STR-0017,PAT-02185,2026-04-19,Fièvre,Malnutrition aiguë,10,F
+CSL-000143,STR-0010,PAT-03653,2026-05-26,Vaccination,Malnutrition aiguë,21,F
+CSL-000144,STR-0009,PAT-00470,2026-03-16,Fièvre,Malnutrition aiguë,46,M
+CSL-000145,STR-0002,PAT-01035,2026-03-14,Fièvre,Hypertension artérielle,82,F
+CSL-000146,STR-0012,PAT-03048,2026-03-08,Suivi de grossesse,Infection respiratoire aiguë,73,M
+CSL-000147,STR-0016,PAT-04242,2026-07-21,Suivi de grossesse,Infection respiratoire aiguë,33,F
+CSL-000148,STR-0015,PAT-01415,2026-09-17,Contrôle,Plaie et traumatisme,11,F
+CSL-000149,STR-0006,PAT-02962,2025-10-26,Vaccination,Hypertension artérielle,15,M
+CSL-000150,STR-0018,PAT-04689,2026-04-23,Douleurs abdominales,Plaie et traumatisme,70,M
+CSL-000151,STR-0019,PAT-00605,2026-03-29,Toux,Anémie,82,M
+CSL-000152,STR-0019,PAT-01491,2025-12-01,Toux,Malnutrition aiguë,64,M
+CSL-000153,STR-0006,PAT-02644,2026-08-01,Contrôle,Hypertension artérielle,44,F
+CSL-000154,STR-0009,PAT-01026,2026-01-15,Contrôle,Diabète,78,M
+CSL-000155,STR-0011,PAT-04618,2025-12-19,Fièvre,Paludisme simple,10,M
+CSL-000156,STR-0016,PAT-04470,2026-10-09,Douleurs abdominales,Diabète,61,M
+CSL-000157,STR-0015,PAT-01672,2026-02-19,Douleurs abdominales,Diarrhée aiguë,40,F
+CSL-000158,STR-0015,PAT-01004,2026-06-23,Douleurs abdominales,Plaie et traumatisme,31,M
+CSL-000159,STR-0014,PAT-02034,2025-12-13,Toux,Anémie,73,F
+CSL-000160,STR-0015,PAT-04086,2026-02-03,Douleurs abdominales,Plaie et traumatisme,2,M
+CSL-000161,STR-0002,PAT-02305,2026-09-30,Suivi de grossesse,Plaie et traumatisme,36,M
+CSL-000162,STR-0013,PAT-02998,2026-04-20,Fièvre,Malnutrition aiguë,6,M
+CSL-000163,STR-0009,PAT-00974,2026-01-16,Toux,Infection respiratoire aiguë,50,F
+CSL-000164,STR-0017,PAT-00330,2026-04-02,Fièvre,Paludisme simple,17,F
+CSL-000165,STR-0020,PAT-02610,2026-05-10,Toux,Malnutrition aiguë,78,F
+CSL-000166,STR-0012,PAT-02714,2026-10-16,Contrôle,Infection respiratoire aiguë,53,F
+CSL-000167,STR-0008,PAT-00421,2026-01-02,Vaccination,Plaie et traumatisme,21,F
+CSL-000168,STR-0019,PAT-00901,2026-10-08,Toux,Paludisme simple,56,F
+CSL-000169,STR-0016,PAT-00511,2025-12-15,Contrôle,Diarrhée aiguë,66,M
+CSL-000170,STR-0018,PAT-02903,2026-05-02,Contrôle,Diabète,78,F
+CSL-000171,STR-0008,PAT-02439,2026-05-25,Douleurs abdominales,Hypertension artérielle,88,F
+CSL-000172,STR-0004,PAT-04698,2026-05-30,Contrôle,Malnutrition aiguë,50,F
+CSL-000173,STR-0012,PAT-03624,2026-09-14,Contrôle,Diabète,61,M
+CSL-000174,STR-0009,PAT-01125,2026-01-10,Fièvre,Hypertension artérielle,31,M
+CSL-000175,STR-0004,PAT-01127,2026-02-25,Fièvre,Diarrhée aiguë,52,F
+CSL-000176,STR-0003,PAT-04704,2026-09-24,Toux,Paludisme simple,22,F
+CSL-000177,STR-0010,PAT-00307,2026-07-21,Fièvre,Diabète,72,M
+CSL-000178,STR-0017,PAT-03835,2026-08-17,Douleurs abdominales,Hypertension artérielle,14,F
+CSL-000179,STR-0006,PAT-00116,2026-06-15,Contrôle,Anémie,37,M
+CSL-000180,STR-0017,PAT-02687,2026-03-20,Fièvre,Malnutrition aiguë,85,M
+CSL-000181,STR-0001,PAT-02137,2026-06-19,Suivi de grossesse,Hypertension artérielle,57,F
+CSL-000182,STR-0012,PAT-01936,2025-11-24,Fièvre,Infection respiratoire aiguë,59,F
+CSL-000183,STR-0010,PAT-00962,2025-10-29,Contrôle,Diabète,47,M
+CSL-000184,STR-0020,PAT-03061,2026-03-06,Suivi de grossesse,Plaie et traumatisme,68,M
+CSL-000185,STR-0015,PAT-04327,2026-01-28,Contrôle,Anémie,9,M
+CSL-000186,STR-0019,PAT-04397,2026-07-13,Toux,Diarrhée aiguë,41,F
+CSL-000187,STR-0016,PAT-00745,2025-12-30,Vaccination,Plaie et traumatisme,7,F
+CSL-000188,STR-0002,PAT-04578,2026-01-09,Suivi de grossesse,Diabète,2,F
+CSL-000189,STR-0014,PAT-02823,2026-10-01,Contrôle,Infection respiratoire aiguë,69,M
+CSL-000190,STR-0006,PAT-01110,2026-03-29,Contrôle,Malnutrition aiguë,47,F
+CSL-000191,STR-0005,PAT-02849,2026-01-21,Fièvre,Diarrhée aiguë,68,F
+CSL-000192,STR-0014,PAT-04358,2026-01-19,Suivi de grossesse,Hypertension artérielle,31,F
+CSL-000193,STR-0014,PAT-00129,2025-11-20,Toux,Hypertension artérielle,8,M
+CSL-000194,STR-0015,PAT-01920,2026-04-02,Vaccination,Hypertension artérielle,7,M
+CSL-000195,STR-0010,PAT-01174,2026-06-25,Contrôle,Hypertension artérielle,52,F
+CSL-000196,STR-0014,PAT-04554,2025-11-11,Suivi de grossesse,Paludisme simple,44,F
+CSL-000197,STR-0008,PAT-01847,2026-02-24,Douleurs abdominales,Diarrhée aiguë,59,M
+CSL-000198,STR-0003,PAT-03685,2026-05-08,Douleurs abdominales,Infection respiratoire aiguë,68,M
+CSL-000199,STR-0020,PAT-00324,2025-12-19,Fièvre,Hypertension artérielle,75,M
+CSL-000200,STR-0016,PAT-01988,2026-08-25,Contrôle,Hypertension artérielle,50,M
+CSL-000201,STR-0017,PAT-04074,2026-04-23,Suivi de grossesse,Infection respiratoire aiguë,60,F
+CSL-000202,STR-0019,PAT-01813,2026-10-01,Contrôle,Diarrhée aiguë,2,F
+CSL-000203,STR-0019,PAT-02014,2026-04-13,Suivi de grossesse,Anémie,32,F
+CSL-000204,STR-0018,PAT-04001,2026-08-14,Toux,Paludisme simple,67,M
+CSL-000205,STR-0014,PAT-01127,2026-10-21,Contrôle,Hypertension artérielle,8,M
+CSL-000206,STR-0002,PAT-03959,2026-04-16,Contrôle,Plaie et traumatisme,2,M
+CSL-000207,STR-0017,PAT-03528,2026-10-16,Toux,Infection respiratoire aiguë,12,M
+CSL-000208,STR-0012,PAT-02190,2026-06-17,Suivi de grossesse,Infection respiratoire aiguë,47,F
+CSL-000209,STR-0002,PAT-00766,2026-09-13,Suivi de grossesse,Malnutrition aiguë,48,F
+CSL-000210,STR-0003,PAT-04095,2026-07-29,Suivi de grossesse,Anémie,72,M
+CSL-000211,STR-0009,PAT-04449,2026-09-16,Vaccination,Paludisme simple,22,F
+CSL-000212,STR-0013,PAT-00631,2025-10-25,Douleurs abdominales,Diarrhée aiguë,72,M
+CSL-000213,STR-0003,PAT-04103,2025-11-06,Contrôle,Anémie,6,M
+CSL-000214,STR-0011,PAT-00243,2026-04-04,Contrôle,Diabète,57,F
+CSL-000215,STR-0006,PAT-04800,2026-03-17,Contrôle,Malnutrition aiguë,10,F
+CSL-000216,STR-0005,PAT-03113,2026-06-09,Contrôle,Diarrhée aiguë,49,F
+CSL-000217,STR-0004,PAT-01086,2026-06-08,Fièvre,Diarrhée aiguë,55,F
+CSL-000218,STR-0020,PAT-02658,2025-12-23,Suivi de grossesse,Paludisme simple,37,F
+CSL-000219,STR-0006,PAT-03119,2026-01-31,Toux,Diarrhée aiguë,34,F
+CSL-000220,STR-0010,PAT-03967,2026-03-23,Fièvre,Anémie,32,M
+CSL-000221,STR-0013,PAT-02722,2026-10-21,Vaccination,Malnutrition aiguë,42,F
+CSL-000222,STR-0007,PAT-03925,2025-12-20,Douleurs abdominales,Diarrhée aiguë,50,F
+CSL-000223,STR-0013,PAT-02297,2026-05-11,Suivi de grossesse,Anémie,14,M
+CSL-000224,STR-0015,PAT-02387,2026-07-09,Contrôle,Infection respiratoire aiguë,52,F
+CSL-000225,STR-0005,PAT-03467,2026-06-17,Suivi de grossesse,Infection respiratoire aiguë,57,F
+CSL-000226,STR-0018,PAT-04865,2025-10-30,Contrôle,Infection respiratoire aiguë,13,M
+CSL-000227,STR-0013,PAT-02717,2025-11-27,Suivi de grossesse,Infection respiratoire aiguë,1,M
+CSL-000228,STR-0019,PAT-01811,2025-11-06,Suivi de grossesse,Anémie,50,F
+CSL-000229,STR-0003,PAT-00951,2026-03-26,Contrôle,Diarrhée aiguë,44,F
+CSL-000230,STR-0015,PAT-03707,2026-09-05,Douleurs abdominales,Infection respiratoire aiguë,38,M
+CSL-000231,STR-0017,PAT-01430,2026-06-22,Vaccination,Diarrhée aiguë,42,F
+CSL-000232,STR-0014,PAT-03241,2025-11-22,Fièvre,Hypertension artérielle,57,F
+CSL-000233,STR-0019,PAT-00834,2026-09-22,Vaccination,Diarrhée aiguë,46,F
+CSL-000234,STR-0016,PAT-04324,2025-11-15,Contrôle,Anémie,76,F
+CSL-000235,STR-0010,PAT-04835,2025-10-28,Fièvre,Diarrhée aiguë,40,M
+CSL-000236,STR-0005,PAT-04185,2026-04-16,Suivi de grossesse,Malnutrition aiguë,76,M
+CSL-000237,STR-0006,PAT-04012,2026-01-13,Douleurs abdominales,Diarrhée aiguë,23,F
+CSL-000238,STR-0013,PAT-04601,2026-07-17,Vaccination,Plaie et traumatisme,52,F
+CSL-000239,STR-0008,PAT-02393,2026-10-09,Fièvre,Diabète,28,F
+CSL-000240,STR-0018,PAT-04185,2026-02-13,Fièvre,Infection respiratoire aiguë,34,F
+CSL-000241,STR-0008,PAT-02439,2025-11-24,Fièvre,Plaie et traumatisme,33,F
+CSL-000242,STR-0019,PAT-02873,2026-07-09,Contrôle,Malnutrition aiguë,21,M
+CSL-000243,STR-0012,PAT-04361,2026-01-06,Douleurs abdominales,Diarrhée aiguë,41,F
+CSL-000244,STR-0002,PAT-02272,2026-03-28,Contrôle,Diarrhée aiguë,89,M
+CSL-000245,STR-0013,PAT-04010,2026-06-20,Toux,Diabète,80,F
+CSL-000246,STR-0009,PAT-03024,2026-02-03,Suivi de grossesse,Plaie et traumatisme,41,M
+CSL-000247,STR-0007,PAT-03520,2026-04-04,Toux,Plaie et traumatisme,34,F
+CSL-000248,STR-0002,PAT-00377,2026-05-02,Fièvre,Plaie et traumatisme,2,M
+CSL-000249,STR-0007,PAT-01081,2026-03-19,Contrôle,Diabète,20,F
+CSL-000250,STR-0012,PAT-01356,2026-09-12,Fièvre,Malnutrition aiguë,80,F
+CSL-000251,STR-0003,PAT-01088,2026-02-22,Vaccination,Hypertension artérielle,66,F
+CSL-000252,STR-0014,PAT-01083,2026-08-24,Suivi de grossesse,Infection respiratoire aiguë,29,F
+CSL-000253,STR-0012,PAT-02452,2026-05-17,Toux,Malnutrition aiguë,17,M
+CSL-000254,STR-0006,PAT-03606,2025-12-16,Douleurs abdominales,Hypertension artérielle,80,M
+CSL-000255,STR-0005,PAT-01009,2026-09-03,Vaccination,Malnutrition aiguë,44,F
+CSL-000256,STR-0018,PAT-04924,2026-06-19,Vaccination,Diabète,88,M
+CSL-000257,STR-0002,PAT-01961,2025-11-28,Suivi de grossesse,Malnutrition aiguë,14,M
+CSL-000258,STR-0005,PAT-03169,2026-05-15,Vaccination,Malnutrition aiguë,46,M
+CSL-000259,STR-0007,PAT-00327,2026-06-12,Fièvre,Malnutrition aiguë,64,F
+CSL-000260,STR-0020,PAT-01251,2026-01-22,Douleurs abdominales,Infection respiratoire aiguë,39,M
+CSL-000261,STR-0003,PAT-02541,2025-11-29,Contrôle,Malnutrition aiguë,30,M
+CSL-000262,STR-0020,PAT-04988,2026-03-06,Fièvre,Diabète,85,M
+CSL-000263,STR-0001,PAT-01343,2025-10-30,Suivi de grossesse,Anémie,66,F
+CSL-000264,STR-0004,PAT-00241,2026-06-09,Douleurs abdominales,Malnutrition aiguë,34,M
+CSL-000265,STR-0012,PAT-00455,2026-02-05,Suivi de grossesse,Diarrhée aiguë,47,M
+CSL-000266,STR-0017,PAT-00022,2026-06-30,Fièvre,Paludisme simple,31,M
+CSL-000267,STR-0014,PAT-01840,2025-11-23,Douleurs abdominales,Hypertension artérielle,53,F
+CSL-000268,STR-0002,PAT-01470,2025-11-14,Toux,Paludisme simple,51,M
+CSL-000269,STR-0001,PAT-03023,2026-03-05,Toux,Diabète,72,F
+CSL-000270,STR-0008,PAT-01234,2026-01-18,Fièvre,Malnutrition aiguë,3,M
+CSL-000271,STR-0004,PAT-01681,2026-05-20,Vaccination,Hypertension artérielle,53,F
+CSL-000272,STR-0002,PAT-01897,2026-09-07,Vaccination,Malnutrition aiguë,89,F
+CSL-000273,STR-0013,PAT-00614,2025-12-02,Vaccination,Paludisme simple,55,M
+CSL-000274,STR-0011,PAT-02606,2026-04-06,Suivi de grossesse,Diabète,29,M
+CSL-000275,STR-0004,PAT-01347,2026-08-06,Suivi de grossesse,Plaie et traumatisme,40,F
+CSL-000276,STR-0010,PAT-03796,2026-03-07,Douleurs abdominales,Infection respiratoire aiguë,11,M
+CSL-000277,STR-0008,PAT-02915,2026-09-08,Suivi de grossesse,Paludisme simple,86,F
+CSL-000278,STR-0008,PAT-00776,2026-01-16,Suivi de grossesse,Infection respiratoire aiguë,17,M
+CSL-000279,STR-0013,PAT-03050,2026-07-15,Contrôle,Infection respiratoire aiguë,74,F
+CSL-000280,STR-0015,PAT-01056,2025-11-28,Fièvre,Anémie,15,M
+CSL-000281,STR-0001,PAT-03136,2026-02-12,Contrôle,Malnutrition aiguë,22,F
+CSL-000282,STR-0005,PAT-00284,2026-03-10,Vaccination,Hypertension artérielle,82,F
+CSL-000283,STR-0005,PAT-03435,2026-04-11,Toux,Hypertension artérielle,80,M
+CSL-000284,STR-0019,PAT-04116,2026-05-01,Douleurs abdominales,Malnutrition aiguë,34,M
+CSL-000285,STR-0009,PAT-00480,2026-10-09,Suivi de grossesse,Anémie,74,M
+CSL-000286,STR-0009,PAT-04372,2026-06-23,Contrôle,Paludisme simple,28,F
+CSL-000287,STR-0012,PAT-04847,2025-11-01,Fièvre,Anémie,72,M
+CSL-000288,STR-0020,PAT-01793,2026-06-27,Fièvre,Plaie et traumatisme,0,F
+CSL-000289,STR-0005,PAT-00909,2025-12-28,Vaccination,Anémie,9,F
+CSL-000290,STR-0016,PAT-02600,2026-03-15,Toux,Anémie,28,M
+CSL-000291,STR-0019,PAT-03208,2026-10-24,Vaccination,Paludisme simple,23,F
+CSL-000292,STR-0012,PAT-02618,2026-06-25,Toux,Infection respiratoire aiguë,90,F
+CSL-000293,STR-0009,PAT-00886,2026-04-28,Contrôle,Paludisme simple,6,F
+CSL-000294,STR-0018,PAT-03075,2026-04-28,Fièvre,Plaie et traumatisme,73,M
+CSL-000295,STR-0001,PAT-02611,2026-05-27,Douleurs abdominales,Infection respiratoire aiguë,9,F
+CSL-000296,STR-0018,PAT-00763,2026-09-16,Douleurs abdominales,Plaie et traumatisme,90,M
+CSL-000297,STR-0011,PAT-01684,2026-09-03,Toux,Malnutrition aiguë,89,F
+CSL-000298,STR-0002,PAT-02956,2026-08-07,Fièvre,Malnutrition aiguë,11,F
+CSL-000299,STR-0003,PAT-03880,2026-05-28,Fièvre,Diabète,50,F
+CSL-000300,STR-0012,PAT-03125,2026-07-22,Douleurs abdominales,Diarrhée aiguë,57,M
+CSL-000301,STR-0005,PAT-00793,2026-09-23,Fièvre,Anémie,69,F
+CSL-000302,STR-0019,PAT-01931,2026-02-23,Suivi de grossesse,Diabète,10,F
+CSL-000303,STR-0006,PAT-01370,2026-03-09,Toux,Hypertension artérielle,16,M
+CSL-000304,STR-0009,PAT-02620,2025-12-24,Contrôle,Infection respiratoire aiguë,11,F
+CSL-000305,STR-0019,PAT-04281,2025-12-09,Suivi de grossesse,Infection respiratoire aiguë,53,M
+CSL-000306,STR-0004,PAT-04610,2026-09-03,Fièvre,Diabète,68,F
+CSL-000307,STR-0002,PAT-01411,2026-02-24,Douleurs abdominales,Malnutrition aiguë,18,F
+CSL-000308,STR-0002,PAT-03893,2026-06-25,Douleurs abdominales,Anémie,2,F
+CSL-000309,STR-0008,PAT-01101,2026-09-04,Douleurs abdominales,Plaie et traumatisme,41,F
+CSL-000310,STR-0017,PAT-03064,2026-02-18,Fièvre,Diarrhée aiguë,8,F
+CSL-000311,STR-0002,PAT-02044,2026-07-14,Fièvre,Plaie et traumatisme,6,F
+CSL-000312,STR-0001,PAT-01982,2025-11-10,Douleurs abdominales,Plaie et traumatisme,76,F
+CSL-000313,STR-0012,PAT-02821,2026-01-15,Toux,Diabète,88,M
+CSL-000314,STR-0008,PAT-01694,2026-07-03,Douleurs abdominales,Malnutrition aiguë,65,M
+CSL-000315,STR-0020,PAT-02503,2026-06-17,Contrôle,Diabète,54,F
+CSL-000316,STR-0020,PAT-03254,2026-01-31,Vaccination,Infection respiratoire aiguë,0,F
+CSL-000317,STR-0009,PAT-02664,2026-05-05,Douleurs abdominales,Diabète,83,F
+CSL-000318,STR-0020,PAT-03311,2026-09-25,Contrôle,Anémie,87,M
+CSL-000319,STR-0019,PAT-04687,2026-10-06,Toux,Anémie,28,F
+CSL-000320,STR-0016,PAT-01049,2026-09-05,Contrôle,Diabète,71,M
+CSL-000321,STR-0012,PAT-02135,2026-05-08,Vaccination,Diabète,59,M
+CSL-000322,STR-0007,PAT-04100,2026-02-25,Fièvre,Malnutrition aiguë,67,F
+CSL-000323,STR-0015,PAT-01174,2026-01-06,Douleurs abdominales,Diarrhée aiguë,10,F
+CSL-000324,STR-0009,PAT-01716,2026-03-07,Toux,Diarrhée aiguë,62,M
+CSL-000325,STR-0013,PAT-03515,2026-03-19,Suivi de grossesse,Malnutrition aiguë,0,M
+CSL-000326,STR-0008,PAT-01854,2026-10-22,Contrôle,Anémie,39,M
+CSL-000327,STR-0006,PAT-00535,2026-05-21,Fièvre,Diabète,37,F
+CSL-000328,STR-0007,PAT-01351,2026-04-24,Suivi de grossesse,Paludisme simple,29,M
+CSL-000329,STR-0002,PAT-03074,2025-10-25,Contrôle,Diabète,68,M
+CSL-000330,STR-0013,PAT-01013,2026-03-11,Vaccination,Diabète,60,M
+CSL-000331,STR-0010,PAT-03448,2026-10-20,Contrôle,Infection respiratoire aiguë,84,F
+CSL-000332,STR-0004,PAT-00871,2026-06-02,Suivi de grossesse,Hypertension artérielle,77,M
+CSL-000333,STR-0006,PAT-00323,2026-05-26,Vaccination,Plaie et traumatisme,26,F
+CSL-000334,STR-0016,PAT-01222,2026-01-04,Fièvre,Infection respiratoire aiguë,12,F
+CSL-000335,STR-0012,PAT-02562,2026-05-29,Suivi de grossesse,Infection respiratoire aiguë,12,M
+CSL-000336,STR-0006,PAT-02693,2025-11-27,Douleurs abdominales,Plaie et traumatisme,79,F
+CSL-000337,STR-0016,PAT-03455,2026-04-10,Contrôle,Diarrhée aiguë,14,M
+CSL-000338,STR-0006,PAT-03111,2026-03-14,Douleurs abdominales,Paludisme simple,87,M
+CSL-000339,STR-0011,PAT-00102,2026-06-13,Contrôle,Hypertension artérielle,85,F
+CSL-000340,STR-0012,PAT-03153,2026-02-20,Toux,Paludisme simple,1,M
+CSL-000341,STR-0011,PAT-02279,2026-06-23,Fièvre,Hypertension artérielle,70,F
+CSL-000342,STR-0003,PAT-04084,2026-03-09,Suivi de grossesse,Anémie,15,F
+CSL-000343,STR-0020,PAT-02496,2026-09-08,Vaccination,Hypertension artérielle,83,F
+CSL-000344,STR-0020,PAT-04915,2026-01-11,Suivi de grossesse,Anémie,57,M
+CSL-000345,STR-0011,PAT-02910,2026-10-23,Contrôle,Diabète,70,F
+CSL-000346,STR-0009,PAT-01605,2026-08-31,Toux,Infection respiratoire aiguë,50,M
+CSL-000347,STR-0019,PAT-01010,2026-10-01,Suivi de grossesse,Plaie et traumatisme,84,M
+CSL-000348,STR-0016,PAT-04165,2025-12-29,Toux,Diarrhée aiguë,16,M
+CSL-000349,STR-0020,PAT-02034,2026-03-24,Douleurs abdominales,Malnutrition aiguë,43,F
+CSL-000350,STR-0010,PAT-04488,2026-02-04,Douleurs abdominales,Hypertension artérielle,25,M
+CSL-000351,STR-0018,PAT-02641,2026-02-09,Contrôle,Infection respiratoire aiguë,45,F
+CSL-000352,STR-0001,PAT-04283,2026-03-22,Fièvre,Paludisme simple,48,M
+CSL-000353,STR-0006,PAT-02348,2026-06-10,Contrôle,Diabète,18,M
+CSL-000354,STR-0018,PAT-01838,2025-12-13,Contrôle,Malnutrition aiguë,30,F
+CSL-000355,STR-0009,PAT-01664,2026-10-18,Vaccination,Plaie et traumatisme,28,F
+CSL-000356,STR-0003,PAT-01532,2025-11-09,Toux,Infection respiratoire aiguë,48,M
+CSL-000357,STR-0001,PAT-02708,2026-06-16,Suivi de grossesse,Diarrhée aiguë,5,M
+CSL-000358,STR-0019,PAT-04507,2026-02-15,Douleurs abdominales,Infection respiratoire aiguë,90,F
+CSL-000359,STR-0003,PAT-02863,2026-04-01,Toux,Hypertension artérielle,84,F
+CSL-000360,STR-0018,PAT-00073,2026-02-23,Fièvre,Anémie,57,M
+CSL-000361,STR-0018,PAT-02317,2026-06-15,Fièvre,Anémie,65,F
+CSL-000362,STR-0004,PAT-01372,2026-09-12,Vaccination,Paludisme simple,80,M
+CSL-000363,STR-0014,PAT-00852,2025-11-08,Toux,Malnutrition aiguë,82,M
+CSL-000364,STR-0006,PAT-02064,2026-09-27,Vaccination,Infection respiratoire aiguë,73,M
+CSL-000365,STR-0001,PAT-03191,2026-05-16,Contrôle,Infection respiratoire aiguë,68,M
+CSL-000366,STR-0017,PAT-00870,2026-04-24,Douleurs abdominales,Diabète,77,M
+CSL-000367,STR-0006,PAT-04371,2026-02-24,Toux,Diarrhée aiguë,50,F
+CSL-000368,STR-0005,PAT-01010,2026-01-13,Fièvre,Paludisme simple,73,F
+CSL-000369,STR-0017,PAT-01167,2026-03-27,Toux,Diarrhée aiguë,28,F
+CSL-000370,STR-0002,PAT-04497,2026-01-07,Suivi de grossesse,Infection respiratoire aiguë,37,M
+CSL-000371,STR-0005,PAT-01922,2026-04-25,Fièvre,Diabète,79,M
+CSL-000372,STR-0020,PAT-02505,2026-05-09,Contrôle,Diarrhée aiguë,72,F
+CSL-000373,STR-0014,PAT-02267,2025-10-25,Douleurs abdominales,Diarrhée aiguë,86,F
+CSL-000374,STR-0004,PAT-01440,2026-01-15,Contrôle,Infection respiratoire aiguë,35,M
+CSL-000375,STR-0001,PAT-04767,2025-12-05,Vaccination,Malnutrition aiguë,75,M
+CSL-000376,STR-0016,PAT-01218,2026-01-21,Douleurs abdominales,Malnutrition aiguë,28,F
+CSL-000377,STR-0013,PAT-02981,2026-09-08,Vaccination,Paludisme simple,84,M
+CSL-000378,STR-0005,PAT-03961,2025-11-21,Douleurs abdominales,Paludisme simple,28,F
+CSL-000379,STR-0002,PAT-01694,2026-06-27,Vaccination,Anémie,49,F
+CSL-000380,STR-0009,PAT-02158,2026-01-31,Vaccination,Diarrhée aiguë,48,F
+CSL-000381,STR-0017,PAT-03325,2026-07-02,Douleurs abdominales,Anémie,62,F
+CSL-000382,STR-0007,PAT-01231,2026-06-03,Toux,Diarrhée aiguë,46,M
+CSL-000383,STR-0019,PAT-01321,2026-07-09,Contrôle,Malnutrition aiguë,2,M
+CSL-000384,STR-0005,PAT-04200,2026-08-03,Fièvre,Diarrhée aiguë,7,M
+CSL-000385,STR-0010,PAT-00703,2026-10-15,Toux,Plaie et traumatisme,77,F
+CSL-000386,STR-0020,PAT-04185,2026-07-23,Douleurs abdominales,Diarrhée aiguë,87,F
+CSL-000387,STR-0004,PAT-00136,2026-08-18,Toux,Malnutrition aiguë,19,M
+CSL-000388,STR-0018,PAT-04124,2026-10-05,Fièvre,Infection respiratoire aiguë,61,M
+CSL-000389,STR-0017,PAT-03515,2025-11-01,Toux,Plaie et traumatisme,48,F
+CSL-000390,STR-0003,PAT-02321,2026-06-27,Vaccination,Malnutrition aiguë,32,M
+CSL-000391,STR-0017,PAT-00966,2026-01-02,Vaccination,Paludisme simple,48,M
+CSL-000392,STR-0009,PAT-04392,2026-06-17,Suivi de grossesse,Anémie,78,F
+CSL-000393,STR-0016,PAT-02079,2026-01-13,Douleurs abdominales,Anémie,90,F
+CSL-000394,STR-0007,PAT-04165,2026-09-03,Suivi de grossesse,Anémie,70,M
+CSL-000395,STR-0005,PAT-03864,2026-09-08,Vaccination,Malnutrition aiguë,11,M
+CSL-000396,STR-0013,PAT-04269,2026-04-11,Douleurs abdominales,Paludisme simple,22,F
+CSL-000397,STR-0002,PAT-04912,2026-07-17,Vaccination,Hypertension artérielle,78,M
+CSL-000398,STR-0013,PAT-03322,2026-04-27,Vaccination,Hypertension artérielle,66,M
+CSL-000399,STR-0012,PAT-02266,2026-04-29,Toux,Hypertension artérielle,58,F
+CSL-000400,STR-0011,PAT-00959,2026-05-27,Vaccination,Diabète,68,F
+CSL-000401,STR-0019,PAT-00225,2026-03-03,Suivi de grossesse,Infection respiratoire aiguë,33,M
+CSL-000402,STR-0012,PAT-04232,2026-03-27,Vaccination,Paludisme simple,89,F
+CSL-000403,STR-0011,PAT-00623,2025-11-14,Vaccination,Diarrhée aiguë,60,F
+CSL-000404,STR-0016,PAT-01636,2026-07-19,Toux,Hypertension artérielle,33,M
+CSL-000405,STR-0005,PAT-00874,2026-04-25,Fièvre,Infection respiratoire aiguë,86,F
+CSL-000406,STR-0009,PAT-04021,2026-01-03,Toux,Diabète,50,M
+CSL-000407,STR-0013,PAT-01432,2026-04-30,Suivi de grossesse,Infection respiratoire aiguë,89,F
+CSL-000408,STR-0004,PAT-02666,2025-12-31,Douleurs abdominales,Diabète,23,F
+CSL-000409,STR-0012,PAT-01507,2026-05-02,Suivi de grossesse,Malnutrition aiguë,26,F
+CSL-000410,STR-0019,PAT-01873,2026-08-18,Fièvre,Diabète,30,F
+CSL-000411,STR-0014,PAT-04093,2026-07-26,Toux,Anémie,62,F
+CSL-000412,STR-0002,PAT-01766,2026-08-02,Douleurs abdominales,Plaie et traumatisme,80,M
+CSL-000413,STR-0009,PAT-02820,2026-01-12,Fièvre,Malnutrition aiguë,15,F
+CSL-000414,STR-0011,PAT-04182,2026-04-26,Suivi de grossesse,Plaie et traumatisme,10,F
+CSL-000415,STR-0020,PAT-04683,2025-12-05,Suivi de grossesse,Infection respiratoire aiguë,10,M
+CSL-000416,STR-0020,PAT-03240,2026-06-10,Douleurs abdominales,Plaie et traumatisme,46,F
+CSL-000417,STR-0009,PAT-00656,2025-11-20,Toux,Diarrhée aiguë,50,M
+CSL-000418,STR-0001,PAT-03253,2026-09-27,Vaccination,Infection respiratoire aiguë,13,F
+CSL-000419,STR-0005,PAT-01076,2026-03-12,Vaccination,Diarrhée aiguë,3,M
+CSL-000420,STR-0018,PAT-01451,2025-11-01,Vaccination,Plaie et traumatisme,80,F
+CSL-000421,STR-0010,PAT-02997,2026-03-12,Suivi de grossesse,Diabète,19,F
+CSL-000422,STR-0010,PAT-03844,2026-05-01,Vaccination,Paludisme simple,88,F
+CSL-000423,STR-0001,PAT-04491,2026-06-28,Douleurs abdominales,Hypertension artérielle,52,F
+CSL-000424,STR-0008,PAT-02155,2026-04-14,Fièvre,Malnutrition aiguë,80,M
+CSL-000425,STR-0014,PAT-01541,2026-06-09,Fièvre,Diarrhée aiguë,17,F
+CSL-000426,STR-0009,PAT-04031,2026-03-07,Toux,Anémie,2,M
+CSL-000427,STR-0010,PAT-02206,2026-09-02,Toux,Plaie et traumatisme,1,M
+CSL-000428,STR-0011,PAT-03443,2026-07-05,Douleurs abdominales,Plaie et traumatisme,47,F
+CSL-000429,STR-0016,PAT-01488,2026-01-19,Toux,Diabète,48,M
+CSL-000430,STR-0015,PAT-02025,2026-04-10,Contrôle,Paludisme simple,25,F
+CSL-000431,STR-0006,PAT-00346,2026-05-12,Contrôle,Infection respiratoire aiguë,32,F
+CSL-000432,STR-0011,PAT-00124,2026-03-16,Toux,Diabète,74,M
+CSL-000433,STR-0020,PAT-01270,2026-02-23,Douleurs abdominales,Infection respiratoire aiguë,31,M
+CSL-000434,STR-0012,PAT-01261,2026-09-24,Contrôle,Infection respiratoire aiguë,16,F
+CSL-000435,STR-0015,PAT-01581,2026-04-30,Fièvre,Malnutrition aiguë,45,M
+CSL-000436,STR-0016,PAT-01555,2026-01-20,Vaccination,Diarrhée aiguë,69,F
+CSL-000437,STR-0003,PAT-04352,2026-08-03,Toux,Plaie et traumatisme,37,F
+CSL-000438,STR-0020,PAT-02983,2026-10-15,Vaccination,Hypertension artérielle,41,M
+CSL-000439,STR-0010,PAT-02643,2025-12-15,Suivi de grossesse,Anémie,14,M
+CSL-000440,STR-0016,PAT-01570,2026-08-31,Fièvre,Paludisme simple,73,F
+CSL-000441,STR-0003,PAT-00108,2025-12-18,Toux,Plaie et traumatisme,10,F
+CSL-000442,STR-0009,PAT-04334,2025-12-13,Fièvre,Infection respiratoire aiguë,38,M
+CSL-000443,STR-0018,PAT-03157,2026-06-28,Toux,Hypertension artérielle,67,M
+CSL-000444,STR-0012,PAT-03758,2026-01-02,Contrôle,Malnutrition aiguë,13,M
+CSL-000445,STR-0006,PAT-04374,2026-05-05,Vaccination,Plaie et traumatisme,45,F
+CSL-000446,STR-0008,PAT-04614,2025-12-17,Vaccination,Hypertension artérielle,48,F
+CSL-000447,STR-0020,PAT-00134,2026-06-01,Vaccination,Diarrhée aiguë,38,M
+CSL-000448,STR-0017,PAT-04558,2026-01-14,Vaccination,Diarrhée aiguë,12,M
+CSL-000449,STR-0008,PAT-02100,2026-06-19,Douleurs abdominales,Infection respiratoire aiguë,73,F
+CSL-000450,STR-0019,PAT-00782,2025-10-30,Vaccination,Diabète,4,F
+CSL-000451,STR-0014,PAT-03413,2026-04-29,Fièvre,Hypertension artérielle,83,M
+CSL-000452,STR-0005,PAT-02678,2026-01-08,Vaccination,Hypertension artérielle,19,M
+CSL-000453,STR-0010,PAT-03231,2026-03-17,Toux,Diarrhée aiguë,43,M
+CSL-000454,STR-0013,PAT-04111,2026-09-11,Suivi de grossesse,Diarrhée aiguë,17,F
+CSL-000455,STR-0008,PAT-01986,2026-01-29,Fièvre,Diabète,55,F
+CSL-000456,STR-0012,PAT-04866,2026-05-13,Contrôle,Paludisme simple,39,M
+CSL-000457,STR-0007,PAT-03063,2026-06-27,Toux,Infection respiratoire aiguë,14,M
+CSL-000458,STR-0011,PAT-00912,2026-10-17,Douleurs abdominales,Plaie et traumatisme,60,M
+CSL-000459,STR-0009,PAT-04496,2026-01-30,Suivi de grossesse,Diarrhée aiguë,88,M
+CSL-000460,STR-0010,PAT-01645,2026-09-24,Contrôle,Diabète,6,F
+CSL-000461,STR-0001,PAT-02397,2026-08-30,Contrôle,Malnutrition aiguë,29,F
+CSL-000462,STR-0015,PAT-04594,2026-02-10,Contrôle,Paludisme simple,5,M
+CSL-000463,STR-0012,PAT-02477,2026-04-27,Toux,Diabète,7,F
+CSL-000464,STR-0013,PAT-01125,2026-05-03,Fièvre,Malnutrition aiguë,66,M
+CSL-000465,STR-0015,PAT-04442,2026-05-09,Toux,Hypertension artérielle,83,M
+CSL-000466,STR-0014,PAT-01190,2026-08-16,Contrôle,Diarrhée aiguë,40,M
+CSL-000467,STR-0014,PAT-02486,2026-03-27,Suivi de grossesse,Diabète,19,M
+CSL-000468,STR-0020,PAT-02187,2025-12-15,Vaccination,Hypertension artérielle,76,M
+CSL-000469,STR-0016,PAT-01099,2026-09-14,Vaccination,Plaie et traumatisme,83,F
+CSL-000470,STR-0005,PAT-01342,2026-02-24,Toux,Hypertension artérielle,4,F
+CSL-000471,STR-0007,PAT-01676,2025-11-15,Fièvre,Diarrhée aiguë,56,F
+CSL-000472,STR-0013,PAT-04686,2026-05-17,Vaccination,Paludisme simple,66,M
+CSL-000473,STR-0018,PAT-03174,2026-10-04,Vaccination,Paludisme simple,24,F
+CSL-000474,STR-0020,PAT-00447,2026-05-27,Contrôle,Diarrhée aiguë,59,F
+CSL-000475,STR-0019,PAT-04477,2026-07-24,Toux,Malnutrition aiguë,52,F
+CSL-000476,STR-0003,PAT-02049,2026-03-06,Douleurs abdominales,Diarrhée aiguë,15,M
+CSL-000477,STR-0003,PAT-04292,2026-04-22,Contrôle,Malnutrition aiguë,65,M
+CSL-000478,STR-0005,PAT-01329,2026-01-08,Toux,Diarrhée aiguë,6,F
+CSL-000479,STR-0005,PAT-01662,2026-08-25,Fièvre,Diabète,1,F
+CSL-000480,STR-0008,PAT-01777,2026-02-14,Vaccination,Plaie et traumatisme,58,F
+CSL-000481,STR-0020,PAT-04568,2026-06-04,Toux,Paludisme simple,23,M
+CSL-000482,STR-0002,PAT-04736,2026-08-11,Vaccination,Diabète,42,M
+CSL-000483,STR-0010,PAT-04874,2026-08-03,Vaccination,Diarrhée aiguë,58,F
+CSL-000484,STR-0013,PAT-00555,2026-04-19,Suivi de grossesse,Infection respiratoire aiguë,37,F
+CSL-000485,STR-0017,PAT-03390,2026-05-09,Vaccination,Hypertension artérielle,89,M
+CSL-000486,STR-0020,PAT-02353,2025-11-06,Suivi de grossesse,Anémie,33,F
+CSL-000487,STR-0016,PAT-04035,2026-01-31,Toux,Hypertension artérielle,90,F
+CSL-000488,STR-0004,PAT-01699,2026-02-28,Vaccination,Malnutrition aiguë,52,M
+CSL-000489,STR-0010,PAT-02085,2026-07-13,Fièvre,Diabète,38,F
+CSL-000490,STR-0013,PAT-04661,2026-05-03,Vaccination,Paludisme simple,22,M
+CSL-000491,STR-0005,PAT-03945,2025-11-28,Toux,Plaie et traumatisme,68,F
+CSL-000492,STR-0011,PAT-04549,2026-01-08,Vaccination,Paludisme simple,26,F
+CSL-000493,STR-0018,PAT-01360,2026-04-15,Vaccination,Malnutrition aiguë,23,M
+CSL-000494,STR-0016,PAT-01947,2026-09-10,Douleurs abdominales,Plaie et traumatisme,38,M
+CSL-000495,STR-0016,PAT-04097,2026-10-12,Toux,Hypertension artérielle,43,F
+CSL-000496,STR-0005,PAT-01681,2025-11-12,Contrôle,Paludisme simple,58,F
+CSL-000497,STR-0015,PAT-00378,2026-05-07,Fièvre,Diabète,2,F
+CSL-000498,STR-0004,PAT-02234,2025-11-15,Toux,Diarrhée aiguë,35,M
+CSL-000499,STR-0007,PAT-04445,2026-09-02,Douleurs abdominales,Anémie,34,M
+CSL-000500,STR-0015,PAT-00416,2026-01-21,Toux,Paludisme simple,60,M
+CSL-000501,STR-0013,PAT-01467,2026-03-20,Contrôle,Plaie et traumatisme,78,F
+CSL-000502,STR-0015,PAT-04652,2026-09-14,Toux,Infection respiratoire aiguë,89,F
+CSL-000503,STR-0015,PAT-03855,2025-11-29,Toux,Hypertension artérielle,18,F
+CSL-000504,STR-0016,PAT-00248,2026-03-06,Fièvre,Plaie et traumatisme,14,F
+CSL-000505,STR-0005,PAT-04162,2026-01-03,Fièvre,Malnutrition aiguë,13,F
+CSL-000506,STR-0008,PAT-04489,2025-12-11,Toux,Plaie et traumatisme,49,M
+CSL-000507,STR-0018,PAT-01935,2026-05-02,Toux,Infection respiratoire aiguë,73,F
+CSL-000508,STR-0018,PAT-00800,2026-05-11,Suivi de grossesse,Diarrhée aiguë,39,F
+CSL-000509,STR-0013,PAT-02683,2025-12-23,Suivi de grossesse,Paludisme simple,11,M
+CSL-000510,STR-0005,PAT-03711,2026-08-10,Vaccination,Diabète,49,F
+CSL-000511,STR-0019,PAT-02495,2026-05-24,Suivi de grossesse,Anémie,11,M
+CSL-000512,STR-0018,PAT-02943,2026-10-24,Fièvre,Diabète,3,M
+CSL-000513,STR-0013,PAT-03126,2026-04-12,Suivi de grossesse,Hypertension artérielle,84,M
+CSL-000514,STR-0010,PAT-01029,2026-08-07,Toux,Paludisme simple,9,M
+CSL-000515,STR-0005,PAT-00694,2026-03-15,Toux,Malnutrition aiguë,58,F
+CSL-000516,STR-0014,PAT-04953,2026-07-21,Fièvre,Plaie et traumatisme,30,F
+CSL-000517,STR-0012,PAT-00928,2026-02-19,Vaccination,Plaie et traumatisme,88,M
+CSL-000518,STR-0015,PAT-04235,2026-06-03,Fièvre,Infection respiratoire aiguë,31,F
+CSL-000519,STR-0002,PAT-02815,2025-12-15,Vaccination,Paludisme simple,60,F
+CSL-000520,STR-0002,PAT-04896,2026-07-31,Contrôle,Diabète,72,F
+CSL-000521,STR-0019,PAT-00423,2026-07-30,Contrôle,Diabète,79,M
+CSL-000522,STR-0005,PAT-02302,2026-06-17,Douleurs abdominales,Diabète,1,M
+CSL-000523,STR-0008,PAT-03973,2025-10-31,Toux,Paludisme simple,43,M
+CSL-000524,STR-0013,PAT-01950,2026-03-27,Contrôle,Plaie et traumatisme,81,M
+CSL-000525,STR-0009,PAT-00951,2026-09-27,Fièvre,Diarrhée aiguë,59,F
+CSL-000526,STR-0013,PAT-03888,2026-04-13,Douleurs abdominales,Diarrhée aiguë,67,F
+CSL-000527,STR-0011,PAT-04344,2025-11-11,Contrôle,Paludisme simple,12,F
+CSL-000528,STR-0009,PAT-04786,2026-09-04,Suivi de grossesse,Plaie et traumatisme,86,M
+CSL-000529,STR-0001,PAT-00070,2026-01-17,Fièvre,Paludisme simple,52,M
+CSL-000530,STR-0001,PAT-00754,2026-10-07,Fièvre,Hypertension artérielle,76,M
+CSL-000531,STR-0004,PAT-01510,2026-07-22,Douleurs abdominales,Diabète,59,M
+CSL-000532,STR-0002,PAT-03136,2026-06-05,Suivi de grossesse,Anémie,7,F
+CSL-000533,STR-0006,PAT-04031,2026-04-06,Fièvre,Diarrhée aiguë,69,F
+CSL-000534,STR-0009,PAT-00847,2026-03-12,Fièvre,Infection respiratoire aiguë,9,F
+CSL-000535,STR-0013,PAT-02183,2026-10-05,Toux,Anémie,50,M
+CSL-000536,STR-0001,PAT-03150,2026-07-01,Contrôle,Plaie et traumatisme,15,F
+CSL-000537,STR-0012,PAT-04380,2026-09-08,Douleurs abdominales,Infection respiratoire aiguë,58,F
+CSL-000538,STR-0004,PAT-02944,2026-04-08,Suivi de grossesse,Infection respiratoire aiguë,80,F
+CSL-000539,STR-0003,PAT-04429,2026-04-08,Contrôle,Diabète,63,F
+CSL-000540,STR-0002,PAT-03322,2026-05-05,Fièvre,Hypertension artérielle,83,F
+CSL-000541,STR-0016,PAT-00157,2026-08-13,Suivi de grossesse,Paludisme simple,31,M
+CSL-000542,STR-0004,PAT-03738,2026-05-20,Vaccination,Diarrhée aiguë,75,M
+CSL-000543,STR-0008,PAT-00517,2025-12-13,Toux,Malnutrition aiguë,43,F
+CSL-000544,STR-0002,PAT-04859,2026-07-07,Toux,Anémie,8,M
+CSL-000545,STR-0015,PAT-01996,2026-08-01,Vaccination,Paludisme simple,17,M
+CSL-000546,STR-0019,PAT-02325,2026-09-09,Suivi de grossesse,Plaie et traumatisme,88,M
+CSL-000547,STR-0015,PAT-03376,2026-01-30,Toux,Diarrhée aiguë,78,M
+CSL-000548,STR-0001,PAT-04569,2026-03-24,Toux,Hypertension artérielle,15,M
+CSL-000549,STR-0007,PAT-00924,2026-09-27,Toux,Plaie et traumatisme,63,M
+CSL-000550,STR-0012,PAT-02336,2025-11-28,Toux,Malnutrition aiguë,32,F
+CSL-000551,STR-0016,PAT-04219,2026-10-10,Fièvre,Infection respiratoire aiguë,30,F
+CSL-000552,STR-0008,PAT-00804,2026-05-11,Toux,Malnutrition aiguë,25,F
+CSL-000553,STR-0002,PAT-03571,2026-02-18,Toux,Hypertension artérielle,78,F
+CSL-000554,STR-0007,PAT-02938,2026-03-04,Douleurs abdominales,Hypertension artérielle,42,M
+CSL-000555,STR-0005,PAT-00911,2026-06-03,Suivi de grossesse,Plaie et traumatisme,53,M
+CSL-000556,STR-0019,PAT-04529,2026-07-29,Toux,Infection respiratoire aiguë,52,F
+CSL-000557,STR-0001,PAT-03508,2026-06-04,Contrôle,Hypertension artérielle,31,F
+CSL-000558,STR-0002,PAT-00329,2026-03-25,Suivi de grossesse,Paludisme simple,54,F
+CSL-000559,STR-0018,PAT-00102,2026-09-12,Contrôle,Malnutrition aiguë,27,M
+CSL-000560,STR-0010,PAT-01326,2025-11-16,Contrôle,Plaie et traumatisme,73,M
+CSL-000561,STR-0015,PAT-00012,2025-12-08,Contrôle,Infection respiratoire aiguë,49,F
+CSL-000562,STR-0003,PAT-02751,2026-07-10,Contrôle,Paludisme simple,65,F
+CSL-000563,STR-0020,PAT-00335,2026-02-28,Douleurs abdominales,Anémie,22,M
+CSL-000564,STR-0007,PAT-01847,2025-12-31,Douleurs abdominales,Anémie,34,F
+CSL-000565,STR-0017,PAT-01006,2026-02-10,Suivi de grossesse,Diabète,57,F
+CSL-000566,STR-0004,PAT-01350,2026-09-15,Douleurs abdominales,Infection respiratoire aiguë,89,M
+CSL-000567,STR-0018,PAT-01082,2026-03-25,Suivi de grossesse,Anémie,53,F
+CSL-000568,STR-0011,PAT-03373,2025-11-28,Vaccination,Anémie,83,F
+CSL-000569,STR-0010,PAT-04647,2026-03-04,Toux,Diabète,21,F
+CSL-000570,STR-0005,PAT-02893,2026-09-30,Douleurs abdominales,Plaie et traumatisme,21,M
+CSL-000571,STR-0004,PAT-00338,2026-06-25,Douleurs abdominales,Diarrhée aiguë,56,F
+CSL-000572,STR-0012,PAT-01212,2026-05-15,Douleurs abdominales,Plaie et traumatisme,69,M
+CSL-000573,STR-0018,PAT-04157,2026-10-22,Douleurs abdominales,Diabète,60,F
+CSL-000574,STR-0002,PAT-01143,2026-02-21,Contrôle,Infection respiratoire aiguë,39,M
+CSL-000575,STR-0020,PAT-01599,2026-09-26,Vaccination,Hypertension artérielle,35,M
+CSL-000576,STR-0003,PAT-04193,2025-11-12,Suivi de grossesse,Hypertension artérielle,62,F
+CSL-000577,STR-0013,PAT-03055,2026-04-18,Fièvre,Diabète,44,F
+CSL-000578,STR-0015,PAT-02365,2026-03-26,Toux,Malnutrition aiguë,53,M
+CSL-000579,STR-0019,PAT-03079,2026-09-21,Fièvre,Paludisme simple,52,F
+CSL-000580,STR-0006,PAT-03128,2026-07-14,Douleurs abdominales,Plaie et traumatisme,5,F
+CSL-000581,STR-0010,PAT-03872,2026-06-12,Fièvre,Diabète,53,M
+CSL-000582,STR-0003,PAT-04907,2026-02-14,Contrôle,Anémie,74,F
+CSL-000583,STR-0019,PAT-00144,2026-02-04,Douleurs abdominales,Diarrhée aiguë,74,M
+CSL-000584,STR-0012,PAT-01338,2026-08-16,Fièvre,Diabète,46,F
+CSL-000585,STR-0006,PAT-00775,2025-12-07,Vaccination,Diarrhée aiguë,69,F
+CSL-000586,STR-0012,PAT-00786,2025-11-06,Vaccination,Anémie,18,M
+CSL-000587,STR-0014,PAT-02788,2026-02-18,Toux,Infection respiratoire aiguë,27,M
+CSL-000588,STR-0004,PAT-03419,2026-01-15,Suivi de grossesse,Infection respiratoire aiguë,14,M
+CSL-000589,STR-0012,PAT-01139,2025-11-05,Suivi de grossesse,Anémie,22,F
+CSL-000590,STR-0005,PAT-01857,2026-08-20,Douleurs abdominales,Diarrhée aiguë,26,M
+CSL-000591,STR-0001,PAT-03968,2026-09-15,Suivi de grossesse,Paludisme simple,25,M
+CSL-000592,STR-0002,PAT-03843,2025-12-25,Fièvre,Diabète,5,M
+CSL-000593,STR-0019,PAT-01639,2026-07-11,Toux,Anémie,3,M
+CSL-000594,STR-0012,PAT-02886,2026-01-01,Toux,Hypertension artérielle,64,M
+CSL-000595,STR-0007,PAT-01570,2026-01-27,Douleurs abdominales,Diarrhée aiguë,68,M
+CSL-000596,STR-0015,PAT-00880,2026-07-22,Toux,Anémie,48,F
+CSL-000597,STR-0011,PAT-01013,2026-08-28,Suivi de grossesse,Infection respiratoire aiguë,66,M
+CSL-000598,STR-0003,PAT-02688,2026-10-04,Suivi de grossesse,Infection respiratoire aiguë,49,F
+CSL-000599,STR-0014,PAT-02381,2026-01-14,Suivi de grossesse,Hypertension artérielle,8,F
+CSL-000600,STR-0003,PAT-00977,2026-01-30,Toux,Malnutrition aiguë,51,M
+CSL-000601,STR-0014,PAT-04089,2026-06-27,Douleurs abdominales,Diabète,82,F
+CSL-000602,STR-0005,PAT-03725,2026-06-04,Fièvre,Infection respiratoire aiguë,32,F
+CSL-000603,STR-0003,PAT-04081,2026-09-27,Contrôle,Paludisme simple,22,F
+CSL-000604,STR-0016,PAT-03818,2026-01-31,Toux,Diabète,84,F
+CSL-000605,STR-0002,PAT-03526,2026-10-15,Fièvre,Malnutrition aiguë,57,F
+CSL-000606,STR-0010,PAT-01345,2025-11-21,Suivi de grossesse,Malnutrition aiguë,17,F
+CSL-000607,STR-0019,PAT-03849,2026-01-21,Suivi de grossesse,Diarrhée aiguë,64,M
+CSL-000608,STR-0010,PAT-02626,2026-04-27,Fièvre,Paludisme simple,75,M
+CSL-000609,STR-0001,PAT-02796,2025-12-30,Suivi de grossesse,Infection respiratoire aiguë,54,F
+CSL-000610,STR-0010,PAT-04855,2026-06-26,Fièvre,Infection respiratoire aiguë,39,M
+CSL-000611,STR-0014,PAT-04654,2025-11-22,Vaccination,Malnutrition aiguë,34,M
+CSL-000612,STR-0016,PAT-00820,2026-09-04,Contrôle,Hypertension artérielle,43,F
+CSL-000613,STR-0003,PAT-04390,2026-02-12,Toux,Diabète,33,M
+CSL-000614,STR-0004,PAT-04849,2026-01-01,Douleurs abdominales,Diabète,8,F
+CSL-000615,STR-0014,PAT-04424,2026-05-24,Douleurs abdominales,Hypertension artérielle,53,F
+CSL-000616,STR-0017,PAT-01529,2026-10-15,Vaccination,Plaie et traumatisme,27,F
+CSL-000617,STR-0002,PAT-04279,2025-12-08,Toux,Anémie,59,M
+CSL-000618,STR-0014,PAT-03361,2026-05-24,Douleurs abdominales,Infection respiratoire aiguë,81,M
+CSL-000619,STR-0008,PAT-03325,2025-12-21,Toux,Infection respiratoire aiguë,19,M
+CSL-000620,STR-0018,PAT-03573,2026-02-18,Suivi de grossesse,Paludisme simple,25,M
+CSL-000621,STR-0006,PAT-00346,2026-01-16,Contrôle,Plaie et traumatisme,2,M
+CSL-000622,STR-0014,PAT-02978,2026-09-22,Contrôle,Infection respiratoire aiguë,50,M
+CSL-000623,STR-0004,PAT-04276,2026-02-10,Contrôle,Diabète,63,M
+CSL-000624,STR-0019,PAT-03195,2026-05-09,Contrôle,Hypertension artérielle,54,M
+CSL-000625,STR-0015,PAT-03346,2026-06-06,Douleurs abdominales,Paludisme simple,62,F
+CSL-000626,STR-0016,PAT-03013,2026-04-22,Douleurs abdominales,Paludisme simple,82,M
+CSL-000627,STR-0012,PAT-01000,2026-05-19,Vaccination,Hypertension artérielle,56,F
+CSL-000628,STR-0008,PAT-02437,2026-09-08,Toux,Diarrhée aiguë,56,F
+CSL-000629,STR-0014,PAT-00823,2026-05-07,Toux,Diabète,64,M
+CSL-000630,STR-0015,PAT-00225,2026-05-10,Fièvre,Diarrhée aiguë,80,F
+CSL-000631,STR-0006,PAT-02045,2026-08-29,Vaccination,Diarrhée aiguë,76,F
+CSL-000632,STR-0019,PAT-02684,2025-11-07,Douleurs abdominales,Hypertension artérielle,10,F
+CSL-000633,STR-0001,PAT-04576,2026-10-14,Contrôle,Hypertension artérielle,11,F
+CSL-000634,STR-0013,PAT-03514,2026-09-29,Vaccination,Diabète,19,M
+CSL-000635,STR-0015,PAT-04049,2026-03-16,Fièvre,Hypertension artérielle,26,M
+CSL-000636,STR-0020,PAT-01766,2026-07-11,Douleurs abdominales,Hypertension artérielle,53,M
+CSL-000637,STR-0015,PAT-02035,2025-12-12,Douleurs abdominales,Plaie et traumatisme,10,M
+CSL-000638,STR-0014,PAT-04893,2026-04-11,Douleurs abdominales,Infection respiratoire aiguë,12,M
+CSL-000639,STR-0020,PAT-04901,2026-04-26,Contrôle,Paludisme simple,0,F
+CSL-000640,STR-0006,PAT-02133,2025-12-31,Toux,Plaie et traumatisme,43,F
+CSL-000641,STR-0014,PAT-01162,2026-01-26,Douleurs abdominales,Infection respiratoire aiguë,40,M
+CSL-000642,STR-0014,PAT-02318,2026-04-23,Douleurs abdominales,Diabète,66,F
+CSL-000643,STR-0015,PAT-00436,2025-11-22,Toux,Diarrhée aiguë,6,M
+CSL-000644,STR-0015,PAT-03576,2026-08-02,Fièvre,Plaie et traumatisme,5,F
+CSL-000645,STR-0004,PAT-02864,2026-08-10,Fièvre,Hypertension artérielle,36,M
+CSL-000646,STR-0019,PAT-01740,2026-01-09,Vaccination,Paludisme simple,67,M
+CSL-000647,STR-0010,PAT-01000,2026-10-11,Suivi de grossesse,Anémie,75,M
+CSL-000648,STR-0015,PAT-02207,2026-02-21,Vaccination,Paludisme simple,42,M
+CSL-000649,STR-0010,PAT-02648,2025-11-29,Fièvre,Infection respiratoire aiguë,70,F
+CSL-000650,STR-0013,PAT-00731,2026-06-24,Fièvre,Hypertension artérielle,20,F
+CSL-000651,STR-0014,PAT-02541,2026-02-15,Contrôle,Diarrhée aiguë,45,M
+CSL-000652,STR-0019,PAT-04918,2026-06-09,Suivi de grossesse,Infection respiratoire aiguë,54,F
+CSL-000653,STR-0008,PAT-01271,2025-11-12,Suivi de grossesse,Infection respiratoire aiguë,37,F
+CSL-000654,STR-0008,PAT-04286,2026-05-24,Suivi de grossesse,Diabète,72,M
+CSL-000655,STR-0019,PAT-02076,2025-11-20,Douleurs abdominales,Diabète,74,M
+CSL-000656,STR-0003,PAT-03410,2026-10-01,Contrôle,Diabète,40,F
+CSL-000657,STR-0009,PAT-00872,2025-12-19,Suivi de grossesse,Paludisme simple,0,F
+CSL-000658,STR-0015,PAT-03319,2026-02-22,Contrôle,Plaie et traumatisme,38,F
+CSL-000659,STR-0004,PAT-00131,2026-07-19,Contrôle,Hypertension artérielle,3,M
+CSL-000660,STR-0007,PAT-00706,2026-01-22,Douleurs abdominales,Plaie et traumatisme,18,F
+CSL-000661,STR-0016,PAT-03863,2026-03-11,Fièvre,Plaie et traumatisme,74,M
+CSL-000662,STR-0011,PAT-00065,2026-09-28,Fièvre,Malnutrition aiguë,53,F
+CSL-000663,STR-0019,PAT-03997,2026-02-04,Toux,Paludisme simple,67,M
+CSL-000664,STR-0016,PAT-00958,2026-03-25,Suivi de grossesse,Anémie,57,F
+CSL-000665,STR-0016,PAT-02817,2026-07-18,Suivi de grossesse,Hypertension artérielle,64,M
+CSL-000666,STR-0013,PAT-03415,2025-10-25,Contrôle,Anémie,60,M
+CSL-000667,STR-0006,PAT-04963,2026-07-14,Suivi de grossesse,Infection respiratoire aiguë,53,F
+CSL-000668,STR-0012,PAT-01300,2026-06-13,Toux,Paludisme simple,8,F
+CSL-000669,STR-0009,PAT-02788,2026-02-17,Douleurs abdominales,Paludisme simple,71,F
+CSL-000670,STR-0004,PAT-00414,2025-12-19,Suivi de grossesse,Plaie et traumatisme,14,M
+CSL-000671,STR-0012,PAT-01287,2026-07-11,Contrôle,Diabète,90,F
+CSL-000672,STR-0015,PAT-03406,2026-07-13,Fièvre,Hypertension artérielle,60,F
+CSL-000673,STR-0012,PAT-02011,2026-03-26,Toux,Malnutrition aiguë,29,M
+CSL-000674,STR-0001,PAT-03626,2026-04-22,Toux,Paludisme simple,66,M
+CSL-000675,STR-0014,PAT-00504,2026-08-01,Suivi de grossesse,Paludisme simple,84,M
+CSL-000676,STR-0018,PAT-02494,2025-11-10,Contrôle,Anémie,44,M
+CSL-000677,STR-0007,PAT-04460,2025-11-29,Vaccination,Plaie et traumatisme,89,F
+CSL-000678,STR-0017,PAT-04431,2026-08-21,Douleurs abdominales,Hypertension artérielle,11,F
+CSL-000679,STR-0014,PAT-04140,2026-05-22,Fièvre,Paludisme simple,47,F
+CSL-000680,STR-0015,PAT-02777,2026-10-22,Toux,Hypertension artérielle,44,F
+CSL-000681,STR-0017,PAT-02029,2026-04-14,Fièvre,Anémie,66,M
+CSL-000682,STR-0003,PAT-00510,2026-09-13,Suivi de grossesse,Diarrhée aiguë,60,M
+CSL-000683,STR-0017,PAT-03235,2026-01-11,Douleurs abdominales,Plaie et traumatisme,81,F
+CSL-000684,STR-0005,PAT-03972,2026-02-08,Contrôle,Plaie et traumatisme,16,M
+CSL-000685,STR-0014,PAT-00904,2025-12-20,Fièvre,Anémie,73,F
+CSL-000686,STR-0010,PAT-03068,2026-04-17,Douleurs abdominales,Diabète,62,M
+CSL-000687,STR-0010,PAT-02323,2026-09-30,Toux,Diarrhée aiguë,62,M
+CSL-000688,STR-0014,PAT-03942,2026-10-02,Vaccination,Diabète,72,F
+CSL-000689,STR-0005,PAT-04136,2026-08-18,Contrôle,Plaie et traumatisme,57,F
+CSL-000690,STR-0020,PAT-03356,2026-09-09,Suivi de grossesse,Hypertension artérielle,50,F
+CSL-000691,STR-0019,PAT-02531,2026-10-12,Vaccination,Infection respiratoire aiguë,82,M
+CSL-000692,STR-0019,PAT-04275,2026-09-27,Toux,Plaie et traumatisme,64,M
+CSL-000693,STR-0009,PAT-01686,2026-10-15,Toux,Plaie et traumatisme,10,F
+CSL-000694,STR-0006,PAT-03400,2026-03-15,Fièvre,Anémie,48,F
+CSL-000695,STR-0010,PAT-01180,2026-07-30,Toux,Diabète,11,M
+CSL-000696,STR-0001,PAT-00480,2026-07-24,Douleurs abdominales,Malnutrition aiguë,12,F
+CSL-000697,STR-0004,PAT-00425,2026-04-15,Toux,Hypertension artérielle,76,M
+CSL-000698,STR-0015,PAT-04532,2026-05-15,Suivi de grossesse,Infection respiratoire aiguë,61,M
+CSL-000699,STR-0004,PAT-02018,2025-11-13,Vaccination,Diarrhée aiguë,38,F
+CSL-000700,STR-0006,PAT-02009,2026-01-21,Vaccination,Malnutrition aiguë,71,F
+CSL-000701,STR-0006,PAT-00005,2026-05-29,Fièvre,Plaie et traumatisme,34,F
+CSL-000702,STR-0019,PAT-00573,2026-01-24,Douleurs abdominales,Infection respiratoire aiguë,50,M
+CSL-000703,STR-0007,PAT-04136,2026-03-17,Douleurs abdominales,Anémie,81,F
+CSL-000704,STR-0001,PAT-01096,2026-05-09,Contrôle,Paludisme simple,77,F
+CSL-000705,STR-0018,PAT-04006,2026-03-27,Suivi de grossesse,Infection respiratoire aiguë,83,M
+CSL-000706,STR-0013,PAT-01452,2026-04-24,Contrôle,Paludisme simple,15,F
+CSL-000707,STR-0012,PAT-01569,2026-06-03,Fièvre,Diabète,28,M
+CSL-000708,STR-0007,PAT-00059,2025-12-18,Toux,Malnutrition aiguë,14,F
+CSL-000709,STR-0020,PAT-04630,2025-11-09,Toux,Infection respiratoire aiguë,75,M
+CSL-000710,STR-0001,PAT-04366,2025-11-11,Vaccination,Diabète,87,F
+CSL-000711,STR-0002,PAT-02647,2025-11-26,Suivi de grossesse,Malnutrition aiguë,35,M
+CSL-000712,STR-0014,PAT-04362,2026-06-04,Suivi de grossesse,Anémie,0,F
+CSL-000713,STR-0008,PAT-03472,2026-10-12,Fièvre,Hypertension artérielle,25,M
+CSL-000714,STR-0014,PAT-00197,2026-02-21,Vaccination,Anémie,32,M
+CSL-000715,STR-0011,PAT-04258,2026-09-27,Toux,Infection respiratoire aiguë,76,F
+CSL-000716,STR-0003,PAT-00498,2026-08-22,Fièvre,Malnutrition aiguë,40,M
+CSL-000717,STR-0020,PAT-03538,2026-05-23,Fièvre,Infection respiratoire aiguë,86,M
+CSL-000718,STR-0020,PAT-00087,2025-12-22,Suivi de grossesse,Malnutrition aiguë,59,F
+CSL-000719,STR-0007,PAT-00885,2025-12-28,Fièvre,Paludisme simple,76,M
+CSL-000720,STR-0020,PAT-03643,2026-02-20,Toux,Hypertension artérielle,17,M
+CSL-000721,STR-0017,PAT-02931,2026-03-15,Douleurs abdominales,Diarrhée aiguë,18,F
+CSL-000722,STR-0005,PAT-00470,2025-12-28,Toux,Paludisme simple,54,F
+CSL-000723,STR-0011,PAT-01552,2026-09-19,Contrôle,Plaie et traumatisme,88,F
+CSL-000724,STR-0004,PAT-03722,2026-08-02,Fièvre,Plaie et traumatisme,28,M
+CSL-000725,STR-0013,PAT-01682,2026-05-08,Suivi de grossesse,Diarrhée aiguë,0,F
+CSL-000726,STR-0004,PAT-01167,2026-01-13,Douleurs abdominales,Plaie et traumatisme,24,F
+CSL-000727,STR-0006,PAT-01794,2026-06-01,Douleurs abdominales,Diarrhée aiguë,43,M
+CSL-000728,STR-0004,PAT-00172,2026-06-12,Contrôle,Diarrhée aiguë,48,M
+CSL-000729,STR-0006,PAT-04317,2025-11-20,Vaccination,Malnutrition aiguë,8,M
+CSL-000730,STR-0013,PAT-03066,2026-01-25,Douleurs abdominales,Malnutrition aiguë,81,M
+CSL-000731,STR-0018,PAT-02410,2026-07-20,Toux,Anémie,31,M
+CSL-000732,STR-0016,PAT-00532,2026-09-13,Toux,Malnutrition aiguë,82,F
+CSL-000733,STR-0016,PAT-04054,2026-01-28,Suivi de grossesse,Diabète,74,F
+CSL-000734,STR-0007,PAT-02507,2026-04-05,Suivi de grossesse,Malnutrition aiguë,73,M
+CSL-000735,STR-0017,PAT-02881,2026-03-11,Toux,Paludisme simple,59,F
+CSL-000736,STR-0009,PAT-03133,2026-05-15,Fièvre,Diarrhée aiguë,56,M
+CSL-000737,STR-0018,PAT-00641,2026-02-04,Douleurs abdominales,Hypertension artérielle,12,M
+CSL-000738,STR-0011,PAT-01611,2026-07-14,Contrôle,Anémie,32,F
+CSL-000739,STR-0009,PAT-00070,2026-01-19,Douleurs abdominales,Diabète,44,F
+CSL-000740,STR-0005,PAT-03257,2026-02-04,Toux,Hypertension artérielle,26,F
+CSL-000741,STR-0015,PAT-02791,2026-02-27,Fièvre,Anémie,24,F
+CSL-000742,STR-0010,PAT-00080,2026-08-20,Suivi de grossesse,Anémie,43,M
+CSL-000743,STR-0011,PAT-04809,2026-05-24,Fièvre,Paludisme simple,17,M
+CSL-000744,STR-0007,PAT-03201,2026-04-12,Fièvre,Malnutrition aiguë,24,F
+CSL-000745,STR-0010,PAT-00764,2025-12-01,Toux,Infection respiratoire aiguë,86,M
+CSL-000746,STR-0001,PAT-01530,2026-02-16,Toux,Infection respiratoire aiguë,49,F
+CSL-000747,STR-0003,PAT-03725,2026-01-29,Fièvre,Anémie,66,M
+CSL-000748,STR-0004,PAT-01058,2026-08-05,Vaccination,Malnutrition aiguë,61,M
+CSL-000749,STR-0016,PAT-01301,2026-03-17,Vaccination,Diabète,75,M
+CSL-000750,STR-0020,PAT-02023,2026-04-03,Vaccination,Anémie,72,F
+CSL-000751,STR-0015,PAT-02841,2025-11-28,Contrôle,Diabète,50,M
+CSL-000752,STR-0006,PAT-04659,2026-04-11,Fièvre,Malnutrition aiguë,89,M
+CSL-000753,STR-0018,PAT-02392,2025-12-07,Contrôle,Infection respiratoire aiguë,89,M
+CSL-000754,STR-0011,PAT-03360,2026-02-08,Suivi de grossesse,Diarrhée aiguë,32,M
+CSL-000755,STR-0011,PAT-03272,2026-04-12,Toux,Malnutrition aiguë,4,M
+CSL-000756,STR-0016,PAT-03780,2026-03-01,Fièvre,Infection respiratoire aiguë,70,M
+CSL-000757,STR-0006,PAT-02410,2026-09-03,Fièvre,Malnutrition aiguë,21,M
+CSL-000758,STR-0018,PAT-01771,2026-10-07,Suivi de grossesse,Paludisme simple,81,M
+CSL-000759,STR-0013,PAT-01653,2026-09-30,Toux,Anémie,30,M
+CSL-000760,STR-0011,PAT-01575,2026-10-17,Contrôle,Infection respiratoire aiguë,28,M
+CSL-000761,STR-0007,PAT-01697,2026-01-10,Vaccination,Malnutrition aiguë,54,M
+CSL-000762,STR-0006,PAT-00123,2026-05-12,Suivi de grossesse,Anémie,1,F
+CSL-000763,STR-0009,PAT-03023,2025-11-22,Fièvre,Infection respiratoire aiguë,27,F
+CSL-000764,STR-0006,PAT-02064,2026-01-06,Fièvre,Anémie,80,F
+CSL-000765,STR-0016,PAT-00554,2025-11-17,Douleurs abdominales,Paludisme simple,77,F
+CSL-000766,STR-0001,PAT-01906,2025-10-29,Fièvre,Infection respiratoire aiguë,39,M
+CSL-000767,STR-0005,PAT-03079,2026-07-13,Toux,Paludisme simple,30,F
+CSL-000768,STR-0001,PAT-01877,2026-05-30,Contrôle,Anémie,43,M
+CSL-000769,STR-0008,PAT-04982,2026-06-19,Suivi de grossesse,Anémie,23,F
+CSL-000770,STR-0003,PAT-01423,2026-08-21,Vaccination,Hypertension artérielle,30,M
+CSL-000771,STR-0014,PAT-01446,2026-06-21,Vaccination,Hypertension artérielle,38,F
+CSL-000772,STR-0016,PAT-03616,2026-07-31,Suivi de grossesse,Malnutrition aiguë,19,F
+CSL-000773,STR-0010,PAT-04876,2026-09-12,Vaccination,Diarrhée aiguë,70,M
+CSL-000774,STR-0020,PAT-03940,2026-01-10,Fièvre,Anémie,17,F
+CSL-000775,STR-0017,PAT-03066,2026-10-18,Suivi de grossesse,Malnutrition aiguë,53,F
+CSL-000776,STR-0013,PAT-04634,2026-08-22,Toux,Hypertension artérielle,55,F
+CSL-000777,STR-0013,PAT-03474,2025-11-25,Contrôle,Hypertension artérielle,31,F
+CSL-000778,STR-0001,PAT-01212,2025-10-28,Douleurs abdominales,Plaie et traumatisme,87,M
+CSL-000779,STR-0003,PAT-03149,2026-08-26,Suivi de grossesse,Infection respiratoire aiguë,66,M
+CSL-000780,STR-0013,PAT-04802,2026-01-25,Douleurs abdominales,Malnutrition aiguë,11,M
+CSL-000781,STR-0001,PAT-01380,2026-05-20,Suivi de grossesse,Paludisme simple,12,M
+CSL-000782,STR-0006,PAT-01101,2026-04-16,Toux,Plaie et traumatisme,23,M
+CSL-000783,STR-0007,PAT-02125,2026-07-23,Suivi de grossesse,Plaie et traumatisme,80,M
+CSL-000784,STR-0019,PAT-01924,2026-10-09,Suivi de grossesse,Plaie et traumatisme,86,M
+CSL-000785,STR-0019,PAT-00343,2025-11-18,Fièvre,Hypertension artérielle,66,M
+CSL-000786,STR-0014,PAT-02758,2025-12-19,Douleurs abdominales,Anémie,40,M
+CSL-000787,STR-0004,PAT-00026,2026-05-08,Suivi de grossesse,Malnutrition aiguë,17,M
+CSL-000788,STR-0016,PAT-04219,2025-11-21,Suivi de grossesse,Hypertension artérielle,0,F
+CSL-000789,STR-0015,PAT-01914,2026-05-11,Vaccination,Plaie et traumatisme,51,M
+CSL-000790,STR-0010,PAT-04974,2026-04-10,Toux,Diarrhée aiguë,66,M
+CSL-000791,STR-0018,PAT-03825,2025-11-14,Toux,Plaie et traumatisme,14,F
+CSL-000792,STR-0001,PAT-01313,2026-03-16,Douleurs abdominales,Malnutrition aiguë,35,M
+CSL-000793,STR-0003,PAT-02727,2026-02-15,Toux,Infection respiratoire aiguë,82,F
+CSL-000794,STR-0018,PAT-03580,2025-11-30,Toux,Hypertension artérielle,33,M
+CSL-000795,STR-0004,PAT-04693,2026-07-20,Douleurs abdominales,Diarrhée aiguë,40,F
+CSL-000796,STR-0012,PAT-01035,2026-05-14,Vaccination,Hypertension artérielle,13,F
+CSL-000797,STR-0010,PAT-01794,2026-08-11,Suivi de grossesse,Plaie et traumatisme,18,F
+CSL-000798,STR-0020,PAT-02623,2026-10-07,Douleurs abdominales,Infection respiratoire aiguë,35,F
+CSL-000799,STR-0008,PAT-00431,2026-07-09,Toux,Plaie et traumatisme,50,F
+CSL-000800,STR-0013,PAT-03204,2026-04-29,Fièvre,Diabète,36,M
+CSL-000801,STR-0010,PAT-03749,2025-10-26,Contrôle,Diarrhée aiguë,73,M
+CSL-000802,STR-0001,PAT-02968,2026-07-16,Contrôle,Infection respiratoire aiguë,86,M
+CSL-000803,STR-0006,PAT-00430,2026-02-24,Fièvre,Anémie,75,F
+CSL-000804,STR-0002,PAT-00974,2026-06-21,Toux,Malnutrition aiguë,62,F
+CSL-000805,STR-0015,PAT-03131,2026-09-09,Douleurs abdominales,Plaie et traumatisme,47,M
+CSL-000806,STR-0017,PAT-01843,2026-02-16,Fièvre,Plaie et traumatisme,35,M
+CSL-000807,STR-0011,PAT-00521,2026-09-04,Contrôle,Diarrhée aiguë,51,M
+CSL-000808,STR-0018,PAT-01017,2025-12-29,Toux,Infection respiratoire aiguë,23,M
+CSL-000809,STR-0002,PAT-01056,2026-08-23,Vaccination,Hypertension artérielle,83,M
+CSL-000810,STR-0004,PAT-04147,2026-09-11,Douleurs abdominales,Anémie,69,M
+CSL-000811,STR-0018,PAT-03645,2026-05-27,Toux,Plaie et traumatisme,88,F
+CSL-000812,STR-0002,PAT-01541,2026-06-25,Toux,Diabète,27,M
+CSL-000813,STR-0018,PAT-02089,2026-09-16,Douleurs abdominales,Malnutrition aiguë,83,M
+CSL-000814,STR-0018,PAT-01670,2026-08-12,Fièvre,Diabète,81,M
+CSL-000815,STR-0014,PAT-03105,2026-05-16,Fièvre,Hypertension artérielle,9,F
+CSL-000816,STR-0014,PAT-00541,2026-01-17,Douleurs abdominales,Infection respiratoire aiguë,46,F
+CSL-000817,STR-0013,PAT-00861,2026-07-03,Fièvre,Diarrhée aiguë,67,F
+CSL-000818,STR-0020,PAT-00812,2026-06-08,Fièvre,Diarrhée aiguë,40,F
+CSL-000819,STR-0018,PAT-04872,2026-01-25,Suivi de grossesse,Plaie et traumatisme,75,M
+CSL-000820,STR-0005,PAT-03104,2026-08-21,Vaccination,Diabète,6,F
+CSL-000821,STR-0015,PAT-04115,2026-04-26,Douleurs abdominales,Diabète,54,M
+CSL-000822,STR-0003,PAT-00629,2025-12-04,Contrôle,Hypertension artérielle,11,M
+CSL-000823,STR-0017,PAT-01118,2025-11-12,Suivi de grossesse,Plaie et traumatisme,65,M
+CSL-000824,STR-0018,PAT-02827,2026-03-21,Toux,Paludisme simple,77,F
+CSL-000825,STR-0003,PAT-03007,2026-07-27,Toux,Anémie,6,F
+CSL-000826,STR-0018,PAT-00966,2026-06-19,Douleurs abdominales,Diabète,61,F
+CSL-000827,STR-0010,PAT-04224,2026-07-05,Fièvre,Plaie et traumatisme,79,F
+CSL-000828,STR-0011,PAT-02445,2026-03-03,Douleurs abdominales,Infection respiratoire aiguë,0,F
+CSL-000829,STR-0017,PAT-01260,2026-01-27,Suivi de grossesse,Infection respiratoire aiguë,62,M
+CSL-000830,STR-0016,PAT-03239,2026-07-01,Douleurs abdominales,Diabète,46,F
+CSL-000831,STR-0015,PAT-01326,2026-03-14,Toux,Anémie,55,M
+CSL-000832,STR-0005,PAT-03233,2026-10-04,Suivi de grossesse,Anémie,4,M
+CSL-000833,STR-0005,PAT-02662,2025-11-09,Suivi de grossesse,Malnutrition aiguë,16,M
+CSL-000834,STR-0012,PAT-04097,2026-08-06,Fièvre,Hypertension artérielle,6,F
+CSL-000835,STR-0016,PAT-00677,2026-06-02,Suivi de grossesse,Hypertension artérielle,79,M
+CSL-000836,STR-0007,PAT-03883,2026-03-19,Contrôle,Infection respiratoire aiguë,89,M
+CSL-000837,STR-0005,PAT-01880,2025-12-04,Fièvre,Diarrhée aiguë,51,M
+CSL-000838,STR-0002,PAT-03116,2026-09-08,Suivi de grossesse,Diabète,89,M
+CSL-000839,STR-0017,PAT-03499,2026-09-23,Contrôle,Paludisme simple,38,M
+CSL-000840,STR-0002,PAT-01489,2026-05-14,Fièvre,Paludisme simple,6,F
+CSL-000841,STR-0004,PAT-03530,2025-12-18,Toux,Diabète,62,F
+CSL-000842,STR-0005,PAT-02714,2026-01-15,Douleurs abdominales,Anémie,75,F
+CSL-000843,STR-0013,PAT-00715,2025-12-29,Fièvre,Diarrhée aiguë,80,M
+CSL-000844,STR-0015,PAT-00809,2026-07-18,Fièvre,Anémie,38,F
+CSL-000845,STR-0005,PAT-01571,2026-10-02,Suivi de grossesse,Diabète,71,F
+CSL-000846,STR-0014,PAT-04291,2026-02-19,Vaccination,Paludisme simple,21,F
+CSL-000847,STR-0018,PAT-04207,2026-02-13,Fièvre,Diarrhée aiguë,56,F
+CSL-000848,STR-0007,PAT-04851,2026-01-05,Contrôle,Paludisme simple,65,F
+CSL-000849,STR-0004,PAT-01402,2026-01-15,Toux,Paludisme simple,68,M
+CSL-000850,STR-0008,PAT-01721,2026-09-28,Vaccination,Infection respiratoire aiguë,0,F
+CSL-000851,STR-0020,PAT-02416,2026-03-29,Douleurs abdominales,Paludisme simple,80,M
+CSL-000852,STR-0019,PAT-00872,2026-01-22,Contrôle,Malnutrition aiguë,83,F
+CSL-000853,STR-0013,PAT-01276,2025-12-31,Suivi de grossesse,Hypertension artérielle,55,F
+CSL-000854,STR-0015,PAT-01516,2026-07-24,Toux,Hypertension artérielle,72,F
+CSL-000855,STR-0007,PAT-00569,2025-12-17,Toux,Infection respiratoire aiguë,54,M
+CSL-000856,STR-0020,PAT-00817,2026-10-18,Suivi de grossesse,Malnutrition aiguë,2,M
+CSL-000857,STR-0008,PAT-00685,2026-08-18,Douleurs abdominales,Diarrhée aiguë,80,M
+CSL-000858,STR-0003,PAT-01658,2026-05-04,Toux,Plaie et traumatisme,72,F
+CSL-000859,STR-0008,PAT-00458,2026-08-06,Vaccination,Diabète,80,M
+CSL-000860,STR-0010,PAT-00841,2026-01-19,Vaccination,Malnutrition aiguë,18,M
+CSL-000861,STR-0005,PAT-02895,2026-04-10,Contrôle,Diabète,28,F
+CSL-000862,STR-0020,PAT-02734,2026-09-15,Fièvre,Anémie,10,M
+CSL-000863,STR-0010,PAT-02352,2026-08-09,Douleurs abdominales,Infection respiratoire aiguë,34,F
+CSL-000864,STR-0011,PAT-01211,2026-08-10,Suivi de grossesse,Plaie et traumatisme,61,M
+CSL-000865,STR-0005,PAT-00741,2026-06-04,Douleurs abdominales,Diarrhée aiguë,23,F
+CSL-000866,STR-0011,PAT-01133,2025-12-20,Contrôle,Hypertension artérielle,49,F
+CSL-000867,STR-0019,PAT-03456,2026-09-12,Vaccination,Hypertension artérielle,89,M
+CSL-000868,STR-0012,PAT-04575,2026-10-16,Suivi de grossesse,Diarrhée aiguë,14,M
+CSL-000869,STR-0008,PAT-01727,2026-03-23,Toux,Paludisme simple,17,M
+CSL-000870,STR-0004,PAT-04765,2025-10-30,Fièvre,Plaie et traumatisme,76,M
+CSL-000871,STR-0008,PAT-00632,2026-09-14,Fièvre,Malnutrition aiguë,19,M
+CSL-000872,STR-0014,PAT-02764,2026-02-26,Suivi de grossesse,Paludisme simple,36,M
+CSL-000873,STR-0006,PAT-04123,2025-12-19,Toux,Paludisme simple,50,F
+CSL-000874,STR-0014,PAT-01285,2026-06-30,Douleurs abdominales,Infection respiratoire aiguë,66,F
+CSL-000875,STR-0002,PAT-01794,2025-12-12,Suivi de grossesse,Diarrhée aiguë,71,M
+CSL-000876,STR-0012,PAT-03476,2026-09-27,Toux,Diabète,13,M
+CSL-000877,STR-0008,PAT-02312,2026-10-10,Toux,Infection respiratoire aiguë,8,M
+CSL-000878,STR-0019,PAT-04627,2026-09-11,Fièvre,Plaie et traumatisme,5,M
+CSL-000879,STR-0007,PAT-02577,2026-02-10,Suivi de grossesse,Anémie,16,M
+CSL-000880,STR-0019,PAT-03131,2026-10-12,Suivi de grossesse,Paludisme simple,37,M
+CSL-000881,STR-0003,PAT-01898,2025-12-08,Toux,Diarrhée aiguë,20,F
+CSL-000882,STR-0002,PAT-03176,2026-03-18,Toux,Hypertension artérielle,78,M
+CSL-000883,STR-0001,PAT-01169,2026-09-05,Douleurs abdominales,Infection respiratoire aiguë,63,M
+CSL-000884,STR-0012,PAT-02895,2026-01-02,Fièvre,Infection respiratoire aiguë,22,F
+CSL-000885,STR-0016,PAT-00325,2026-01-06,Douleurs abdominales,Diabète,51,F
+CSL-000886,STR-0014,PAT-04145,2025-11-09,Suivi de grossesse,Diabète,87,M
+CSL-000887,STR-0004,PAT-02382,2026-08-06,Suivi de grossesse,Diarrhée aiguë,72,F
+CSL-000888,STR-0003,PAT-02859,2025-11-16,Suivi de grossesse,Plaie et traumatisme,82,F
+CSL-000889,STR-0013,PAT-03549,2026-08-30,Toux,Malnutrition aiguë,42,M
+CSL-000890,STR-0004,PAT-02281,2026-02-23,Suivi de grossesse,Paludisme simple,69,M
+CSL-000891,STR-0013,PAT-00512,2025-12-21,Douleurs abdominales,Malnutrition aiguë,60,M
+CSL-000892,STR-0009,PAT-02065,2026-03-22,Contrôle,Diarrhée aiguë,10,M
+CSL-000893,STR-0015,PAT-03439,2026-05-25,Vaccination,Hypertension artérielle,85,F
+CSL-000894,STR-0011,PAT-02433,2026-03-19,Toux,Hypertension artérielle,44,F
+CSL-000895,STR-0012,PAT-04673,2026-03-15,Suivi de grossesse,Paludisme simple,71,M
+CSL-000896,STR-0005,PAT-02653,2025-12-13,Contrôle,Anémie,1,M
+CSL-000897,STR-0017,PAT-00031,2026-06-12,Suivi de grossesse,Diarrhée aiguë,81,F
+CSL-000898,STR-0020,PAT-03093,2026-07-31,Toux,Anémie,26,M
+CSL-000899,STR-0016,PAT-03736,2026-08-22,Suivi de grossesse,Malnutrition aiguë,45,F
+CSL-000900,STR-0020,PAT-01333,2026-01-14,Vaccination,Malnutrition aiguë,48,F
+CSL-000901,STR-0003,PAT-00135,2026-09-01,Vaccination,Malnutrition aiguë,13,F
+CSL-000902,STR-0010,PAT-03446,2025-11-17,Toux,Hypertension artérielle,58,F
+CSL-000903,STR-0015,PAT-03383,2026-04-28,Contrôle,Malnutrition aiguë,0,F
+CSL-000904,STR-0009,PAT-02519,2025-11-21,Suivi de grossesse,Hypertension artérielle,0,F
+CSL-000905,STR-0017,PAT-04915,2026-04-16,Douleurs abdominales,Anémie,21,F
+CSL-000906,STR-0013,PAT-00423,2025-12-13,Vaccination,Malnutrition aiguë,16,F
+CSL-000907,STR-0017,PAT-00970,2026-08-21,Contrôle,Malnutrition aiguë,80,F
+CSL-000908,STR-0005,PAT-00228,2025-12-25,Vaccination,Infection respiratoire aiguë,73,F
+CSL-000909,STR-0012,PAT-01529,2026-03-06,Toux,Hypertension artérielle,38,M
+CSL-000910,STR-0005,PAT-00190,2026-09-12,Contrôle,Infection respiratoire aiguë,14,F
+CSL-000911,STR-0007,PAT-03202,2026-04-22,Fièvre,Plaie et traumatisme,2,F
+CSL-000912,STR-0014,PAT-03075,2026-07-09,Douleurs abdominales,Plaie et traumatisme,20,M
+CSL-000913,STR-0004,PAT-02809,2026-10-08,Douleurs abdominales,Plaie et traumatisme,78,M
+CSL-000914,STR-0007,PAT-04966,2026-08-23,Fièvre,Paludisme simple,66,M
+CSL-000915,STR-0001,PAT-02684,2026-07-05,Toux,Hypertension artérielle,10,M
+CSL-000916,STR-0010,PAT-03827,2026-01-15,Contrôle,Plaie et traumatisme,55,F
+CSL-000917,STR-0009,PAT-03219,2025-11-07,Fièvre,Diabète,21,M
+CSL-000918,STR-0020,PAT-03138,2026-08-30,Suivi de grossesse,Hypertension artérielle,72,F
+CSL-000919,STR-0019,PAT-03358,2026-06-17,Douleurs abdominales,Anémie,50,M
+CSL-000920,STR-0012,PAT-02010,2026-07-21,Fièvre,Hypertension artérielle,84,F
+CSL-000921,STR-0011,PAT-01752,2026-10-19,Suivi de grossesse,Anémie,29,M
+CSL-000922,STR-0009,PAT-04980,2026-01-10,Contrôle,Infection respiratoire aiguë,73,F
+CSL-000923,STR-0002,PAT-02249,2026-02-11,Suivi de grossesse,Infection respiratoire aiguë,15,F
+CSL-000924,STR-0008,PAT-04722,2026-04-11,Fièvre,Diabète,2,M
+CSL-000925,STR-0011,PAT-00134,2026-10-04,Fièvre,Plaie et traumatisme,12,F
+CSL-000926,STR-0020,PAT-00386,2026-02-14,Suivi de grossesse,Diabète,89,F
+CSL-000927,STR-0001,PAT-01836,2026-09-02,Fièvre,Paludisme simple,17,M
+CSL-000928,STR-0007,PAT-03022,2026-09-09,Vaccination,Paludisme simple,88,M
+CSL-000929,STR-0011,PAT-03110,2026-06-11,Douleurs abdominales,Diarrhée aiguë,17,F
+CSL-000930,STR-0014,PAT-03661,2025-12-29,Contrôle,Infection respiratoire aiguë,66,M
+CSL-000931,STR-0010,PAT-00679,2026-06-11,Douleurs abdominales,Hypertension artérielle,84,M
+CSL-000932,STR-0007,PAT-03995,2026-04-10,Fièvre,Anémie,26,F
+CSL-000933,STR-0008,PAT-02979,2026-08-19,Suivi de grossesse,Plaie et traumatisme,79,M
+CSL-000934,STR-0019,PAT-00837,2026-05-20,Toux,Plaie et traumatisme,13,M
+CSL-000935,STR-0001,PAT-03902,2026-06-10,Contrôle,Plaie et traumatisme,45,F
+CSL-000936,STR-0007,PAT-01234,2026-03-18,Suivi de grossesse,Malnutrition aiguë,65,F
+CSL-000937,STR-0002,PAT-03134,2026-09-04,Contrôle,Malnutrition aiguë,24,F
+CSL-000938,STR-0017,PAT-04977,2026-06-05,Suivi de grossesse,Malnutrition aiguë,13,M
+CSL-000939,STR-0018,PAT-00828,2026-09-21,Douleurs abdominales,Hypertension artérielle,79,F
+CSL-000940,STR-0007,PAT-01402,2026-02-13,Toux,Anémie,81,F
+CSL-000941,STR-0010,PAT-01955,2026-02-22,Toux,Anémie,87,M
+CSL-000942,STR-0001,PAT-03888,2026-08-13,Suivi de grossesse,Anémie,2,M
+CSL-000943,STR-0016,PAT-04778,2026-04-27,Fièvre,Plaie et traumatisme,31,F
+CSL-000944,STR-0010,PAT-01871,2025-11-10,Vaccination,Diarrhée aiguë,18,M
+CSL-000945,STR-0016,PAT-02874,2026-03-07,Vaccination,Diabète,84,F
+CSL-000946,STR-0011,PAT-04243,2025-10-26,Contrôle,Plaie et traumatisme,14,F
+CSL-000947,STR-0012,PAT-04079,2026-08-13,Fièvre,Hypertension artérielle,73,F
+CSL-000948,STR-0009,PAT-04464,2026-08-30,Suivi de grossesse,Diarrhée aiguë,33,F
+CSL-000949,STR-0019,PAT-04261,2026-10-03,Contrôle,Anémie,78,M
+CSL-000950,STR-0001,PAT-04088,2026-08-29,Contrôle,Diarrhée aiguë,59,M
+CSL-000951,STR-0001,PAT-03719,2026-05-27,Fièvre,Hypertension artérielle,36,M
+CSL-000952,STR-0012,PAT-00006,2026-03-18,Fièvre,Diabète,17,F
+CSL-000953,STR-0009,PAT-01169,2026-09-10,Contrôle,Hypertension artérielle,55,M
+CSL-000954,STR-0013,PAT-03462,2025-12-02,Suivi de grossesse,Infection respiratoire aiguë,33,F
+CSL-000955,STR-0007,PAT-02049,2025-11-09,Toux,Malnutrition aiguë,70,M
+CSL-000956,STR-0006,PAT-03080,2026-01-18,Suivi de grossesse,Infection respiratoire aiguë,17,F
+CSL-000957,STR-0014,PAT-03779,2026-03-23,Fièvre,Paludisme simple,53,M
+CSL-000958,STR-0017,PAT-03057,2025-12-31,Toux,Diabète,6,F
+CSL-000959,STR-0017,PAT-03771,2026-03-02,Fièvre,Infection respiratoire aiguë,7,F
+CSL-000960,STR-0004,PAT-04790,2026-09-23,Contrôle,Paludisme simple,89,M
+CSL-000961,STR-0010,PAT-00053,2026-05-23,Suivi de grossesse,Hypertension artérielle,14,M
+CSL-000962,STR-0004,PAT-02026,2026-01-31,Toux,Infection respiratoire aiguë,60,M
+CSL-000963,STR-0009,PAT-03598,2026-01-18,Contrôle,Infection respiratoire aiguë,55,M
+CSL-000964,STR-0018,PAT-01642,2025-10-31,Suivi de grossesse,Plaie et traumatisme,37,F
+CSL-000965,STR-0015,PAT-03416,2026-08-31,Suivi de grossesse,Diarrhée aiguë,3,F
+CSL-000966,STR-0020,PAT-03642,2026-10-07,Fièvre,Anémie,17,F
+CSL-000967,STR-0017,PAT-03200,2026-04-29,Vaccination,Infection respiratoire aiguë,22,M
+CSL-000968,STR-0009,PAT-02482,2026-08-14,Suivi de grossesse,Infection respiratoire aiguë,82,F
+CSL-000969,STR-0017,PAT-02124,2026-02-07,Toux,Anémie,75,F
+CSL-000970,STR-0004,PAT-04092,2025-11-18,Contrôle,Plaie et traumatisme,41,M
+CSL-000971,STR-0020,PAT-02052,2026-09-23,Fièvre,Paludisme simple,9,F
+CSL-000972,STR-0015,PAT-03094,2025-11-01,Toux,Hypertension artérielle,25,F
+CSL-000973,STR-0014,PAT-04330,2026-08-03,Toux,Infection respiratoire aiguë,74,M
+CSL-000974,STR-0003,PAT-02792,2026-01-18,Toux,Plaie et traumatisme,24,M
+CSL-000975,STR-0014,PAT-03082,2026-03-14,Fièvre,Infection respiratoire aiguë,16,F
+CSL-000976,STR-0020,PAT-04429,2026-09-28,Douleurs abdominales,Paludisme simple,28,F
+CSL-000977,STR-0018,PAT-04714,2026-09-16,Toux,Diabète,51,M
+CSL-000978,STR-0009,PAT-01643,2026-03-23,Douleurs abdominales,Paludisme simple,17,M
+CSL-000979,STR-0020,PAT-00290,2026-01-09,Douleurs abdominales,Infection respiratoire aiguë,53,M
+CSL-000980,STR-0012,PAT-03535,2026-07-01,Suivi de grossesse,Diabète,29,M
+CSL-000981,STR-0013,PAT-00149,2025-12-17,Vaccination,Plaie et traumatisme,6,F
+CSL-000982,STR-0004,PAT-03588,2026-08-15,Fièvre,Anémie,45,M
+CSL-000983,STR-0008,PAT-03384,2026-10-19,Contrôle,Paludisme simple,1,M
+CSL-000984,STR-0006,PAT-02316,2026-03-14,Fièvre,Anémie,44,M
+CSL-000985,STR-0003,PAT-00626,2025-11-22,Douleurs abdominales,Hypertension artérielle,63,F
+CSL-000986,STR-0018,PAT-02398,2026-04-20,Contrôle,Hypertension artérielle,67,F
+CSL-000987,STR-0020,PAT-03984,2026-03-28,Douleurs abdominales,Infection respiratoire aiguë,26,M
+CSL-000988,STR-0008,PAT-03607,2026-10-06,Contrôle,Plaie et traumatisme,14,M
+CSL-000989,STR-0003,PAT-00490,2026-05-24,Douleurs abdominales,Malnutrition aiguë,63,M
+CSL-000990,STR-0014,PAT-04363,2026-07-22,Fièvre,Diabète,4,F
+CSL-000991,STR-0007,PAT-00225,2025-12-26,Douleurs abdominales,Malnutrition aiguë,54,M
+CSL-000992,STR-0010,PAT-04381,2025-11-11,Suivi de grossesse,Malnutrition aiguë,73,F
+CSL-000993,STR-0005,PAT-00125,2026-06-25,Douleurs abdominales,Diabète,10,M
+CSL-000994,STR-0009,PAT-04981,2025-11-21,Fièvre,Infection respiratoire aiguë,39,F
+CSL-000995,STR-0015,PAT-00304,2026-10-20,Douleurs abdominales,Plaie et traumatisme,81,M
+CSL-000996,STR-0003,PAT-03609,2026-05-17,Toux,Diabète,35,F
+CSL-000997,STR-0002,PAT-01907,2025-11-23,Fièvre,Paludisme simple,23,F
+CSL-000998,STR-0012,PAT-04428,2026-10-16,Contrôle,Paludisme simple,76,M
+CSL-000999,STR-0008,PAT-01672,2026-09-15,Douleurs abdominales,Anémie,87,F
+CSL-001000,STR-0001,PAT-02676,2026-08-12,Vaccination,Anémie,42,F
+CSL-001001,STR-0019,PAT-00210,2026-08-09,Fièvre,Hypertension artérielle,40,F
+CSL-001002,STR-0005,PAT-03122,2025-11-22,Contrôle,Infection respiratoire aiguë,9,M
+CSL-001003,STR-0002,PAT-04974,2026-01-27,Suivi de grossesse,Plaie et traumatisme,40,F
+CSL-001004,STR-0011,PAT-01992,2026-06-22,Douleurs abdominales,Hypertension artérielle,58,F
+CSL-001005,STR-0017,PAT-00627,2026-01-11,Douleurs abdominales,Plaie et traumatisme,77,M
+CSL-001006,STR-0014,PAT-04791,2026-06-21,Contrôle,Diarrhée aiguë,77,F
+CSL-001007,STR-0005,PAT-04719,2026-02-08,Suivi de grossesse,Hypertension artérielle,23,F
+CSL-001008,STR-0018,PAT-03850,2026-06-12,Contrôle,Infection respiratoire aiguë,16,M
+CSL-001009,STR-0013,PAT-03460,2026-01-26,Douleurs abdominales,Diarrhée aiguë,51,M
+CSL-001010,STR-0003,PAT-02908,2026-10-01,Suivi de grossesse,Malnutrition aiguë,80,F
+CSL-001011,STR-0017,PAT-00687,2025-12-27,Toux,Paludisme simple,75,F
+CSL-001012,STR-0004,PAT-01903,2026-06-03,Douleurs abdominales,Plaie et traumatisme,43,M
+CSL-001013,STR-0005,PAT-00344,2026-07-25,Contrôle,Hypertension artérielle,55,F
+CSL-001014,STR-0015,PAT-01833,2026-02-17,Toux,Diabète,33,M
+CSL-001015,STR-0007,PAT-04524,2026-09-05,Vaccination,Diarrhée aiguë,3,M
+CSL-001016,STR-0015,PAT-04268,2026-03-20,Toux,Plaie et traumatisme,37,M
+CSL-001017,STR-0004,PAT-02898,2025-11-16,Fièvre,Hypertension artérielle,9,F
+CSL-001018,STR-0017,PAT-00607,2026-03-06,Contrôle,Anémie,4,F
+CSL-001019,STR-0018,PAT-00292,2026-07-19,Contrôle,Paludisme simple,31,M
+CSL-001020,STR-0010,PAT-01080,2026-02-12,Toux,Infection respiratoire aiguë,66,M
+CSL-001021,STR-0020,PAT-01709,2026-01-12,Contrôle,Diarrhée aiguë,4,F
+CSL-001022,STR-0006,PAT-02459,2026-01-26,Toux,Diabète,85,F
+CSL-001023,STR-0010,PAT-00791,2026-02-20,Toux,Infection respiratoire aiguë,36,F
+CSL-001024,STR-0011,PAT-00931,2026-03-01,Douleurs abdominales,Malnutrition aiguë,90,M
+CSL-001025,STR-0010,PAT-02195,2026-10-10,Vaccination,Hypertension artérielle,52,M
+CSL-001026,STR-0009,PAT-00448,2026-04-03,Douleurs abdominales,Plaie et traumatisme,28,F
+CSL-001027,STR-0004,PAT-02701,2026-07-11,Toux,Paludisme simple,2,F
+CSL-001028,STR-0018,PAT-00520,2026-04-27,Contrôle,Paludisme simple,66,M
+CSL-001029,STR-0010,PAT-01323,2026-06-29,Douleurs abdominales,Anémie,52,M
+CSL-001030,STR-0002,PAT-01286,2026-02-18,Douleurs abdominales,Diabète,3,M
+CSL-001031,STR-0005,PAT-02212,2026-04-02,Fièvre,Infection respiratoire aiguë,9,F
+CSL-001032,STR-0005,PAT-00783,2025-12-19,Contrôle,Malnutrition aiguë,24,F
+CSL-001033,STR-0007,PAT-00817,2026-03-04,Douleurs abdominales,Plaie et traumatisme,48,F
+CSL-001034,STR-0018,PAT-04151,2026-06-01,Toux,Malnutrition aiguë,2,F
+CSL-001035,STR-0008,PAT-03663,2026-04-04,Douleurs abdominales,Plaie et traumatisme,72,M
+CSL-001036,STR-0016,PAT-04862,2026-07-10,Toux,Infection respiratoire aiguë,18,F
+CSL-001037,STR-0010,PAT-02768,2026-03-28,Toux,Paludisme simple,41,F
+CSL-001038,STR-0016,PAT-04470,2026-01-10,Suivi de grossesse,Anémie,83,M
+CSL-001039,STR-0004,PAT-03488,2026-09-13,Contrôle,Infection respiratoire aiguë,48,M
+CSL-001040,STR-0006,PAT-01617,2026-08-23,Suivi de grossesse,Infection respiratoire aiguë,4,F
+CSL-001041,STR-0014,PAT-03272,2026-01-17,Fièvre,Diabète,15,F
+CSL-001042,STR-0019,PAT-01360,2026-04-17,Toux,Diabète,66,M
+CSL-001043,STR-0006,PAT-04296,2026-08-16,Contrôle,Plaie et traumatisme,1,F
+CSL-001044,STR-0007,PAT-01633,2025-10-30,Contrôle,Infection respiratoire aiguë,68,F
+CSL-001045,STR-0012,PAT-04581,2026-09-20,Toux,Anémie,80,M
+CSL-001046,STR-0010,PAT-03009,2025-12-29,Vaccination,Malnutrition aiguë,32,M
+CSL-001047,STR-0009,PAT-01461,2026-07-06,Douleurs abdominales,Infection respiratoire aiguë,16,F
+CSL-001048,STR-0016,PAT-01715,2025-11-16,Toux,Paludisme simple,29,M
+CSL-001049,STR-0006,PAT-03896,2026-08-12,Fièvre,Anémie,9,M
+CSL-001050,STR-0016,PAT-02680,2025-11-18,Douleurs abdominales,Infection respiratoire aiguë,30,F
+CSL-001051,STR-0011,PAT-04348,2026-01-30,Fièvre,Hypertension artérielle,21,F
+CSL-001052,STR-0018,PAT-03567,2026-08-24,Contrôle,Anémie,22,M
+CSL-001053,STR-0020,PAT-04586,2026-07-07,Toux,Malnutrition aiguë,47,M
+CSL-001054,STR-0004,PAT-03022,2026-05-09,Douleurs abdominales,Paludisme simple,77,F
+CSL-001055,STR-0013,PAT-00360,2026-02-21,Contrôle,Diabète,35,M
+CSL-001056,STR-0018,PAT-00852,2026-02-24,Fièvre,Anémie,3,M
+CSL-001057,STR-0002,PAT-02575,2025-10-26,Fièvre,Diabète,24,M
+CSL-001058,STR-0017,PAT-00117,2026-04-20,Contrôle,Malnutrition aiguë,53,M
+CSL-001059,STR-0003,PAT-01414,2026-06-10,Suivi de grossesse,Paludisme simple,35,M
+CSL-001060,STR-0004,PAT-02798,2026-04-28,Suivi de grossesse,Infection respiratoire aiguë,72,F
+CSL-001061,STR-0006,PAT-02601,2026-09-10,Vaccination,Paludisme simple,21,M
+CSL-001062,STR-0008,PAT-02522,2026-09-13,Contrôle,Hypertension artérielle,16,F
+CSL-001063,STR-0009,PAT-01151,2026-07-25,Vaccination,Anémie,52,M
+CSL-001064,STR-0009,PAT-03602,2026-05-26,Douleurs abdominales,Infection respiratoire aiguë,62,F
+CSL-001065,STR-0013,PAT-01276,2025-12-29,Vaccination,Hypertension artérielle,89,F
+CSL-001066,STR-0018,PAT-02204,2026-02-09,Fièvre,Hypertension artérielle,33,M
+CSL-001067,STR-0016,PAT-01146,2026-07-21,Suivi de grossesse,Anémie,47,F
+CSL-001068,STR-0016,PAT-02742,2026-03-23,Douleurs abdominales,Infection respiratoire aiguë,23,F
+CSL-001069,STR-0015,PAT-04863,2025-12-13,Vaccination,Malnutrition aiguë,51,F
+CSL-001070,STR-0011,PAT-03954,2025-12-21,Contrôle,Malnutrition aiguë,38,M
+CSL-001071,STR-0014,PAT-02207,2026-03-23,Vaccination,Malnutrition aiguë,75,M
+CSL-001072,STR-0017,PAT-01626,2025-12-23,Vaccination,Diarrhée aiguë,16,F
+CSL-001073,STR-0015,PAT-03244,2026-04-30,Toux,Plaie et traumatisme,0,M
+CSL-001074,STR-0006,PAT-01935,2026-09-13,Toux,Malnutrition aiguë,11,M
+CSL-001075,STR-0016,PAT-01306,2026-10-22,Douleurs abdominales,Infection respiratoire aiguë,60,F
+CSL-001076,STR-0011,PAT-01094,2026-08-20,Suivi de grossesse,Anémie,36,F
+CSL-001077,STR-0020,PAT-01460,2026-07-03,Toux,Anémie,46,F
+CSL-001078,STR-0007,PAT-00363,2026-02-11,Toux,Diabète,55,M
+CSL-001079,STR-0013,PAT-03938,2026-05-18,Fièvre,Diabète,53,M
+CSL-001080,STR-0015,PAT-00677,2026-08-31,Douleurs abdominales,Infection respiratoire aiguë,83,F
+CSL-001081,STR-0017,PAT-03146,2026-01-03,Contrôle,Plaie et traumatisme,1,F
+CSL-001082,STR-0004,PAT-04945,2025-12-04,Suivi de grossesse,Anémie,60,F
+CSL-001083,STR-0001,PAT-02762,2026-08-09,Contrôle,Diabète,25,F
+CSL-001084,STR-0012,PAT-00411,2026-03-03,Vaccination,Anémie,32,F
+CSL-001085,STR-0012,PAT-03417,2026-05-27,Fièvre,Plaie et traumatisme,41,F
+CSL-001086,STR-0006,PAT-00689,2026-06-19,Vaccination,Infection respiratoire aiguë,16,M
+CSL-001087,STR-0019,PAT-03756,2026-01-29,Fièvre,Infection respiratoire aiguë,41,F
+CSL-001088,STR-0004,PAT-03129,2025-12-02,Vaccination,Infection respiratoire aiguë,43,F
+CSL-001089,STR-0003,PAT-03551,2025-11-24,Fièvre,Hypertension artérielle,73,F
+CSL-001090,STR-0012,PAT-04697,2026-09-29,Suivi de grossesse,Hypertension artérielle,55,F
+CSL-001091,STR-0010,PAT-02234,2025-11-11,Fièvre,Malnutrition aiguë,26,M
+CSL-001092,STR-0011,PAT-00796,2025-12-03,Toux,Hypertension artérielle,2,F
+CSL-001093,STR-0020,PAT-03774,2025-10-25,Vaccination,Malnutrition aiguë,81,F
+CSL-001094,STR-0015,PAT-04088,2026-08-08,Toux,Diarrhée aiguë,86,F
+CSL-001095,STR-0016,PAT-04599,2025-12-05,Douleurs abdominales,Infection respiratoire aiguë,26,F
+CSL-001096,STR-0020,PAT-04792,2026-08-06,Toux,Anémie,72,F
+CSL-001097,STR-0013,PAT-04404,2026-06-26,Toux,Malnutrition aiguë,77,M
+CSL-001098,STR-0019,PAT-02371,2026-08-29,Toux,Diarrhée aiguë,51,F
+CSL-001099,STR-0004,PAT-02604,2026-04-22,Vaccination,Malnutrition aiguë,28,F
+CSL-001100,STR-0013,PAT-02363,2026-07-26,Fièvre,Anémie,59,M
+CSL-001101,STR-0020,PAT-01837,2026-10-10,Toux,Infection respiratoire aiguë,76,F
+CSL-001102,STR-0019,PAT-03866,2026-07-31,Contrôle,Infection respiratoire aiguë,47,M
+CSL-001103,STR-0008,PAT-01436,2026-04-19,Suivi de grossesse,Hypertension artérielle,41,M
+CSL-001104,STR-0020,PAT-03635,2026-06-21,Toux,Diarrhée aiguë,59,M
+CSL-001105,STR-0014,PAT-04258,2026-10-08,Suivi de grossesse,Malnutrition aiguë,9,F
+CSL-001106,STR-0001,PAT-03593,2026-01-24,Suivi de grossesse,Paludisme simple,37,F
+CSL-001107,STR-0004,PAT-00849,2026-03-19,Toux,Diabète,74,M
+CSL-001108,STR-0004,PAT-02704,2026-06-11,Contrôle,Infection respiratoire aiguë,58,F
+CSL-001109,STR-0015,PAT-02709,2026-05-26,Suivi de grossesse,Diabète,72,F
+CSL-001110,STR-0010,PAT-02513,2026-04-22,Contrôle,Diarrhée aiguë,72,F
+CSL-001111,STR-0005,PAT-01201,2025-11-03,Vaccination,Diabète,49,F
+CSL-001112,STR-0017,PAT-04234,2026-04-21,Suivi de grossesse,Plaie et traumatisme,79,M
+CSL-001113,STR-0012,PAT-03097,2026-01-30,Suivi de grossesse,Diarrhée aiguë,67,F
+CSL-001114,STR-0003,PAT-02805,2025-11-16,Toux,Diabète,26,M
+CSL-001115,STR-0007,PAT-02921,2026-08-24,Suivi de grossesse,Plaie et traumatisme,72,M
+CSL-001116,STR-0004,PAT-02700,2025-12-08,Vaccination,Infection respiratoire aiguë,34,M
+CSL-001117,STR-0008,PAT-02098,2026-06-20,Contrôle,Diarrhée aiguë,88,M
+CSL-001118,STR-0002,PAT-04991,2026-07-26,Douleurs abdominales,Diabète,11,M
+CSL-001119,STR-0019,PAT-03910,2025-12-29,Suivi de grossesse,Infection respiratoire aiguë,68,M
+CSL-001120,STR-0003,PAT-03900,2026-03-12,Toux,Infection respiratoire aiguë,69,M
+CSL-001121,STR-0007,PAT-04825,2026-03-12,Contrôle,Plaie et traumatisme,0,F
+CSL-001122,STR-0016,PAT-04213,2026-02-07,Douleurs abdominales,Diabète,33,M
+CSL-001123,STR-0004,PAT-01493,2026-03-13,Suivi de grossesse,Paludisme simple,40,F
+CSL-001124,STR-0004,PAT-03631,2026-05-22,Douleurs abdominales,Diarrhée aiguë,24,M
+CSL-001125,STR-0011,PAT-04346,2026-05-21,Suivi de grossesse,Infection respiratoire aiguë,87,F
+CSL-001126,STR-0020,PAT-01288,2026-08-05,Douleurs abdominales,Plaie et traumatisme,83,F
+CSL-001127,STR-0011,PAT-03685,2026-04-26,Douleurs abdominales,Malnutrition aiguë,72,F
+CSL-001128,STR-0015,PAT-02247,2026-08-14,Fièvre,Hypertension artérielle,26,F
+CSL-001129,STR-0018,PAT-04588,2026-05-11,Contrôle,Hypertension artérielle,27,F
+CSL-001130,STR-0019,PAT-03850,2026-02-21,Fièvre,Malnutrition aiguë,88,F
+CSL-001131,STR-0002,PAT-00831,2026-04-15,Fièvre,Anémie,35,F
+CSL-001132,STR-0014,PAT-01244,2026-05-11,Toux,Diabète,73,M
+CSL-001133,STR-0017,PAT-02388,2026-01-12,Contrôle,Paludisme simple,17,M
+CSL-001134,STR-0015,PAT-01866,2026-05-13,Suivi de grossesse,Anémie,42,M
+CSL-001135,STR-0014,PAT-03247,2026-03-28,Suivi de grossesse,Paludisme simple,67,M
+CSL-001136,STR-0010,PAT-04709,2026-02-15,Douleurs abdominales,Infection respiratoire aiguë,9,M
+CSL-001137,STR-0007,PAT-00599,2025-11-26,Contrôle,Malnutrition aiguë,35,F
+CSL-001138,STR-0019,PAT-02784,2025-11-27,Suivi de grossesse,Malnutrition aiguë,2,F
+CSL-001139,STR-0005,PAT-02121,2026-03-20,Toux,Anémie,68,F
+CSL-001140,STR-0010,PAT-01488,2026-07-11,Fièvre,Paludisme simple,68,M
+CSL-001141,STR-0011,PAT-01886,2026-05-10,Contrôle,Hypertension artérielle,25,F
+CSL-001142,STR-0012,PAT-00224,2026-07-05,Toux,Plaie et traumatisme,15,F
+CSL-001143,STR-0013,PAT-00404,2026-07-10,Suivi de grossesse,Plaie et traumatisme,51,M
+CSL-001144,STR-0003,PAT-01435,2026-08-22,Vaccination,Infection respiratoire aiguë,20,M
+CSL-001145,STR-0011,PAT-03401,2026-04-24,Toux,Hypertension artérielle,11,F
+CSL-001146,STR-0014,PAT-03280,2026-04-13,Fièvre,Anémie,46,F
+CSL-001147,STR-0003,PAT-03193,2026-06-29,Suivi de grossesse,Paludisme simple,35,F
+CSL-001148,STR-0001,PAT-01049,2026-01-08,Vaccination,Diarrhée aiguë,17,F
+CSL-001149,STR-0010,PAT-03045,2025-11-20,Vaccination,Malnutrition aiguë,20,F
+CSL-001150,STR-0006,PAT-02991,2025-11-16,Fièvre,Diarrhée aiguë,3,F
+CSL-001151,STR-0009,PAT-02631,2026-04-16,Fièvre,Paludisme simple,42,M
+CSL-001152,STR-0020,PAT-04303,2026-04-14,Toux,Diarrhée aiguë,12,M
+CSL-001153,STR-0014,PAT-04397,2026-03-01,Suivi de grossesse,Diarrhée aiguë,77,M
+CSL-001154,STR-0012,PAT-00790,2026-01-21,Suivi de grossesse,Plaie et traumatisme,73,M
+CSL-001155,STR-0008,PAT-00674,2026-08-12,Contrôle,Infection respiratoire aiguë,51,F
+CSL-001156,STR-0015,PAT-04840,2025-10-26,Vaccination,Diabète,16,F
+CSL-001157,STR-0002,PAT-01622,2026-04-10,Toux,Paludisme simple,18,M
+CSL-001158,STR-0019,PAT-03939,2026-10-19,Suivi de grossesse,Anémie,24,F
+CSL-001159,STR-0009,PAT-04215,2026-08-25,Douleurs abdominales,Anémie,23,F
+CSL-001160,STR-0011,PAT-04253,2025-11-16,Douleurs abdominales,Infection respiratoire aiguë,46,F
+CSL-001161,STR-0010,PAT-01035,2026-01-16,Douleurs abdominales,Diabète,57,F
+CSL-001162,STR-0007,PAT-02900,2026-10-16,Vaccination,Diarrhée aiguë,72,M
+CSL-001163,STR-0006,PAT-01854,2025-11-10,Contrôle,Diarrhée aiguë,69,F
+CSL-001164,STR-0013,PAT-04275,2026-05-26,Suivi de grossesse,Plaie et traumatisme,59,F
+CSL-001165,STR-0009,PAT-04553,2026-09-16,Contrôle,Diabète,26,M
+CSL-001166,STR-0016,PAT-01313,2026-08-12,Toux,Malnutrition aiguë,20,F
+CSL-001167,STR-0009,PAT-01151,2026-07-01,Suivi de grossesse,Infection respiratoire aiguë,74,M
+CSL-001168,STR-0011,PAT-00089,2026-06-05,Contrôle,Infection respiratoire aiguë,66,F
+CSL-001169,STR-0020,PAT-03723,2026-01-20,Toux,Infection respiratoire aiguë,43,F
+CSL-001170,STR-0015,PAT-03490,2025-12-08,Vaccination,Diarrhée aiguë,90,F
+CSL-001171,STR-0012,PAT-01977,2025-12-22,Contrôle,Plaie et traumatisme,89,F
+CSL-001172,STR-0009,PAT-04161,2026-06-05,Douleurs abdominales,Malnutrition aiguë,85,F
+CSL-001173,STR-0016,PAT-01814,2025-12-29,Vaccination,Malnutrition aiguë,85,F
+CSL-001174,STR-0020,PAT-04634,2026-01-10,Suivi de grossesse,Malnutrition aiguë,5,M
+CSL-001175,STR-0020,PAT-03456,2025-12-31,Suivi de grossesse,Paludisme simple,44,F
+CSL-001176,STR-0001,PAT-01770,2026-03-17,Vaccination,Diarrhée aiguë,3,F
+CSL-001177,STR-0009,PAT-02938,2026-03-05,Contrôle,Anémie,45,M
+CSL-001178,STR-0006,PAT-01716,2026-06-12,Vaccination,Anémie,51,F
+CSL-001179,STR-0012,PAT-04410,2026-05-07,Contrôle,Hypertension artérielle,40,F
+CSL-001180,STR-0011,PAT-04074,2026-03-31,Contrôle,Diarrhée aiguë,48,M
+CSL-001181,STR-0006,PAT-01381,2026-04-22,Douleurs abdominales,Paludisme simple,14,M
+CSL-001182,STR-0013,PAT-00623,2026-07-25,Toux,Infection respiratoire aiguë,11,F
+CSL-001183,STR-0013,PAT-00849,2026-08-17,Contrôle,Diabète,78,M
+CSL-001184,STR-0009,PAT-00216,2025-11-17,Suivi de grossesse,Hypertension artérielle,88,M
+CSL-001185,STR-0005,PAT-00102,2026-07-06,Douleurs abdominales,Hypertension artérielle,2,F
+CSL-001186,STR-0017,PAT-04759,2026-07-21,Suivi de grossesse,Malnutrition aiguë,33,F
+CSL-001187,STR-0003,PAT-01102,2026-04-25,Douleurs abdominales,Hypertension artérielle,68,M
+CSL-001188,STR-0018,PAT-02569,2026-02-23,Fièvre,Hypertension artérielle,44,M
+CSL-001189,STR-0019,PAT-03574,2026-02-12,Fièvre,Diarrhée aiguë,2,F
+CSL-001190,STR-0009,PAT-04668,2026-09-21,Douleurs abdominales,Paludisme simple,76,F
+CSL-001191,STR-0018,PAT-02496,2026-05-19,Douleurs abdominales,Hypertension artérielle,72,F
+CSL-001192,STR-0011,PAT-00056,2025-12-28,Vaccination,Paludisme simple,45,M
+CSL-001193,STR-0006,PAT-01595,2026-03-27,Toux,Diarrhée aiguë,23,M
+CSL-001194,STR-0013,PAT-03339,2025-11-08,Suivi de grossesse,Plaie et traumatisme,17,F
+CSL-001195,STR-0014,PAT-02065,2026-07-26,Suivi de grossesse,Infection respiratoire aiguë,23,F
+CSL-001196,STR-0015,PAT-00771,2026-05-04,Vaccination,Diabète,2,M
+CSL-001197,STR-0013,PAT-02509,2026-05-10,Fièvre,Anémie,8,M
+CSL-001198,STR-0018,PAT-01789,2026-07-23,Douleurs abdominales,Infection respiratoire aiguë,87,M
+CSL-001199,STR-0020,PAT-00318,2026-10-09,Vaccination,Infection respiratoire aiguë,39,F
+CSL-001200,STR-0017,PAT-01372,2025-12-26,Fièvre,Plaie et traumatisme,24,M
+CSL-001201,STR-0011,PAT-02018,2026-09-21,Douleurs abdominales,Diarrhée aiguë,30,F
+CSL-001202,STR-0002,PAT-03936,2026-04-24,Contrôle,Infection respiratoire aiguë,66,M
+CSL-001203,STR-0007,PAT-02315,2026-01-18,Douleurs abdominales,Diarrhée aiguë,57,M
+CSL-001204,STR-0001,PAT-04025,2026-02-15,Fièvre,Anémie,71,F
+CSL-001205,STR-0007,PAT-00731,2026-10-03,Douleurs abdominales,Diarrhée aiguë,82,F
+CSL-001206,STR-0014,PAT-04165,2026-09-28,Vaccination,Diarrhée aiguë,65,F
+CSL-001207,STR-0007,PAT-04058,2026-09-17,Toux,Paludisme simple,5,F
+CSL-001208,STR-0008,PAT-02710,2026-10-22,Toux,Malnutrition aiguë,29,F
+CSL-001209,STR-0009,PAT-03464,2025-11-16,Contrôle,Diabète,26,F
+CSL-001210,STR-0007,PAT-04000,2026-06-04,Douleurs abdominales,Paludisme simple,80,F
+CSL-001211,STR-0008,PAT-00578,2025-11-19,Contrôle,Infection respiratoire aiguë,14,M
+CSL-001212,STR-0013,PAT-02334,2026-06-15,Vaccination,Diabète,36,F
+CSL-001213,STR-0003,PAT-04545,2026-07-13,Suivi de grossesse,Hypertension artérielle,16,M
+CSL-001214,STR-0003,PAT-00553,2026-07-22,Toux,Malnutrition aiguë,78,F
+CSL-001215,STR-0007,PAT-01724,2026-02-09,Contrôle,Anémie,5,M
+CSL-001216,STR-0015,PAT-01644,2026-04-28,Contrôle,Paludisme simple,50,F
+CSL-001217,STR-0006,PAT-01593,2026-07-01,Douleurs abdominales,Plaie et traumatisme,3,F
+CSL-001218,STR-0010,PAT-04562,2026-01-27,Toux,Diarrhée aiguë,70,F
+CSL-001219,STR-0017,PAT-04377,2026-03-29,Fièvre,Diarrhée aiguë,41,F
+CSL-001220,STR-0001,PAT-03123,2026-06-27,Fièvre,Paludisme simple,49,M
+CSL-001221,STR-0018,PAT-00606,2026-01-09,Fièvre,Plaie et traumatisme,73,F
+CSL-001222,STR-0016,PAT-02049,2025-11-09,Douleurs abdominales,Plaie et traumatisme,61,M
+CSL-001223,STR-0013,PAT-02108,2026-07-27,Toux,Anémie,2,F
+CSL-001224,STR-0013,PAT-01025,2026-06-30,Contrôle,Anémie,26,F
+CSL-001225,STR-0012,PAT-02768,2026-03-01,Douleurs abdominales,Malnutrition aiguë,17,M
+CSL-001226,STR-0007,PAT-02978,2026-01-06,Suivi de grossesse,Malnutrition aiguë,47,F
+CSL-001227,STR-0018,PAT-03706,2026-08-30,Douleurs abdominales,Malnutrition aiguë,6,M
+CSL-001228,STR-0013,PAT-04240,2025-11-21,Suivi de grossesse,Diarrhée aiguë,56,M
+CSL-001229,STR-0013,PAT-04711,2026-08-06,Toux,Diarrhée aiguë,52,F
+CSL-001230,STR-0020,PAT-04347,2025-12-16,Contrôle,Paludisme simple,86,M
+CSL-001231,STR-0011,PAT-00737,2026-09-27,Douleurs abdominales,Anémie,25,M
+CSL-001232,STR-0011,PAT-04780,2025-12-09,Suivi de grossesse,Plaie et traumatisme,43,M
+CSL-001233,STR-0004,PAT-04361,2026-03-26,Vaccination,Malnutrition aiguë,20,F
+CSL-001234,STR-0013,PAT-03874,2026-08-16,Suivi de grossesse,Plaie et traumatisme,21,M
+CSL-001235,STR-0019,PAT-02817,2025-11-15,Douleurs abdominales,Infection respiratoire aiguë,47,M
+CSL-001236,STR-0013,PAT-01225,2025-11-12,Fièvre,Hypertension artérielle,81,F
+CSL-001237,STR-0019,PAT-03423,2025-12-10,Toux,Anémie,32,M
+CSL-001238,STR-0010,PAT-02156,2025-10-31,Suivi de grossesse,Malnutrition aiguë,43,M
+CSL-001239,STR-0002,PAT-01071,2026-01-15,Vaccination,Paludisme simple,73,M
+CSL-001240,STR-0009,PAT-03074,2025-11-03,Douleurs abdominales,Anémie,65,F
+CSL-001241,STR-0007,PAT-04005,2026-01-15,Douleurs abdominales,Diabète,10,F
+CSL-001242,STR-0003,PAT-01451,2026-06-22,Douleurs abdominales,Infection respiratoire aiguë,19,M
+CSL-001243,STR-0011,PAT-00577,2026-10-18,Toux,Plaie et traumatisme,80,F
+CSL-001244,STR-0003,PAT-00751,2026-07-21,Fièvre,Malnutrition aiguë,87,M
+CSL-001245,STR-0011,PAT-04337,2026-04-09,Toux,Plaie et traumatisme,25,F
+CSL-001246,STR-0017,PAT-00052,2026-07-22,Fièvre,Diarrhée aiguë,25,F
+CSL-001247,STR-0004,PAT-00621,2025-10-31,Toux,Diarrhée aiguë,41,M
+CSL-001248,STR-0020,PAT-03378,2026-05-26,Vaccination,Diabète,27,F
+CSL-001249,STR-0009,PAT-02306,2025-11-23,Toux,Infection respiratoire aiguë,7,M
+CSL-001250,STR-0015,PAT-00099,2025-11-13,Contrôle,Infection respiratoire aiguë,40,F
+CSL-001251,STR-0016,PAT-03035,2026-04-24,Suivi de grossesse,Diabète,62,F
+CSL-001252,STR-0015,PAT-02658,2026-02-28,Suivi de grossesse,Plaie et traumatisme,59,F
+CSL-001253,STR-0001,PAT-01143,2026-03-24,Douleurs abdominales,Malnutrition aiguë,80,M
+CSL-001254,STR-0019,PAT-01507,2026-08-08,Toux,Infection respiratoire aiguë,2,F
+CSL-001255,STR-0006,PAT-02487,2026-04-07,Vaccination,Diabète,29,M
+CSL-001256,STR-0002,PAT-02895,2026-02-17,Fièvre,Infection respiratoire aiguë,41,F
+CSL-001257,STR-0006,PAT-02774,2026-05-20,Contrôle,Diabète,87,F
+CSL-001258,STR-0012,PAT-04632,2026-08-20,Suivi de grossesse,Infection respiratoire aiguë,2,F
+CSL-001259,STR-0016,PAT-02299,2026-05-17,Vaccination,Anémie,73,F
+CSL-001260,STR-0008,PAT-02041,2025-12-16,Suivi de grossesse,Plaie et traumatisme,2,F
+CSL-001261,STR-0009,PAT-00549,2025-12-20,Suivi de grossesse,Malnutrition aiguë,24,F
+CSL-001262,STR-0020,PAT-03954,2026-04-25,Vaccination,Diarrhée aiguë,34,F
+CSL-001263,STR-0020,PAT-00987,2025-12-23,Douleurs abdominales,Paludisme simple,24,F
+CSL-001264,STR-0001,PAT-02443,2025-10-31,Douleurs abdominales,Hypertension artérielle,18,F
+CSL-001265,STR-0003,PAT-03020,2026-03-23,Suivi de grossesse,Diarrhée aiguë,57,F
+CSL-001266,STR-0020,PAT-03714,2026-07-15,Douleurs abdominales,Diarrhée aiguë,75,M
+CSL-001267,STR-0012,PAT-01162,2026-02-22,Douleurs abdominales,Malnutrition aiguë,70,M
+CSL-001268,STR-0011,PAT-04634,2026-06-02,Vaccination,Paludisme simple,65,M
+CSL-001269,STR-0006,PAT-01926,2026-01-30,Fièvre,Anémie,45,F
+CSL-001270,STR-0013,PAT-04466,2026-02-14,Fièvre,Malnutrition aiguë,82,F
+CSL-001271,STR-0008,PAT-00463,2026-06-30,Contrôle,Paludisme simple,6,M
+CSL-001272,STR-0017,PAT-02618,2026-08-15,Douleurs abdominales,Malnutrition aiguë,81,F
+CSL-001273,STR-0014,PAT-04506,2026-10-12,Fièvre,Paludisme simple,25,M
+CSL-001274,STR-0012,PAT-00661,2026-10-21,Vaccination,Anémie,65,M
+CSL-001275,STR-0010,PAT-02177,2025-12-10,Vaccination,Anémie,65,F
+CSL-001276,STR-0011,PAT-01604,2026-06-15,Douleurs abdominales,Diabète,50,M
+CSL-001277,STR-0006,PAT-00924,2026-07-12,Fièvre,Malnutrition aiguë,13,M
+CSL-001278,STR-0007,PAT-04860,2026-05-25,Douleurs abdominales,Anémie,59,M
+CSL-001279,STR-0007,PAT-01483,2026-10-18,Douleurs abdominales,Hypertension artérielle,63,F
+CSL-001280,STR-0008,PAT-00637,2026-05-31,Vaccination,Infection respiratoire aiguë,0,M
+CSL-001281,STR-0004,PAT-00439,2026-08-04,Douleurs abdominales,Hypertension artérielle,82,M
+CSL-001282,STR-0010,PAT-00287,2026-10-13,Fièvre,Diabète,18,F
+CSL-001283,STR-0016,PAT-01431,2026-10-09,Fièvre,Infection respiratoire aiguë,11,M
+CSL-001284,STR-0019,PAT-03930,2026-10-13,Fièvre,Diarrhée aiguë,27,M
+CSL-001285,STR-0014,PAT-01434,2026-02-28,Fièvre,Paludisme simple,84,M
+CSL-001286,STR-0009,PAT-01541,2026-10-12,Toux,Plaie et traumatisme,0,M
+CSL-001287,STR-0012,PAT-00725,2026-05-31,Vaccination,Anémie,58,F
+CSL-001288,STR-0012,PAT-03335,2025-12-01,Toux,Malnutrition aiguë,47,F
+CSL-001289,STR-0018,PAT-03341,2025-11-13,Douleurs abdominales,Malnutrition aiguë,11,F
+CSL-001290,STR-0015,PAT-04418,2026-02-28,Contrôle,Diarrhée aiguë,5,F
+CSL-001291,STR-0005,PAT-01687,2026-01-04,Contrôle,Malnutrition aiguë,10,F
+CSL-001292,STR-0004,PAT-04715,2026-01-31,Fièvre,Diabète,70,M
+CSL-001293,STR-0018,PAT-03236,2026-04-16,Vaccination,Malnutrition aiguë,28,F
+CSL-001294,STR-0001,PAT-04133,2026-07-20,Fièvre,Plaie et traumatisme,18,M
+CSL-001295,STR-0001,PAT-00255,2026-10-12,Douleurs abdominales,Infection respiratoire aiguë,26,M
+CSL-001296,STR-0020,PAT-02460,2026-10-19,Douleurs abdominales,Malnutrition aiguë,47,M
+CSL-001297,STR-0002,PAT-04026,2025-12-25,Fièvre,Plaie et traumatisme,40,F
+CSL-001298,STR-0018,PAT-00803,2026-04-11,Suivi de grossesse,Anémie,87,F
+CSL-001299,STR-0016,PAT-02066,2026-09-10,Vaccination,Infection respiratoire aiguë,10,M
+CSL-001300,STR-0016,PAT-00282,2025-12-19,Douleurs abdominales,Diabète,70,F
+CSL-001301,STR-0005,PAT-04862,2026-10-19,Contrôle,Paludisme simple,64,F
+CSL-001302,STR-0019,PAT-03180,2026-06-06,Vaccination,Paludisme simple,32,M
+CSL-001303,STR-0014,PAT-00899,2026-05-08,Contrôle,Diarrhée aiguë,9,M
+CSL-001304,STR-0013,PAT-00360,2026-07-26,Douleurs abdominales,Diarrhée aiguë,28,F
+CSL-001305,STR-0005,PAT-04958,2026-08-14,Vaccination,Paludisme simple,56,F
+CSL-001306,STR-0012,PAT-04453,2025-11-03,Fièvre,Malnutrition aiguë,60,M
+CSL-001307,STR-0009,PAT-02930,2026-09-10,Suivi de grossesse,Malnutrition aiguë,64,M
+CSL-001308,STR-0019,PAT-01531,2026-09-10,Contrôle,Hypertension artérielle,57,F
+CSL-001309,STR-0002,PAT-01903,2026-01-11,Toux,Diarrhée aiguë,38,M
+CSL-001310,STR-0009,PAT-04798,2026-01-29,Vaccination,Paludisme simple,38,M
+CSL-001311,STR-0016,PAT-01755,2026-02-22,Fièvre,Diarrhée aiguë,49,M
+CSL-001312,STR-0003,PAT-03914,2026-08-11,Vaccination,Infection respiratoire aiguë,72,M
+CSL-001313,STR-0008,PAT-02151,2026-04-22,Suivi de grossesse,Paludisme simple,55,M
+CSL-001314,STR-0013,PAT-03685,2026-04-16,Vaccination,Hypertension artérielle,16,F
+CSL-001315,STR-0016,PAT-00615,2026-05-30,Suivi de grossesse,Paludisme simple,53,M
+CSL-001316,STR-0015,PAT-02798,2026-06-03,Douleurs abdominales,Anémie,39,F
+CSL-001317,STR-0019,PAT-01125,2025-11-20,Suivi de grossesse,Anémie,11,F
+CSL-001318,STR-0009,PAT-02223,2025-12-06,Douleurs abdominales,Hypertension artérielle,40,F
+CSL-001319,STR-0007,PAT-02745,2026-05-21,Vaccination,Malnutrition aiguë,35,F
+CSL-001320,STR-0012,PAT-04447,2026-07-19,Vaccination,Anémie,26,F
+CSL-001321,STR-0011,PAT-01500,2025-12-22,Contrôle,Plaie et traumatisme,47,M
+CSL-001322,STR-0005,PAT-02087,2026-05-03,Vaccination,Infection respiratoire aiguë,32,M
+CSL-001323,STR-0016,PAT-03726,2026-06-16,Vaccination,Diabète,65,F
+CSL-001324,STR-0016,PAT-04877,2025-12-07,Fièvre,Plaie et traumatisme,55,F
+CSL-001325,STR-0003,PAT-02273,2026-10-03,Fièvre,Diabète,16,M
+CSL-001326,STR-0020,PAT-02271,2026-05-05,Douleurs abdominales,Malnutrition aiguë,30,M
+CSL-001327,STR-0018,PAT-02897,2026-06-10,Toux,Diarrhée aiguë,2,F
+CSL-001328,STR-0020,PAT-00143,2026-01-20,Toux,Infection respiratoire aiguë,73,F
+CSL-001329,STR-0015,PAT-04994,2026-06-23,Toux,Diarrhée aiguë,28,F
+CSL-001330,STR-0014,PAT-04749,2026-05-20,Vaccination,Malnutrition aiguë,57,M
+CSL-001331,STR-0015,PAT-03626,2025-10-25,Toux,Malnutrition aiguë,78,F
+CSL-001332,STR-0016,PAT-03578,2025-11-14,Vaccination,Anémie,41,M
+CSL-001333,STR-0012,PAT-01184,2026-07-11,Contrôle,Infection respiratoire aiguë,76,F
+CSL-001334,STR-0011,PAT-02894,2026-07-05,Suivi de grossesse,Diabète,31,F
+CSL-001335,STR-0019,PAT-02000,2026-10-12,Contrôle,Infection respiratoire aiguë,57,M
+CSL-001336,STR-0015,PAT-03475,2026-03-15,Fièvre,Malnutrition aiguë,32,F
+CSL-001337,STR-0006,PAT-01381,2026-02-21,Toux,Hypertension artérielle,4,F
+CSL-001338,STR-0018,PAT-00411,2025-12-13,Douleurs abdominales,Infection respiratoire aiguë,67,F
+CSL-001339,STR-0008,PAT-03355,2026-07-21,Douleurs abdominales,Diarrhée aiguë,66,M
+CSL-001340,STR-0019,PAT-01442,2026-09-28,Douleurs abdominales,Plaie et traumatisme,54,M
+CSL-001341,STR-0003,PAT-00552,2025-10-25,Fièvre,Diabète,22,M
+CSL-001342,STR-0008,PAT-00072,2026-07-21,Douleurs abdominales,Diarrhée aiguë,34,M
+CSL-001343,STR-0020,PAT-03009,2026-06-23,Vaccination,Diabète,59,M
+CSL-001344,STR-0020,PAT-00347,2025-12-01,Fièvre,Malnutrition aiguë,17,M
+CSL-001345,STR-0013,PAT-04302,2026-01-20,Suivi de grossesse,Anémie,77,F
+CSL-001346,STR-0007,PAT-00602,2026-10-06,Vaccination,Anémie,38,M
+CSL-001347,STR-0007,PAT-03568,2026-10-16,Contrôle,Diarrhée aiguë,57,M
+CSL-001348,STR-0013,PAT-03821,2026-02-17,Contrôle,Plaie et traumatisme,47,M
+CSL-001349,STR-0010,PAT-03065,2026-09-03,Fièvre,Anémie,59,F
+CSL-001350,STR-0002,PAT-03928,2026-02-22,Fièvre,Anémie,42,M
+CSL-001351,STR-0018,PAT-02209,2025-10-25,Fièvre,Paludisme simple,65,M
+CSL-001352,STR-0020,PAT-02676,2026-04-30,Douleurs abdominales,Anémie,6,M
+CSL-001353,STR-0018,PAT-04640,2025-11-17,Vaccination,Infection respiratoire aiguë,19,F
+CSL-001354,STR-0005,PAT-01165,2026-06-10,Toux,Infection respiratoire aiguë,78,F
+CSL-001355,STR-0007,PAT-03428,2026-08-17,Vaccination,Hypertension artérielle,53,M
+CSL-001356,STR-0002,PAT-02176,2026-08-02,Contrôle,Plaie et traumatisme,8,M
+CSL-001357,STR-0011,PAT-03049,2026-03-03,Suivi de grossesse,Diabète,73,F
+CSL-001358,STR-0009,PAT-04865,2026-01-31,Toux,Hypertension artérielle,2,F
+CSL-001359,STR-0002,PAT-04848,2026-03-31,Douleurs abdominales,Diabète,13,M
+CSL-001360,STR-0014,PAT-03276,2026-04-22,Suivi de grossesse,Anémie,38,M
+CSL-001361,STR-0003,PAT-02572,2025-11-19,Fièvre,Malnutrition aiguë,51,F
+CSL-001362,STR-0012,PAT-00969,2026-05-07,Douleurs abdominales,Hypertension artérielle,62,F
+CSL-001363,STR-0020,PAT-01351,2026-06-22,Douleurs abdominales,Diarrhée aiguë,76,F
+CSL-001364,STR-0016,PAT-00757,2026-03-19,Contrôle,Diarrhée aiguë,6,M
+CSL-001365,STR-0012,PAT-04686,2025-11-07,Fièvre,Paludisme simple,21,F
+CSL-001366,STR-0007,PAT-01393,2026-10-24,Suivi de grossesse,Plaie et traumatisme,13,F
+CSL-001367,STR-0009,PAT-01290,2025-12-18,Contrôle,Infection respiratoire aiguë,63,M
+CSL-001368,STR-0012,PAT-04169,2026-03-07,Douleurs abdominales,Diabète,83,F
+CSL-001369,STR-0015,PAT-01219,2026-06-23,Contrôle,Diarrhée aiguë,4,M
+CSL-001370,STR-0015,PAT-01034,2026-08-30,Toux,Infection respiratoire aiguë,36,F
+CSL-001371,STR-0018,PAT-04815,2025-11-16,Douleurs abdominales,Hypertension artérielle,60,M
+CSL-001372,STR-0009,PAT-03192,2026-10-08,Toux,Plaie et traumatisme,59,F
+CSL-001373,STR-0019,PAT-01508,2026-05-16,Fièvre,Diarrhée aiguë,32,F
+CSL-001374,STR-0005,PAT-01967,2026-10-03,Vaccination,Plaie et traumatisme,35,M
+CSL-001375,STR-0012,PAT-02763,2025-12-14,Fièvre,Infection respiratoire aiguë,61,M
+CSL-001376,STR-0017,PAT-02241,2025-11-21,Vaccination,Malnutrition aiguë,67,M
+CSL-001377,STR-0010,PAT-04414,2026-01-17,Suivi de grossesse,Paludisme simple,36,F
+CSL-001378,STR-0016,PAT-03419,2026-09-22,Suivi de grossesse,Hypertension artérielle,40,M
+CSL-001379,STR-0019,PAT-02082,2025-11-16,Suivi de grossesse,Diabète,0,M
+CSL-001380,STR-0001,PAT-03523,2026-04-04,Fièvre,Infection respiratoire aiguë,35,F
+CSL-001381,STR-0020,PAT-00420,2026-05-21,Suivi de grossesse,Hypertension artérielle,68,F
+CSL-001382,STR-0011,PAT-01452,2026-01-10,Vaccination,Hypertension artérielle,1,F
+CSL-001383,STR-0001,PAT-00815,2026-02-21,Toux,Diabète,21,F
+CSL-001384,STR-0010,PAT-04443,2026-05-30,Contrôle,Infection respiratoire aiguë,9,M
+CSL-001385,STR-0009,PAT-01467,2026-09-21,Fièvre,Plaie et traumatisme,43,M
+CSL-001386,STR-0012,PAT-00754,2026-09-12,Douleurs abdominales,Diarrhée aiguë,49,M
+CSL-001387,STR-0017,PAT-04382,2026-08-03,Toux,Plaie et traumatisme,80,F
+CSL-001388,STR-0017,PAT-03297,2026-09-01,Toux,Diarrhée aiguë,24,F
+CSL-001389,STR-0013,PAT-02640,2026-03-04,Contrôle,Anémie,25,M
+CSL-001390,STR-0012,PAT-00141,2026-01-05,Contrôle,Anémie,83,F
+CSL-001391,STR-0004,PAT-04872,2026-08-17,Vaccination,Infection respiratoire aiguë,75,M
+CSL-001392,STR-0002,PAT-02598,2025-12-09,Toux,Diabète,68,F
+CSL-001393,STR-0009,PAT-03110,2025-11-02,Toux,Diabète,43,F
+CSL-001394,STR-0010,PAT-02457,2026-02-11,Suivi de grossesse,Paludisme simple,3,F
+CSL-001395,STR-0020,PAT-00821,2025-12-20,Douleurs abdominales,Infection respiratoire aiguë,12,F
+CSL-001396,STR-0008,PAT-00403,2026-09-14,Douleurs abdominales,Diabète,70,M
+CSL-001397,STR-0002,PAT-02556,2026-04-01,Suivi de grossesse,Infection respiratoire aiguë,84,F
+CSL-001398,STR-0004,PAT-03908,2026-10-22,Fièvre,Plaie et traumatisme,46,F
+CSL-001399,STR-0019,PAT-00851,2026-07-22,Contrôle,Paludisme simple,60,M
+CSL-001400,STR-0017,PAT-02239,2025-11-10,Vaccination,Hypertension artérielle,63,M
+CSL-001401,STR-0013,PAT-01577,2025-11-17,Vaccination,Diabète,44,M
+CSL-001402,STR-0004,PAT-03443,2025-12-13,Douleurs abdominales,Plaie et traumatisme,0,M
+CSL-001403,STR-0006,PAT-04754,2026-01-02,Fièvre,Hypertension artérielle,16,M
+CSL-001404,STR-0013,PAT-01090,2026-09-18,Toux,Diabète,14,M
+CSL-001405,STR-0015,PAT-01183,2026-07-11,Toux,Infection respiratoire aiguë,47,F
+CSL-001406,STR-0007,PAT-01196,2025-11-19,Toux,Malnutrition aiguë,45,M
+CSL-001407,STR-0014,PAT-03798,2026-10-23,Toux,Paludisme simple,7,F
+CSL-001408,STR-0001,PAT-03877,2026-03-20,Vaccination,Infection respiratoire aiguë,75,F
+CSL-001409,STR-0016,PAT-03200,2026-06-05,Douleurs abdominales,Diarrhée aiguë,61,M
+CSL-001410,STR-0018,PAT-04176,2026-07-04,Contrôle,Diarrhée aiguë,14,F
+CSL-001411,STR-0013,PAT-00167,2026-05-19,Fièvre,Infection respiratoire aiguë,30,F
+CSL-001412,STR-0006,PAT-04072,2026-01-26,Vaccination,Paludisme simple,19,M
+CSL-001413,STR-0016,PAT-01585,2026-10-24,Toux,Infection respiratoire aiguë,39,F
+CSL-001414,STR-0020,PAT-04631,2025-11-16,Vaccination,Anémie,12,F
+CSL-001415,STR-0016,PAT-01976,2026-04-25,Vaccination,Anémie,63,M
+CSL-001416,STR-0008,PAT-03365,2026-08-15,Fièvre,Hypertension artérielle,59,F
+CSL-001417,STR-0007,PAT-03039,2026-07-07,Fièvre,Paludisme simple,32,M
+CSL-001418,STR-0020,PAT-00974,2026-06-25,Fièvre,Diabète,76,M
+CSL-001419,STR-0006,PAT-00053,2026-01-20,Suivi de grossesse,Hypertension artérielle,52,F
+CSL-001420,STR-0019,PAT-02275,2026-06-29,Fièvre,Malnutrition aiguë,89,F
+CSL-001421,STR-0019,PAT-00175,2026-09-05,Contrôle,Diabète,24,M
+CSL-001422,STR-0007,PAT-01713,2026-07-25,Toux,Diarrhée aiguë,37,F
+CSL-001423,STR-0005,PAT-00258,2025-12-12,Fièvre,Hypertension artérielle,46,F
+CSL-001424,STR-0002,PAT-04367,2026-04-16,Toux,Malnutrition aiguë,13,M
+CSL-001425,STR-0004,PAT-03561,2026-03-26,Toux,Diarrhée aiguë,34,F
+CSL-001426,STR-0014,PAT-01411,2026-03-09,Vaccination,Plaie et traumatisme,35,F
+CSL-001427,STR-0010,PAT-03077,2026-03-31,Vaccination,Plaie et traumatisme,11,M
+CSL-001428,STR-0013,PAT-04757,2026-02-21,Contrôle,Diarrhée aiguë,6,M
+CSL-001429,STR-0018,PAT-00685,2026-01-22,Douleurs abdominales,Infection respiratoire aiguë,33,F
+CSL-001430,STR-0005,PAT-01807,2026-07-11,Contrôle,Infection respiratoire aiguë,66,M
+CSL-001431,STR-0006,PAT-02264,2026-03-03,Douleurs abdominales,Paludisme simple,4,M
+CSL-001432,STR-0001,PAT-00686,2026-10-12,Douleurs abdominales,Diarrhée aiguë,81,M
+CSL-001433,STR-0015,PAT-04416,2026-09-04,Contrôle,Anémie,7,M
+CSL-001434,STR-0010,PAT-02137,2026-05-29,Toux,Infection respiratoire aiguë,69,M
+CSL-001435,STR-0010,PAT-04108,2026-07-27,Vaccination,Paludisme simple,40,F
+CSL-001436,STR-0002,PAT-00023,2025-12-22,Contrôle,Diabète,31,F
+CSL-001437,STR-0017,PAT-01229,2026-06-06,Suivi de grossesse,Malnutrition aiguë,72,M
+CSL-001438,STR-0008,PAT-02635,2026-02-05,Douleurs abdominales,Paludisme simple,46,F
+CSL-001439,STR-0018,PAT-00323,2026-10-03,Contrôle,Plaie et traumatisme,6,F
+CSL-001440,STR-0018,PAT-03769,2025-12-14,Vaccination,Anémie,2,M
+CSL-001441,STR-0004,PAT-03209,2026-09-30,Douleurs abdominales,Infection respiratoire aiguë,71,M
+CSL-001442,STR-0016,PAT-04084,2026-01-17,Toux,Hypertension artérielle,48,M
+CSL-001443,STR-0013,PAT-02418,2025-11-02,Contrôle,Diarrhée aiguë,66,F
+CSL-001444,STR-0012,PAT-04329,2026-08-19,Suivi de grossesse,Hypertension artérielle,13,F
+CSL-001445,STR-0013,PAT-01284,2025-12-05,Douleurs abdominales,Anémie,37,M
+CSL-001446,STR-0012,PAT-02785,2025-11-13,Vaccination,Diarrhée aiguë,37,M
+CSL-001447,STR-0019,PAT-04345,2026-02-04,Vaccination,Paludisme simple,28,M
+CSL-001448,STR-0011,PAT-01100,2026-06-05,Suivi de grossesse,Paludisme simple,86,F
+CSL-001449,STR-0010,PAT-01957,2026-09-25,Toux,Hypertension artérielle,26,F
+CSL-001450,STR-0011,PAT-01001,2025-12-28,Suivi de grossesse,Hypertension artérielle,18,M
+CSL-001451,STR-0017,PAT-03822,2026-03-06,Contrôle,Infection respiratoire aiguë,69,M
+CSL-001452,STR-0013,PAT-02647,2026-08-17,Toux,Paludisme simple,52,M
+CSL-001453,STR-0015,PAT-04102,2026-09-06,Suivi de grossesse,Paludisme simple,1,M
+CSL-001454,STR-0004,PAT-02741,2025-12-28,Suivi de grossesse,Infection respiratoire aiguë,70,M
+CSL-001455,STR-0009,PAT-02324,2026-02-12,Vaccination,Infection respiratoire aiguë,53,M
+CSL-001456,STR-0020,PAT-00581,2026-05-18,Fièvre,Diabète,13,F
+CSL-001457,STR-0011,PAT-00217,2026-02-22,Vaccination,Diarrhée aiguë,52,M
+CSL-001458,STR-0020,PAT-04932,2026-07-06,Vaccination,Diarrhée aiguë,9,M
+CSL-001459,STR-0002,PAT-02409,2026-06-16,Toux,Malnutrition aiguë,5,F
+CSL-001460,STR-0004,PAT-00955,2026-02-01,Contrôle,Diarrhée aiguë,54,M
+CSL-001461,STR-0012,PAT-03200,2026-07-12,Suivi de grossesse,Infection respiratoire aiguë,3,F
+CSL-001462,STR-0007,PAT-00819,2026-05-13,Toux,Hypertension artérielle,32,F
+CSL-001463,STR-0004,PAT-03977,2026-01-05,Contrôle,Plaie et traumatisme,54,M
+CSL-001464,STR-0001,PAT-04324,2026-01-14,Suivi de grossesse,Hypertension artérielle,43,F
+CSL-001465,STR-0005,PAT-03338,2026-01-27,Fièvre,Hypertension artérielle,29,F
+CSL-001466,STR-0020,PAT-00390,2026-10-15,Vaccination,Anémie,72,M
+CSL-001467,STR-0019,PAT-01357,2026-06-16,Suivi de grossesse,Malnutrition aiguë,79,F
+CSL-001468,STR-0003,PAT-04278,2026-03-05,Douleurs abdominales,Diarrhée aiguë,68,F
+CSL-001469,STR-0017,PAT-02537,2026-10-14,Vaccination,Hypertension artérielle,22,M
+CSL-001470,STR-0014,PAT-03312,2026-08-13,Vaccination,Paludisme simple,52,M
+CSL-001471,STR-0015,PAT-01425,2025-11-30,Contrôle,Hypertension artérielle,39,M
+CSL-001472,STR-0005,PAT-04597,2026-01-31,Fièvre,Diabète,0,F
+CSL-001473,STR-0011,PAT-00246,2026-03-16,Vaccination,Diarrhée aiguë,51,F
+CSL-001474,STR-0013,PAT-02824,2026-01-04,Suivi de grossesse,Infection respiratoire aiguë,27,M
+CSL-001475,STR-0019,PAT-02760,2026-05-17,Fièvre,Diabète,24,F
+CSL-001476,STR-0002,PAT-00242,2026-06-07,Toux,Plaie et traumatisme,28,M
+CSL-001477,STR-0013,PAT-03190,2025-12-21,Fièvre,Paludisme simple,14,F
+CSL-001478,STR-0013,PAT-04324,2026-09-21,Fièvre,Diabète,10,F
+CSL-001479,STR-0007,PAT-04772,2026-01-30,Suivi de grossesse,Malnutrition aiguë,80,M
+CSL-001480,STR-0009,PAT-02213,2025-12-02,Fièvre,Plaie et traumatisme,56,F
+CSL-001481,STR-0005,PAT-04885,2026-03-28,Toux,Anémie,2,M
+CSL-001482,STR-0020,PAT-00548,2025-10-31,Douleurs abdominales,Paludisme simple,50,F
+CSL-001483,STR-0008,PAT-00731,2026-03-06,Toux,Anémie,45,M
+CSL-001484,STR-0018,PAT-00649,2026-02-27,Suivi de grossesse,Paludisme simple,26,M
+CSL-001485,STR-0017,PAT-02604,2026-06-25,Toux,Plaie et traumatisme,63,F
+CSL-001486,STR-0010,PAT-02516,2026-01-18,Douleurs abdominales,Paludisme simple,21,F
+CSL-001487,STR-0002,PAT-00775,2026-02-05,Suivi de grossesse,Diabète,36,M
+CSL-001488,STR-0004,PAT-03264,2026-06-18,Suivi de grossesse,Infection respiratoire aiguë,18,F
+CSL-001489,STR-0003,PAT-04027,2025-12-01,Vaccination,Diarrhée aiguë,13,M
+CSL-001490,STR-0020,PAT-03588,2026-02-15,Toux,Malnutrition aiguë,29,M
+CSL-001491,STR-0011,PAT-03346,2026-01-19,Fièvre,Anémie,29,F
+CSL-001492,STR-0004,PAT-03716,2025-11-10,Suivi de grossesse,Paludisme simple,51,F
+CSL-001493,STR-0012,PAT-00019,2026-10-17,Suivi de grossesse,Diarrhée aiguë,10,M
+CSL-001494,STR-0006,PAT-00707,2026-05-10,Suivi de grossesse,Anémie,1,F
+CSL-001495,STR-0006,PAT-00596,2026-01-30,Vaccination,Diarrhée aiguë,41,F
+CSL-001496,STR-0009,PAT-01927,2025-11-09,Suivi de grossesse,Diabète,69,M
+CSL-001497,STR-0020,PAT-01883,2026-10-07,Contrôle,Malnutrition aiguë,76,F
+CSL-001498,STR-0018,PAT-00541,2026-02-04,Contrôle,Infection respiratoire aiguë,36,F
+CSL-001499,STR-0015,PAT-00751,2025-11-23,Douleurs abdominales,Diarrhée aiguë,30,F
+CSL-001500,STR-0020,PAT-03703,2026-10-11,Douleurs abdominales,Malnutrition aiguë,9,M
+CSL-001501,STR-0020,PAT-04708,2026-08-09,Suivi de grossesse,Plaie et traumatisme,19,M
+CSL-001502,STR-0018,PAT-02608,2025-11-29,Contrôle,Paludisme simple,51,M
+CSL-001503,STR-0013,PAT-02719,2026-04-08,Contrôle,Plaie et traumatisme,72,M
+CSL-001504,STR-0018,PAT-01442,2026-06-03,Contrôle,Anémie,47,F
+CSL-001505,STR-0005,PAT-02892,2026-07-16,Vaccination,Diabète,23,M
+CSL-001506,STR-0018,PAT-04691,2026-07-17,Fièvre,Anémie,51,M
+CSL-001507,STR-0016,PAT-01458,2026-05-05,Douleurs abdominales,Malnutrition aiguë,21,M
+CSL-001508,STR-0012,PAT-00838,2025-12-17,Toux,Infection respiratoire aiguë,71,F
+CSL-001509,STR-0018,PAT-02658,2026-04-10,Fièvre,Anémie,62,F
+CSL-001510,STR-0017,PAT-04727,2026-08-24,Fièvre,Infection respiratoire aiguë,61,F
+CSL-001511,STR-0011,PAT-04768,2025-10-29,Toux,Diabète,4,M
+CSL-001512,STR-0004,PAT-02677,2026-03-06,Douleurs abdominales,Hypertension artérielle,13,M
+CSL-001513,STR-0014,PAT-03665,2026-06-25,Douleurs abdominales,Paludisme simple,2,F
+CSL-001514,STR-0003,PAT-00289,2026-06-01,Douleurs abdominales,Diarrhée aiguë,58,F
+CSL-001515,STR-0016,PAT-00056,2026-08-18,Douleurs abdominales,Anémie,16,M
+CSL-001516,STR-0002,PAT-02658,2026-03-25,Vaccination,Malnutrition aiguë,57,F
+CSL-001517,STR-0011,PAT-02291,2026-02-05,Vaccination,Anémie,75,F
+CSL-001518,STR-0017,PAT-01056,2026-07-25,Douleurs abdominales,Infection respiratoire aiguë,10,F
+CSL-001519,STR-0012,PAT-01881,2026-05-20,Vaccination,Hypertension artérielle,9,M
+CSL-001520,STR-0003,PAT-01707,2026-05-15,Fièvre,Anémie,43,F
+CSL-001521,STR-0014,PAT-04552,2025-12-04,Contrôle,Diarrhée aiguë,87,M
+CSL-001522,STR-0019,PAT-04020,2026-04-10,Toux,Plaie et traumatisme,88,M
+CSL-001523,STR-0005,PAT-00053,2026-03-27,Toux,Anémie,65,M
+CSL-001524,STR-0018,PAT-00868,2025-10-27,Contrôle,Diarrhée aiguë,24,M
+CSL-001525,STR-0001,PAT-02498,2025-11-28,Vaccination,Infection respiratoire aiguë,7,F
+CSL-001526,STR-0015,PAT-02827,2026-01-14,Fièvre,Diarrhée aiguë,60,F
+CSL-001527,STR-0009,PAT-02976,2026-05-13,Vaccination,Diabète,61,M
+CSL-001528,STR-0017,PAT-03716,2026-09-08,Suivi de grossesse,Hypertension artérielle,13,F
+CSL-001529,STR-0004,PAT-03841,2026-03-13,Toux,Infection respiratoire aiguë,58,M
+CSL-001530,STR-0019,PAT-04773,2026-07-05,Toux,Paludisme simple,41,M
+CSL-001531,STR-0007,PAT-03375,2025-12-14,Toux,Infection respiratoire aiguë,54,F
+CSL-001532,STR-0006,PAT-02664,2026-06-25,Contrôle,Anémie,89,M
+CSL-001533,STR-0015,PAT-04040,2026-02-16,Toux,Diarrhée aiguë,50,F
+CSL-001534,STR-0009,PAT-04732,2026-06-13,Suivi de grossesse,Infection respiratoire aiguë,23,F
+CSL-001535,STR-0002,PAT-02713,2026-08-03,Toux,Plaie et traumatisme,67,F
+CSL-001536,STR-0005,PAT-01223,2026-06-22,Fièvre,Infection respiratoire aiguë,17,F
+CSL-001537,STR-0002,PAT-02174,2026-10-05,Vaccination,Plaie et traumatisme,77,F
+CSL-001538,STR-0012,PAT-04214,2025-10-29,Douleurs abdominales,Diarrhée aiguë,30,F
+CSL-001539,STR-0009,PAT-02475,2026-10-16,Toux,Malnutrition aiguë,82,M
+CSL-001540,STR-0003,PAT-00188,2026-01-05,Toux,Diarrhée aiguë,75,F
+CSL-001541,STR-0002,PAT-01609,2026-07-18,Fièvre,Malnutrition aiguë,60,M
+CSL-001542,STR-0020,PAT-00944,2026-09-07,Toux,Malnutrition aiguë,6,M
+CSL-001543,STR-0005,PAT-00439,2026-02-28,Fièvre,Infection respiratoire aiguë,14,M
+CSL-001544,STR-0002,PAT-03658,2025-12-12,Toux,Anémie,84,F
+CSL-001545,STR-0002,PAT-02406,2026-07-07,Vaccination,Hypertension artérielle,55,F
+CSL-001546,STR-0010,PAT-04268,2025-11-25,Fièvre,Diarrhée aiguë,36,M
+CSL-001547,STR-0013,PAT-04300,2026-01-12,Toux,Anémie,1,F
+CSL-001548,STR-0005,PAT-00141,2026-04-15,Vaccination,Hypertension artérielle,89,F
+CSL-001549,STR-0001,PAT-01759,2025-11-23,Contrôle,Anémie,16,F
+CSL-001550,STR-0004,PAT-01163,2026-03-06,Douleurs abdominales,Hypertension artérielle,54,F
+CSL-001551,STR-0005,PAT-00211,2026-09-16,Toux,Plaie et traumatisme,6,F
+CSL-001552,STR-0008,PAT-04568,2026-02-21,Suivi de grossesse,Diabète,7,M
+CSL-001553,STR-0014,PAT-01870,2026-10-13,Toux,Diarrhée aiguë,36,M
+CSL-001554,STR-0001,PAT-01818,2025-11-30,Contrôle,Diabète,4,M
+CSL-001555,STR-0013,PAT-04067,2026-04-22,Vaccination,Plaie et traumatisme,47,F
+CSL-001556,STR-0012,PAT-02336,2026-04-29,Suivi de grossesse,Diarrhée aiguë,31,F
+CSL-001557,STR-0001,PAT-00906,2026-03-16,Fièvre,Paludisme simple,15,M
+CSL-001558,STR-0018,PAT-01883,2026-03-27,Fièvre,Plaie et traumatisme,51,F
+CSL-001559,STR-0002,PAT-04460,2026-02-02,Fièvre,Infection respiratoire aiguë,85,F
+CSL-001560,STR-0002,PAT-03797,2026-05-02,Fièvre,Hypertension artérielle,65,M
+CSL-001561,STR-0011,PAT-00653,2026-06-29,Fièvre,Diabète,46,F
+CSL-001562,STR-0001,PAT-00143,2026-07-16,Vaccination,Malnutrition aiguë,23,F
+CSL-001563,STR-0016,PAT-00244,2026-06-17,Toux,Infection respiratoire aiguë,71,M
+CSL-001564,STR-0009,PAT-03584,2026-03-13,Suivi de grossesse,Malnutrition aiguë,19,M
+CSL-001565,STR-0001,PAT-00263,2026-02-23,Fièvre,Diabète,51,F
+CSL-001566,STR-0004,PAT-00415,2026-09-20,Suivi de grossesse,Plaie et traumatisme,85,F
+CSL-001567,STR-0009,PAT-04797,2025-11-23,Toux,Infection respiratoire aiguë,72,F
+CSL-001568,STR-0020,PAT-04988,2026-06-16,Vaccination,Paludisme simple,75,F
+CSL-001569,STR-0003,PAT-01628,2025-11-27,Suivi de grossesse,Plaie et traumatisme,87,M
+CSL-001570,STR-0013,PAT-00816,2026-03-28,Toux,Hypertension artérielle,62,F
+CSL-001571,STR-0008,PAT-01912,2026-06-10,Toux,Anémie,55,M
+CSL-001572,STR-0019,PAT-04876,2025-11-16,Douleurs abdominales,Infection respiratoire aiguë,78,F
+CSL-001573,STR-0014,PAT-01144,2026-08-01,Fièvre,Hypertension artérielle,59,M
+CSL-001574,STR-0001,PAT-02126,2025-11-18,Fièvre,Infection respiratoire aiguë,30,F
+CSL-001575,STR-0004,PAT-00685,2026-08-10,Suivi de grossesse,Paludisme simple,68,F
+CSL-001576,STR-0004,PAT-03697,2026-08-03,Douleurs abdominales,Hypertension artérielle,73,F
+CSL-001577,STR-0002,PAT-03431,2026-01-21,Suivi de grossesse,Anémie,60,M
+CSL-001578,STR-0003,PAT-02454,2026-01-09,Vaccination,Malnutrition aiguë,11,M
+CSL-001579,STR-0009,PAT-01355,2025-12-26,Vaccination,Malnutrition aiguë,71,M
+CSL-001580,STR-0002,PAT-02189,2025-12-03,Fièvre,Anémie,29,M
+CSL-001581,STR-0002,PAT-04050,2026-03-20,Vaccination,Hypertension artérielle,22,F
+CSL-001582,STR-0012,PAT-00877,2026-04-14,Suivi de grossesse,Malnutrition aiguë,23,F
+CSL-001583,STR-0018,PAT-02037,2026-04-11,Contrôle,Diabète,78,F
+CSL-001584,STR-0005,PAT-00531,2026-05-18,Suivi de grossesse,Paludisme simple,19,F
+CSL-001585,STR-0019,PAT-01992,2026-04-25,Contrôle,Malnutrition aiguë,35,M
+CSL-001586,STR-0018,PAT-03278,2026-06-10,Vaccination,Hypertension artérielle,78,M
+CSL-001587,STR-0020,PAT-04717,2026-03-11,Fièvre,Malnutrition aiguë,2,M
+CSL-001588,STR-0019,PAT-02034,2026-08-28,Douleurs abdominales,Diarrhée aiguë,26,F
+CSL-001589,STR-0001,PAT-02800,2026-03-30,Toux,Hypertension artérielle,5,F
+CSL-001590,STR-0006,PAT-02952,2026-10-13,Douleurs abdominales,Diabète,63,M
+CSL-001591,STR-0007,PAT-02369,2026-10-08,Douleurs abdominales,Paludisme simple,72,F
+CSL-001592,STR-0017,PAT-01039,2026-09-21,Contrôle,Diabète,76,M
+CSL-001593,STR-0009,PAT-00653,2026-09-05,Suivi de grossesse,Diabète,52,M
+CSL-001594,STR-0013,PAT-03085,2026-07-22,Douleurs abdominales,Malnutrition aiguë,78,M
+CSL-001595,STR-0010,PAT-00740,2026-01-07,Douleurs abdominales,Anémie,75,F
+CSL-001596,STR-0020,PAT-01480,2026-08-16,Fièvre,Plaie et traumatisme,46,M
+CSL-001597,STR-0002,PAT-01861,2025-11-09,Vaccination,Malnutrition aiguë,26,F
+CSL-001598,STR-0019,PAT-02130,2026-02-03,Douleurs abdominales,Anémie,76,M
+CSL-001599,STR-0019,PAT-02467,2025-11-25,Toux,Diabète,67,F
+CSL-001600,STR-0009,PAT-04561,2026-04-15,Vaccination,Malnutrition aiguë,55,F
+CSL-001601,STR-0011,PAT-03471,2026-05-18,Douleurs abdominales,Plaie et traumatisme,56,F
+CSL-001602,STR-0001,PAT-03483,2025-12-17,Toux,Hypertension artérielle,47,F
+CSL-001603,STR-0010,PAT-00444,2025-10-31,Fièvre,Malnutrition aiguë,80,F
+CSL-001604,STR-0004,PAT-01433,2026-07-21,Toux,Diabète,23,F
+CSL-001605,STR-0011,PAT-00552,2026-08-17,Suivi de grossesse,Paludisme simple,13,M
+CSL-001606,STR-0012,PAT-04124,2026-09-07,Douleurs abdominales,Malnutrition aiguë,7,M
+CSL-001607,STR-0005,PAT-01605,2026-01-11,Fièvre,Diarrhée aiguë,73,F
+CSL-001608,STR-0009,PAT-01345,2026-03-29,Contrôle,Malnutrition aiguë,9,M
+CSL-001609,STR-0008,PAT-03524,2026-05-02,Douleurs abdominales,Malnutrition aiguë,68,M
+CSL-001610,STR-0006,PAT-02538,2026-02-03,Toux,Infection respiratoire aiguë,85,M
+CSL-001611,STR-0010,PAT-03010,2026-06-16,Douleurs abdominales,Plaie et traumatisme,43,M
+CSL-001612,STR-0007,PAT-01263,2026-08-14,Contrôle,Plaie et traumatisme,36,F
+CSL-001613,STR-0010,PAT-01363,2025-11-18,Suivi de grossesse,Diarrhée aiguë,3,M
+CSL-001614,STR-0018,PAT-00498,2025-11-23,Fièvre,Malnutrition aiguë,31,M
+CSL-001615,STR-0008,PAT-02663,2025-12-17,Contrôle,Diarrhée aiguë,34,M
+CSL-001616,STR-0004,PAT-04217,2025-12-04,Fièvre,Malnutrition aiguë,56,F
+CSL-001617,STR-0012,PAT-02144,2026-06-16,Douleurs abdominales,Malnutrition aiguë,6,M
+CSL-001618,STR-0004,PAT-00128,2026-01-15,Contrôle,Anémie,30,M
+CSL-001619,STR-0009,PAT-04415,2026-02-04,Contrôle,Malnutrition aiguë,79,F
+CSL-001620,STR-0019,PAT-01089,2026-02-20,Suivi de grossesse,Infection respiratoire aiguë,35,F
+CSL-001621,STR-0013,PAT-02070,2026-01-21,Toux,Diabète,16,M
+CSL-001622,STR-0005,PAT-00924,2026-09-02,Contrôle,Plaie et traumatisme,3,F
+CSL-001623,STR-0017,PAT-00405,2026-02-02,Contrôle,Hypertension artérielle,21,M
+CSL-001624,STR-0008,PAT-01440,2026-07-22,Fièvre,Paludisme simple,8,F
+CSL-001625,STR-0020,PAT-04573,2025-12-05,Contrôle,Plaie et traumatisme,49,M
+CSL-001626,STR-0012,PAT-03144,2026-07-20,Fièvre,Diabète,7,M
+CSL-001627,STR-0009,PAT-03450,2026-02-19,Vaccination,Diarrhée aiguë,24,F
+CSL-001628,STR-0001,PAT-01627,2026-10-07,Contrôle,Paludisme simple,58,F
+CSL-001629,STR-0019,PAT-03107,2026-05-09,Suivi de grossesse,Infection respiratoire aiguë,42,M
+CSL-001630,STR-0013,PAT-03039,2026-10-18,Douleurs abdominales,Infection respiratoire aiguë,90,M
+CSL-001631,STR-0019,PAT-02203,2025-12-14,Vaccination,Plaie et traumatisme,5,M
+CSL-001632,STR-0010,PAT-04539,2026-07-13,Toux,Malnutrition aiguë,68,F
+CSL-001633,STR-0017,PAT-01918,2026-10-17,Vaccination,Malnutrition aiguë,71,M
+CSL-001634,STR-0012,PAT-00251,2026-09-17,Douleurs abdominales,Malnutrition aiguë,23,F
+CSL-001635,STR-0020,PAT-01940,2025-11-04,Toux,Paludisme simple,11,M
+CSL-001636,STR-0018,PAT-01531,2026-01-02,Suivi de grossesse,Paludisme simple,38,M
+CSL-001637,STR-0017,PAT-02576,2026-05-06,Fièvre,Plaie et traumatisme,62,F
+CSL-001638,STR-0013,PAT-04933,2026-05-26,Toux,Infection respiratoire aiguë,12,M
+CSL-001639,STR-0009,PAT-01451,2026-03-15,Toux,Diarrhée aiguë,77,F
+CSL-001640,STR-0012,PAT-02183,2026-06-11,Toux,Infection respiratoire aiguë,70,F
+CSL-001641,STR-0019,PAT-01160,2026-10-23,Toux,Anémie,63,M
+CSL-001642,STR-0014,PAT-02254,2026-05-02,Fièvre,Plaie et traumatisme,21,M
+CSL-001643,STR-0006,PAT-04588,2026-02-09,Vaccination,Anémie,35,M
+CSL-001644,STR-0017,PAT-01498,2025-11-25,Toux,Diabète,57,M
+CSL-001645,STR-0018,PAT-03057,2026-04-08,Fièvre,Plaie et traumatisme,8,M
+CSL-001646,STR-0019,PAT-03046,2026-08-26,Fièvre,Diarrhée aiguë,59,M
+CSL-001647,STR-0015,PAT-00437,2026-06-30,Vaccination,Diarrhée aiguë,25,M
+CSL-001648,STR-0011,PAT-00121,2025-12-25,Fièvre,Plaie et traumatisme,32,M
+CSL-001649,STR-0019,PAT-04276,2026-08-13,Suivi de grossesse,Malnutrition aiguë,75,M
+CSL-001650,STR-0014,PAT-00722,2026-08-26,Vaccination,Diarrhée aiguë,60,M
+CSL-001651,STR-0009,PAT-02723,2026-10-06,Fièvre,Diarrhée aiguë,45,F
+CSL-001652,STR-0010,PAT-01748,2026-02-27,Contrôle,Anémie,56,F
+CSL-001653,STR-0018,PAT-03567,2026-06-07,Fièvre,Malnutrition aiguë,57,M
+CSL-001654,STR-0006,PAT-02605,2026-05-22,Toux,Malnutrition aiguë,80,F
+CSL-001655,STR-0015,PAT-02267,2026-03-10,Contrôle,Paludisme simple,50,F
+CSL-001656,STR-0007,PAT-04625,2026-08-04,Toux,Paludisme simple,76,M
+CSL-001657,STR-0020,PAT-00834,2026-10-10,Toux,Infection respiratoire aiguë,10,M
+CSL-001658,STR-0005,PAT-02692,2026-10-15,Douleurs abdominales,Plaie et traumatisme,87,F
+CSL-001659,STR-0001,PAT-03327,2026-07-30,Contrôle,Anémie,29,F
+CSL-001660,STR-0005,PAT-01493,2025-11-17,Suivi de grossesse,Anémie,72,F
+CSL-001661,STR-0002,PAT-00647,2025-10-31,Douleurs abdominales,Infection respiratoire aiguë,43,M
+CSL-001662,STR-0011,PAT-00263,2025-12-12,Suivi de grossesse,Diabète,5,F
+CSL-001663,STR-0005,PAT-03799,2026-07-19,Vaccination,Paludisme simple,45,F
+CSL-001664,STR-0020,PAT-01772,2025-11-12,Douleurs abdominales,Paludisme simple,26,M
+CSL-001665,STR-0007,PAT-03510,2026-10-08,Fièvre,Diabète,8,M
+CSL-001666,STR-0018,PAT-02943,2026-07-27,Douleurs abdominales,Hypertension artérielle,47,F
+CSL-001667,STR-0002,PAT-00486,2026-09-18,Suivi de grossesse,Plaie et traumatisme,72,M
+CSL-001668,STR-0016,PAT-02153,2026-03-14,Fièvre,Hypertension artérielle,61,F
+CSL-001669,STR-0012,PAT-01844,2025-12-31,Fièvre,Paludisme simple,50,F
+CSL-001670,STR-0012,PAT-00091,2026-08-03,Fièvre,Plaie et traumatisme,27,F
+CSL-001671,STR-0018,PAT-02088,2026-03-03,Toux,Paludisme simple,80,M
+CSL-001672,STR-0002,PAT-04681,2026-10-17,Fièvre,Malnutrition aiguë,86,M
+CSL-001673,STR-0017,PAT-02075,2026-03-27,Toux,Paludisme simple,19,M
+CSL-001674,STR-0005,PAT-00054,2026-07-04,Douleurs abdominales,Anémie,58,F
+CSL-001675,STR-0014,PAT-02554,2025-12-25,Toux,Malnutrition aiguë,5,M
+CSL-001676,STR-0005,PAT-03749,2026-10-20,Douleurs abdominales,Anémie,66,M
+CSL-001677,STR-0020,PAT-01033,2026-10-12,Fièvre,Plaie et traumatisme,14,M
+CSL-001678,STR-0007,PAT-03535,2026-07-24,Contrôle,Diarrhée aiguë,12,M
+CSL-001679,STR-0019,PAT-04005,2026-01-30,Contrôle,Paludisme simple,87,F
+CSL-001680,STR-0011,PAT-04508,2026-04-17,Vaccination,Infection respiratoire aiguë,75,F
+CSL-001681,STR-0017,PAT-00365,2026-01-13,Contrôle,Paludisme simple,43,M
+CSL-001682,STR-0013,PAT-04987,2026-01-17,Toux,Plaie et traumatisme,22,F
+CSL-001683,STR-0016,PAT-01332,2026-07-30,Fièvre,Paludisme simple,22,M
+CSL-001684,STR-0003,PAT-02273,2026-06-17,Douleurs abdominales,Plaie et traumatisme,35,M
+CSL-001685,STR-0007,PAT-00084,2025-12-20,Contrôle,Diarrhée aiguë,80,M
+CSL-001686,STR-0009,PAT-01223,2026-09-29,Toux,Diarrhée aiguë,16,F
+CSL-001687,STR-0002,PAT-01071,2026-07-17,Vaccination,Infection respiratoire aiguë,53,F
+CSL-001688,STR-0001,PAT-00471,2026-07-16,Douleurs abdominales,Hypertension artérielle,56,F
+CSL-001689,STR-0005,PAT-00582,2026-07-02,Contrôle,Paludisme simple,83,M
+CSL-001690,STR-0020,PAT-00335,2026-04-14,Toux,Hypertension artérielle,15,M
+CSL-001691,STR-0013,PAT-03211,2025-12-11,Toux,Diarrhée aiguë,72,M
+CSL-001692,STR-0017,PAT-00458,2026-10-17,Douleurs abdominales,Malnutrition aiguë,71,F
+CSL-001693,STR-0013,PAT-01254,2026-06-27,Fièvre,Malnutrition aiguë,46,F
+CSL-001694,STR-0010,PAT-00297,2026-06-16,Suivi de grossesse,Malnutrition aiguë,50,M
+CSL-001695,STR-0020,PAT-03088,2026-05-23,Toux,Plaie et traumatisme,24,M
+CSL-001696,STR-0003,PAT-02421,2026-08-25,Toux,Diabète,27,F
+CSL-001697,STR-0004,PAT-04217,2026-08-08,Vaccination,Paludisme simple,68,F
+CSL-001698,STR-0003,PAT-04922,2026-05-18,Vaccination,Malnutrition aiguë,33,M
+CSL-001699,STR-0010,PAT-03776,2026-08-17,Toux,Anémie,85,M
+CSL-001700,STR-0008,PAT-00636,2026-10-07,Fièvre,Anémie,85,F
+CSL-001701,STR-0019,PAT-02201,2026-04-08,Suivi de grossesse,Anémie,58,F
+CSL-001702,STR-0012,PAT-04623,2026-03-15,Suivi de grossesse,Diabète,50,F
+CSL-001703,STR-0006,PAT-02812,2026-09-14,Douleurs abdominales,Anémie,2,M
+CSL-001704,STR-0011,PAT-03041,2026-08-12,Vaccination,Malnutrition aiguë,50,F
+CSL-001705,STR-0008,PAT-03015,2026-08-16,Contrôle,Infection respiratoire aiguë,34,M
+CSL-001706,STR-0019,PAT-01601,2026-01-19,Toux,Diarrhée aiguë,53,M
+CSL-001707,STR-0019,PAT-03381,2026-03-07,Toux,Plaie et traumatisme,28,M
+CSL-001708,STR-0006,PAT-01164,2026-04-25,Fièvre,Infection respiratoire aiguë,47,F
+CSL-001709,STR-0007,PAT-02972,2026-08-05,Contrôle,Diabète,22,F
+CSL-001710,STR-0016,PAT-01590,2026-08-28,Contrôle,Diarrhée aiguë,82,M
+CSL-001711,STR-0019,PAT-03523,2026-08-18,Suivi de grossesse,Anémie,52,M
+CSL-001712,STR-0002,PAT-00383,2026-06-04,Contrôle,Anémie,19,F
+CSL-001713,STR-0005,PAT-03964,2026-10-12,Contrôle,Diarrhée aiguë,16,M
+CSL-001714,STR-0001,PAT-04950,2026-03-21,Douleurs abdominales,Hypertension artérielle,73,M
+CSL-001715,STR-0003,PAT-04050,2025-12-07,Toux,Paludisme simple,25,M
+CSL-001716,STR-0005,PAT-04245,2026-04-28,Suivi de grossesse,Diarrhée aiguë,3,M
+CSL-001717,STR-0012,PAT-01747,2025-12-13,Toux,Diarrhée aiguë,21,M
+CSL-001718,STR-0001,PAT-02354,2026-07-27,Douleurs abdominales,Plaie et traumatisme,88,M
+CSL-001719,STR-0012,PAT-00285,2026-02-07,Suivi de grossesse,Malnutrition aiguë,11,M
+CSL-001720,STR-0007,PAT-03123,2026-08-04,Fièvre,Infection respiratoire aiguë,1,F
+CSL-001721,STR-0018,PAT-01821,2026-04-26,Vaccination,Diarrhée aiguë,90,M
+CSL-001722,STR-0013,PAT-03920,2026-06-14,Toux,Anémie,56,F
+CSL-001723,STR-0005,PAT-01161,2025-11-05,Toux,Paludisme simple,81,M
+CSL-001724,STR-0006,PAT-01464,2026-08-07,Contrôle,Anémie,51,M
+CSL-001725,STR-0013,PAT-01985,2026-09-29,Contrôle,Plaie et traumatisme,31,M
+CSL-001726,STR-0008,PAT-00052,2026-09-01,Suivi de grossesse,Anémie,29,F
+CSL-001727,STR-0001,PAT-00588,2026-08-09,Toux,Malnutrition aiguë,22,F
+CSL-001728,STR-0012,PAT-03164,2025-11-22,Fièvre,Anémie,35,F
+CSL-001729,STR-0003,PAT-01428,2026-01-06,Contrôle,Infection respiratoire aiguë,47,M
+CSL-001730,STR-0011,PAT-03509,2026-05-02,Douleurs abdominales,Paludisme simple,72,M
+CSL-001731,STR-0006,PAT-00494,2026-04-24,Suivi de grossesse,Paludisme simple,17,M
+CSL-001732,STR-0016,PAT-00788,2025-12-10,Toux,Infection respiratoire aiguë,19,F
+CSL-001733,STR-0020,PAT-03306,2026-03-18,Suivi de grossesse,Plaie et traumatisme,51,M
+CSL-001734,STR-0020,PAT-01519,2026-09-14,Toux,Plaie et traumatisme,83,F
+CSL-001735,STR-0018,PAT-03444,2026-02-23,Douleurs abdominales,Hypertension artérielle,81,M
+CSL-001736,STR-0013,PAT-02694,2025-12-06,Douleurs abdominales,Hypertension artérielle,3,F
+CSL-001737,STR-0006,PAT-00992,2026-10-01,Vaccination,Infection respiratoire aiguë,45,M
+CSL-001738,STR-0010,PAT-03932,2026-03-05,Fièvre,Paludisme simple,0,M
+CSL-001739,STR-0014,PAT-04067,2025-11-18,Suivi de grossesse,Diabète,73,F
+CSL-001740,STR-0009,PAT-02709,2026-10-07,Fièvre,Paludisme simple,52,M
+CSL-001741,STR-0013,PAT-02232,2025-12-27,Vaccination,Malnutrition aiguë,78,M
+CSL-001742,STR-0005,PAT-04664,2026-04-24,Contrôle,Malnutrition aiguë,28,F
+CSL-001743,STR-0015,PAT-00066,2025-12-25,Toux,Anémie,44,M
+CSL-001744,STR-0007,PAT-03495,2026-03-27,Douleurs abdominales,Hypertension artérielle,10,F
+CSL-001745,STR-0012,PAT-02308,2026-04-06,Suivi de grossesse,Malnutrition aiguë,31,F
+CSL-001746,STR-0009,PAT-00598,2025-10-26,Douleurs abdominales,Infection respiratoire aiguë,50,M
+CSL-001747,STR-0014,PAT-02162,2026-06-08,Fièvre,Diarrhée aiguë,18,M
+CSL-001748,STR-0005,PAT-04960,2026-03-23,Contrôle,Plaie et traumatisme,27,F
+CSL-001749,STR-0019,PAT-03650,2026-10-20,Toux,Paludisme simple,88,M
+CSL-001750,STR-0011,PAT-02469,2026-02-21,Vaccination,Anémie,24,F
+CSL-001751,STR-0001,PAT-00352,2026-06-21,Douleurs abdominales,Diabète,72,F
+CSL-001752,STR-0002,PAT-00225,2026-01-07,Toux,Anémie,13,M
+CSL-001753,STR-0013,PAT-02919,2026-05-07,Vaccination,Malnutrition aiguë,24,F
+CSL-001754,STR-0020,PAT-01790,2026-01-04,Fièvre,Diabète,90,F
+CSL-001755,STR-0008,PAT-04441,2026-09-17,Vaccination,Anémie,6,M
+CSL-001756,STR-0002,PAT-02038,2026-08-16,Toux,Diabète,58,F
+CSL-001757,STR-0004,PAT-00154,2025-11-23,Douleurs abdominales,Hypertension artérielle,84,F
+CSL-001758,STR-0001,PAT-00268,2026-01-21,Vaccination,Anémie,90,M
+CSL-001759,STR-0016,PAT-03590,2025-11-27,Douleurs abdominales,Infection respiratoire aiguë,59,F
+CSL-001760,STR-0002,PAT-01272,2026-05-14,Toux,Anémie,6,M
+CSL-001761,STR-0014,PAT-03202,2026-06-03,Douleurs abdominales,Diarrhée aiguë,57,F
+CSL-001762,STR-0005,PAT-00134,2026-10-20,Toux,Anémie,51,M
+CSL-001763,STR-0008,PAT-01617,2026-10-13,Douleurs abdominales,Malnutrition aiguë,59,F
+CSL-001764,STR-0014,PAT-03738,2025-11-15,Douleurs abdominales,Paludisme simple,56,F
+CSL-001765,STR-0012,PAT-02583,2025-12-16,Toux,Paludisme simple,22,F
+CSL-001766,STR-0016,PAT-01398,2026-06-14,Toux,Paludisme simple,27,F
+CSL-001767,STR-0003,PAT-03721,2026-10-16,Contrôle,Diarrhée aiguë,20,M
+CSL-001768,STR-0018,PAT-03790,2026-06-14,Contrôle,Infection respiratoire aiguë,60,F
+CSL-001769,STR-0009,PAT-00410,2026-07-23,Suivi de grossesse,Anémie,81,M
+CSL-001770,STR-0003,PAT-01474,2026-02-08,Toux,Anémie,76,M
+CSL-001771,STR-0005,PAT-02027,2026-02-07,Suivi de grossesse,Hypertension artérielle,80,M
+CSL-001772,STR-0002,PAT-00977,2026-09-10,Vaccination,Plaie et traumatisme,65,M
+CSL-001773,STR-0014,PAT-00410,2026-01-14,Contrôle,Infection respiratoire aiguë,58,M
+CSL-001774,STR-0005,PAT-02888,2025-12-22,Fièvre,Diabète,88,F
+CSL-001775,STR-0016,PAT-00836,2026-08-29,Toux,Diarrhée aiguë,18,F
+CSL-001776,STR-0006,PAT-00176,2026-07-23,Douleurs abdominales,Diabète,19,M
+CSL-001777,STR-0011,PAT-02136,2025-11-11,Vaccination,Malnutrition aiguë,24,M
+CSL-001778,STR-0001,PAT-02497,2026-03-12,Vaccination,Plaie et traumatisme,65,F
+CSL-001779,STR-0001,PAT-03066,2026-07-31,Vaccination,Malnutrition aiguë,64,F
+CSL-001780,STR-0015,PAT-04071,2025-11-09,Douleurs abdominales,Diarrhée aiguë,50,F
+CSL-001781,STR-0015,PAT-04080,2026-07-22,Suivi de grossesse,Anémie,21,M
+CSL-001782,STR-0018,PAT-00686,2026-04-29,Toux,Diarrhée aiguë,3,F
+CSL-001783,STR-0002,PAT-01243,2026-07-05,Vaccination,Anémie,40,F
+CSL-001784,STR-0005,PAT-03348,2025-11-16,Toux,Diabète,85,M
+CSL-001785,STR-0009,PAT-04214,2026-05-06,Fièvre,Anémie,12,M
+CSL-001786,STR-0018,PAT-00332,2025-11-23,Fièvre,Diabète,73,M
+CSL-001787,STR-0003,PAT-03049,2026-07-28,Contrôle,Diabète,65,M
+CSL-001788,STR-0010,PAT-00070,2026-04-02,Fièvre,Infection respiratoire aiguë,67,F
+CSL-001789,STR-0001,PAT-00349,2026-08-17,Suivi de grossesse,Diarrhée aiguë,72,F
+CSL-001790,STR-0013,PAT-03291,2026-05-10,Douleurs abdominales,Malnutrition aiguë,39,M
+CSL-001791,STR-0014,PAT-01187,2026-08-13,Toux,Infection respiratoire aiguë,24,M
+CSL-001792,STR-0010,PAT-01337,2026-10-01,Vaccination,Diabète,68,M
+CSL-001793,STR-0019,PAT-00917,2026-02-05,Fièvre,Plaie et traumatisme,78,F
+CSL-001794,STR-0020,PAT-02275,2025-12-16,Vaccination,Infection respiratoire aiguë,83,M
+CSL-001795,STR-0014,PAT-00172,2026-03-22,Contrôle,Diarrhée aiguë,90,M
+CSL-001796,STR-0018,PAT-02758,2026-08-03,Toux,Malnutrition aiguë,24,M
+CSL-001797,STR-0006,PAT-02214,2026-05-10,Toux,Hypertension artérielle,70,M
+CSL-001798,STR-0019,PAT-00512,2025-11-21,Fièvre,Plaie et traumatisme,50,F
+CSL-001799,STR-0008,PAT-01453,2026-06-22,Vaccination,Hypertension artérielle,64,F
+CSL-001800,STR-0004,PAT-04443,2026-05-05,Suivi de grossesse,Diarrhée aiguë,50,F
+CSL-001801,STR-0004,PAT-00007,2026-05-21,Fièvre,Hypertension artérielle,19,M
+CSL-001802,STR-0004,PAT-04429,2026-08-07,Vaccination,Hypertension artérielle,44,M
+CSL-001803,STR-0011,PAT-00163,2026-02-22,Suivi de grossesse,Plaie et traumatisme,63,F
+CSL-001804,STR-0012,PAT-04768,2025-12-06,Toux,Paludisme simple,81,M
+CSL-001805,STR-0014,PAT-00957,2026-03-11,Suivi de grossesse,Infection respiratoire aiguë,45,F
+CSL-001806,STR-0006,PAT-00137,2026-02-12,Contrôle,Diarrhée aiguë,89,F
+CSL-001807,STR-0012,PAT-04709,2025-12-15,Fièvre,Diarrhée aiguë,41,F
+CSL-001808,STR-0019,PAT-01332,2025-12-25,Douleurs abdominales,Anémie,28,F
+CSL-001809,STR-0001,PAT-03646,2025-12-17,Douleurs abdominales,Plaie et traumatisme,18,F
+CSL-001810,STR-0013,PAT-03969,2025-12-12,Fièvre,Paludisme simple,70,F
+CSL-001811,STR-0020,PAT-04678,2025-11-07,Douleurs abdominales,Malnutrition aiguë,35,M
+CSL-001812,STR-0015,PAT-04252,2026-05-30,Contrôle,Anémie,26,F
+CSL-001813,STR-0009,PAT-02376,2026-10-10,Douleurs abdominales,Paludisme simple,77,M
+CSL-001814,STR-0005,PAT-03758,2026-04-03,Fièvre,Malnutrition aiguë,51,F
+CSL-001815,STR-0017,PAT-00856,2026-04-24,Toux,Paludisme simple,71,M
+CSL-001816,STR-0020,PAT-04875,2026-06-25,Contrôle,Plaie et traumatisme,33,M
+CSL-001817,STR-0001,PAT-01744,2026-09-30,Fièvre,Anémie,49,F
+CSL-001818,STR-0007,PAT-00142,2025-11-28,Douleurs abdominales,Malnutrition aiguë,37,M
+CSL-001819,STR-0019,PAT-00425,2026-03-09,Vaccination,Plaie et traumatisme,2,M
+CSL-001820,STR-0012,PAT-01007,2026-03-20,Fièvre,Hypertension artérielle,34,F
+CSL-001821,STR-0009,PAT-02810,2026-02-19,Suivi de grossesse,Malnutrition aiguë,47,M
+CSL-001822,STR-0012,PAT-04894,2026-05-12,Suivi de grossesse,Plaie et traumatisme,17,F
+CSL-001823,STR-0001,PAT-02718,2025-12-17,Toux,Hypertension artérielle,81,F
+CSL-001824,STR-0010,PAT-04434,2026-04-08,Douleurs abdominales,Anémie,47,M
+CSL-001825,STR-0003,PAT-01124,2026-02-16,Douleurs abdominales,Anémie,44,M
+CSL-001826,STR-0001,PAT-02041,2026-09-26,Suivi de grossesse,Diarrhée aiguë,84,M
+CSL-001827,STR-0008,PAT-01173,2026-02-25,Contrôle,Plaie et traumatisme,63,M
+CSL-001828,STR-0020,PAT-02839,2026-06-20,Vaccination,Anémie,86,F
+CSL-001829,STR-0011,PAT-00831,2026-08-14,Suivi de grossesse,Infection respiratoire aiguë,64,F
+CSL-001830,STR-0002,PAT-04335,2026-05-05,Contrôle,Paludisme simple,46,F
+CSL-001831,STR-0007,PAT-02922,2025-12-02,Toux,Diabète,56,F
+CSL-001832,STR-0019,PAT-02460,2026-04-25,Contrôle,Plaie et traumatisme,25,F
+CSL-001833,STR-0017,PAT-04378,2026-02-16,Fièvre,Hypertension artérielle,24,M
+CSL-001834,STR-0020,PAT-01493,2026-01-31,Suivi de grossesse,Paludisme simple,65,F
+CSL-001835,STR-0001,PAT-02337,2026-07-16,Vaccination,Malnutrition aiguë,23,F
+CSL-001836,STR-0007,PAT-02683,2025-11-20,Contrôle,Hypertension artérielle,61,M
+CSL-001837,STR-0014,PAT-03919,2026-04-25,Toux,Diabète,35,F
+CSL-001838,STR-0019,PAT-03257,2026-08-02,Vaccination,Infection respiratoire aiguë,39,M
+CSL-001839,STR-0020,PAT-04716,2025-12-28,Douleurs abdominales,Malnutrition aiguë,80,F
+CSL-001840,STR-0002,PAT-00919,2026-10-10,Fièvre,Anémie,61,M
+CSL-001841,STR-0003,PAT-04427,2025-10-29,Vaccination,Malnutrition aiguë,84,F
+CSL-001842,STR-0017,PAT-02438,2026-02-03,Vaccination,Plaie et traumatisme,74,F
+CSL-001843,STR-0019,PAT-02856,2025-12-03,Vaccination,Diarrhée aiguë,66,M
+CSL-001844,STR-0020,PAT-00607,2026-01-22,Toux,Diabète,67,M
+CSL-001845,STR-0009,PAT-02693,2026-05-24,Fièvre,Diabète,26,F
+CSL-001846,STR-0006,PAT-01783,2026-09-12,Contrôle,Paludisme simple,26,F
+CSL-001847,STR-0020,PAT-04028,2026-06-21,Vaccination,Infection respiratoire aiguë,35,F
+CSL-001848,STR-0006,PAT-00864,2025-12-06,Suivi de grossesse,Plaie et traumatisme,73,M
+CSL-001849,STR-0007,PAT-01811,2025-12-29,Douleurs abdominales,Infection respiratoire aiguë,80,F
+CSL-001850,STR-0007,PAT-01037,2026-05-14,Contrôle,Malnutrition aiguë,2,M
+CSL-001851,STR-0001,PAT-02037,2026-09-14,Vaccination,Diarrhée aiguë,73,F
+CSL-001852,STR-0002,PAT-04702,2026-03-20,Fièvre,Anémie,68,M
+CSL-001853,STR-0007,PAT-03281,2026-03-02,Fièvre,Anémie,89,F
+CSL-001854,STR-0003,PAT-01778,2026-03-13,Contrôle,Anémie,65,F
+CSL-001855,STR-0018,PAT-02636,2026-05-07,Suivi de grossesse,Infection respiratoire aiguë,46,F
+CSL-001856,STR-0008,PAT-04791,2026-04-15,Suivi de grossesse,Diarrhée aiguë,45,F
+CSL-001857,STR-0013,PAT-00349,2026-06-20,Contrôle,Diarrhée aiguë,65,M
+CSL-001858,STR-0014,PAT-03099,2025-12-24,Suivi de grossesse,Paludisme simple,43,M
+CSL-001859,STR-0014,PAT-00628,2026-09-19,Fièvre,Infection respiratoire aiguë,79,F
+CSL-001860,STR-0009,PAT-00352,2026-03-29,Douleurs abdominales,Infection respiratoire aiguë,4,M
+CSL-001861,STR-0014,PAT-01709,2026-02-17,Suivi de grossesse,Diarrhée aiguë,65,M
+CSL-001862,STR-0019,PAT-01884,2026-01-27,Vaccination,Anémie,27,M
+CSL-001863,STR-0001,PAT-04667,2025-12-18,Toux,Diarrhée aiguë,64,F
+CSL-001864,STR-0018,PAT-03717,2026-05-09,Toux,Plaie et traumatisme,15,F
+CSL-001865,STR-0004,PAT-03144,2026-08-24,Douleurs abdominales,Paludisme simple,25,F
+CSL-001866,STR-0017,PAT-04043,2026-09-21,Toux,Plaie et traumatisme,56,F
+CSL-001867,STR-0009,PAT-00773,2026-10-17,Toux,Paludisme simple,77,M
+CSL-001868,STR-0013,PAT-01092,2026-08-20,Douleurs abdominales,Diabète,21,M
+CSL-001869,STR-0002,PAT-02918,2025-12-16,Suivi de grossesse,Plaie et traumatisme,17,M
+CSL-001870,STR-0016,PAT-04847,2025-11-05,Contrôle,Diabète,12,M
+CSL-001871,STR-0003,PAT-00488,2026-01-15,Vaccination,Plaie et traumatisme,78,F
+CSL-001872,STR-0018,PAT-03815,2026-06-05,Fièvre,Plaie et traumatisme,19,F
+CSL-001873,STR-0003,PAT-04064,2026-04-16,Douleurs abdominales,Diarrhée aiguë,23,F
+CSL-001874,STR-0007,PAT-01413,2025-11-14,Suivi de grossesse,Infection respiratoire aiguë,13,M
+CSL-001875,STR-0014,PAT-00813,2026-01-28,Contrôle,Malnutrition aiguë,27,M
+CSL-001876,STR-0006,PAT-00460,2025-11-24,Toux,Paludisme simple,4,F
+CSL-001877,STR-0003,PAT-04680,2026-08-16,Douleurs abdominales,Hypertension artérielle,52,M
+CSL-001878,STR-0011,PAT-00246,2025-12-19,Fièvre,Infection respiratoire aiguë,63,M
+CSL-001879,STR-0015,PAT-01772,2026-10-11,Vaccination,Plaie et traumatisme,11,M
+CSL-001880,STR-0003,PAT-00895,2026-08-03,Toux,Malnutrition aiguë,72,M
+CSL-001881,STR-0009,PAT-02591,2026-10-12,Contrôle,Diabète,52,M
+CSL-001882,STR-0015,PAT-02104,2026-10-21,Douleurs abdominales,Hypertension artérielle,52,M
+CSL-001883,STR-0005,PAT-01505,2026-05-27,Douleurs abdominales,Diarrhée aiguë,11,F
+CSL-001884,STR-0019,PAT-02211,2026-07-07,Fièvre,Diarrhée aiguë,85,M
+CSL-001885,STR-0007,PAT-01497,2026-10-13,Suivi de grossesse,Anémie,40,M
+CSL-001886,STR-0015,PAT-04938,2026-09-14,Douleurs abdominales,Paludisme simple,86,M
+CSL-001887,STR-0013,PAT-00304,2026-08-28,Toux,Infection respiratoire aiguë,13,M
+CSL-001888,STR-0010,PAT-04970,2026-03-31,Vaccination,Malnutrition aiguë,32,F
+CSL-001889,STR-0017,PAT-04306,2026-10-20,Douleurs abdominales,Diabète,58,F
+CSL-001890,STR-0018,PAT-00726,2026-03-14,Vaccination,Infection respiratoire aiguë,73,M
+CSL-001891,STR-0002,PAT-00413,2026-05-24,Suivi de grossesse,Hypertension artérielle,50,M
+CSL-001892,STR-0018,PAT-02204,2026-06-04,Vaccination,Malnutrition aiguë,34,F
+CSL-001893,STR-0019,PAT-04324,2026-07-02,Suivi de grossesse,Anémie,35,F
+CSL-001894,STR-0003,PAT-01364,2026-07-30,Toux,Plaie et traumatisme,87,M
+CSL-001895,STR-0007,PAT-00017,2026-07-10,Fièvre,Paludisme simple,2,F
+CSL-001896,STR-0015,PAT-01961,2026-04-01,Vaccination,Infection respiratoire aiguë,78,M
+CSL-001897,STR-0003,PAT-00994,2026-01-07,Douleurs abdominales,Infection respiratoire aiguë,51,M
+CSL-001898,STR-0005,PAT-01926,2026-01-07,Toux,Plaie et traumatisme,25,F
+CSL-001899,STR-0002,PAT-03181,2025-12-12,Fièvre,Anémie,38,M
+CSL-001900,STR-0017,PAT-02272,2025-12-27,Contrôle,Hypertension artérielle,31,F
+CSL-001901,STR-0003,PAT-00788,2026-03-10,Vaccination,Infection respiratoire aiguë,40,M
+CSL-001902,STR-0010,PAT-01230,2026-01-04,Fièvre,Hypertension artérielle,81,F
+CSL-001903,STR-0015,PAT-02635,2026-10-09,Suivi de grossesse,Diabète,36,F
+CSL-001904,STR-0018,PAT-01131,2026-09-25,Douleurs abdominales,Paludisme simple,17,M
+CSL-001905,STR-0005,PAT-03204,2026-10-24,Toux,Paludisme simple,67,F
+CSL-001906,STR-0007,PAT-03372,2025-12-02,Douleurs abdominales,Diarrhée aiguë,28,F
+CSL-001907,STR-0018,PAT-01143,2026-09-06,Vaccination,Anémie,13,M
+CSL-001908,STR-0013,PAT-00938,2026-05-31,Fièvre,Paludisme simple,59,M
+CSL-001909,STR-0001,PAT-00441,2026-03-29,Fièvre,Diarrhée aiguë,71,M
+CSL-001910,STR-0019,PAT-03500,2026-08-20,Fièvre,Anémie,11,M
+CSL-001911,STR-0001,PAT-04078,2026-04-16,Contrôle,Malnutrition aiguë,55,F
+CSL-001912,STR-0013,PAT-00377,2026-05-18,Douleurs abdominales,Diarrhée aiguë,18,F
+CSL-001913,STR-0003,PAT-02728,2025-12-10,Toux,Paludisme simple,46,F
+CSL-001914,STR-0012,PAT-04574,2026-06-26,Suivi de grossesse,Infection respiratoire aiguë,62,F
+CSL-001915,STR-0006,PAT-03230,2025-11-16,Suivi de grossesse,Paludisme simple,65,F
+CSL-001916,STR-0009,PAT-00628,2026-08-19,Vaccination,Plaie et traumatisme,52,F
+CSL-001917,STR-0019,PAT-00493,2026-08-04,Contrôle,Hypertension artérielle,46,M
+CSL-001918,STR-0017,PAT-04634,2026-05-22,Suivi de grossesse,Diabète,18,M
+CSL-001919,STR-0002,PAT-02517,2026-05-20,Contrôle,Malnutrition aiguë,48,M
+CSL-001920,STR-0014,PAT-02071,2025-12-02,Vaccination,Anémie,20,F
+CSL-001921,STR-0010,PAT-00721,2026-06-05,Fièvre,Infection respiratoire aiguë,85,F
+CSL-001922,STR-0005,PAT-03798,2026-01-26,Toux,Paludisme simple,85,F
+CSL-001923,STR-0019,PAT-02356,2025-11-12,Vaccination,Diarrhée aiguë,8,F
+CSL-001924,STR-0004,PAT-00359,2026-09-04,Toux,Infection respiratoire aiguë,20,F
+CSL-001925,STR-0008,PAT-00241,2026-07-21,Fièvre,Malnutrition aiguë,6,F
+CSL-001926,STR-0017,PAT-03155,2025-11-30,Fièvre,Paludisme simple,25,M
+CSL-001927,STR-0015,PAT-04512,2025-12-24,Vaccination,Paludisme simple,10,M
+CSL-001928,STR-0004,PAT-04067,2026-06-23,Contrôle,Infection respiratoire aiguë,75,F
+CSL-001929,STR-0020,PAT-00418,2026-04-26,Contrôle,Diabète,12,F
+CSL-001930,STR-0015,PAT-02792,2026-07-11,Toux,Anémie,67,M
+CSL-001931,STR-0016,PAT-01128,2026-10-23,Suivi de grossesse,Paludisme simple,29,F
+CSL-001932,STR-0018,PAT-04195,2026-10-10,Fièvre,Plaie et traumatisme,19,M
+CSL-001933,STR-0013,PAT-02059,2025-12-04,Suivi de grossesse,Plaie et traumatisme,15,M
+CSL-001934,STR-0001,PAT-01492,2026-08-31,Douleurs abdominales,Paludisme simple,86,F
+CSL-001935,STR-0010,PAT-01591,2026-06-15,Toux,Hypertension artérielle,50,M
+CSL-001936,STR-0002,PAT-03150,2025-12-29,Vaccination,Malnutrition aiguë,70,F
+CSL-001937,STR-0012,PAT-00544,2026-03-12,Suivi de grossesse,Infection respiratoire aiguë,31,F
+CSL-001938,STR-0013,PAT-00596,2026-08-11,Fièvre,Plaie et traumatisme,1,M
+CSL-001939,STR-0009,PAT-01283,2026-01-30,Douleurs abdominales,Hypertension artérielle,89,M
+CSL-001940,STR-0008,PAT-00194,2026-09-21,Fièvre,Diabète,13,F
+CSL-001941,STR-0013,PAT-03902,2026-09-18,Contrôle,Anémie,70,F
+CSL-001942,STR-0010,PAT-04506,2026-06-27,Fièvre,Infection respiratoire aiguë,0,F
+CSL-001943,STR-0014,PAT-02127,2026-02-11,Toux,Plaie et traumatisme,64,F
+CSL-001944,STR-0011,PAT-02630,2026-01-15,Contrôle,Infection respiratoire aiguë,17,M
+CSL-001945,STR-0019,PAT-04078,2026-04-17,Vaccination,Infection respiratoire aiguë,43,F
+CSL-001946,STR-0006,PAT-01861,2026-03-02,Contrôle,Malnutrition aiguë,2,M
+CSL-001947,STR-0014,PAT-03790,2026-06-03,Suivi de grossesse,Diarrhée aiguë,4,F
+CSL-001948,STR-0007,PAT-00501,2026-03-03,Vaccination,Plaie et traumatisme,15,F
+CSL-001949,STR-0016,PAT-00502,2026-06-29,Toux,Infection respiratoire aiguë,62,F
+CSL-001950,STR-0003,PAT-02472,2026-05-26,Vaccination,Anémie,90,F
+CSL-001951,STR-0017,PAT-03300,2025-11-08,Toux,Plaie et traumatisme,23,F
+CSL-001952,STR-0005,PAT-00085,2026-06-18,Suivi de grossesse,Malnutrition aiguë,87,M
+CSL-001953,STR-0011,PAT-01706,2026-07-11,Contrôle,Malnutrition aiguë,60,F
+CSL-001954,STR-0020,PAT-00427,2026-02-23,Suivi de grossesse,Paludisme simple,33,F
+CSL-001955,STR-0001,PAT-02842,2026-06-14,Fièvre,Diarrhée aiguë,60,M
+CSL-001956,STR-0007,PAT-02636,2026-05-17,Suivi de grossesse,Plaie et traumatisme,7,F
+CSL-001957,STR-0019,PAT-00227,2026-09-15,Toux,Diabète,18,M
+CSL-001958,STR-0006,PAT-00489,2026-07-11,Contrôle,Diarrhée aiguë,22,M
+CSL-001959,STR-0016,PAT-03490,2025-11-25,Vaccination,Infection respiratoire aiguë,62,M
+CSL-001960,STR-0004,PAT-02368,2026-04-17,Douleurs abdominales,Malnutrition aiguë,73,M
+CSL-001961,STR-0019,PAT-00065,2026-03-21,Toux,Diarrhée aiguë,23,M
+CSL-001962,STR-0001,PAT-00784,2026-01-16,Douleurs abdominales,Diarrhée aiguë,86,F
+CSL-001963,STR-0015,PAT-03806,2026-09-18,Fièvre,Hypertension artérielle,10,F
+CSL-001964,STR-0001,PAT-00270,2025-11-08,Douleurs abdominales,Hypertension artérielle,26,M
+CSL-001965,STR-0008,PAT-00927,2026-01-02,Suivi de grossesse,Diarrhée aiguë,72,F
+CSL-001966,STR-0002,PAT-03258,2026-01-09,Douleurs abdominales,Diabète,7,M
+CSL-001967,STR-0020,PAT-01794,2026-08-30,Contrôle,Hypertension artérielle,16,F
+CSL-001968,STR-0012,PAT-00392,2026-07-03,Douleurs abdominales,Malnutrition aiguë,7,M
+CSL-001969,STR-0015,PAT-01362,2026-07-29,Vaccination,Diabète,45,M
+CSL-001970,STR-0017,PAT-04474,2026-10-24,Suivi de grossesse,Diabète,0,F
+CSL-001971,STR-0004,PAT-04629,2025-11-18,Toux,Paludisme simple,21,M
+CSL-001972,STR-0002,PAT-02290,2025-12-11,Douleurs abdominales,Paludisme simple,74,M
+CSL-001973,STR-0007,PAT-01420,2026-06-20,Fièvre,Diarrhée aiguë,31,F
+CSL-001974,STR-0011,PAT-02819,2025-11-25,Fièvre,Infection respiratoire aiguë,79,M
+CSL-001975,STR-0019,PAT-04132,2026-03-31,Vaccination,Diabète,88,M
+CSL-001976,STR-0005,PAT-00060,2026-03-20,Vaccination,Paludisme simple,44,M
+CSL-001977,STR-0006,PAT-04750,2026-09-08,Fièvre,Plaie et traumatisme,42,F
+CSL-001978,STR-0005,PAT-01989,2026-08-25,Suivi de grossesse,Malnutrition aiguë,25,M
+CSL-001979,STR-0001,PAT-03146,2026-09-21,Toux,Diabète,82,M
+CSL-001980,STR-0003,PAT-01877,2026-03-10,Fièvre,Plaie et traumatisme,47,M
+CSL-001981,STR-0013,PAT-02064,2026-02-06,Suivi de grossesse,Infection respiratoire aiguë,18,M
+CSL-001982,STR-0018,PAT-02201,2026-08-04,Douleurs abdominales,Diarrhée aiguë,34,M
+CSL-001983,STR-0012,PAT-01887,2026-09-22,Douleurs abdominales,Anémie,1,F
+CSL-001984,STR-0004,PAT-04767,2026-08-14,Contrôle,Infection respiratoire aiguë,38,M
+CSL-001985,STR-0009,PAT-03819,2026-08-14,Vaccination,Diarrhée aiguë,47,F
+CSL-001986,STR-0008,PAT-02084,2026-01-18,Contrôle,Anémie,89,M
+CSL-001987,STR-0013,PAT-04707,2026-02-14,Toux,Hypertension artérielle,30,M
+CSL-001988,STR-0011,PAT-03828,2026-08-01,Contrôle,Diabète,55,F
+CSL-001989,STR-0012,PAT-04320,2026-02-09,Vaccination,Hypertension artérielle,69,M
+CSL-001990,STR-0006,PAT-00148,2026-03-31,Contrôle,Diabète,50,F
+CSL-001991,STR-0010,PAT-01776,2026-04-22,Contrôle,Anémie,47,M
+CSL-001992,STR-0018,PAT-01503,2026-08-31,Douleurs abdominales,Malnutrition aiguë,21,F
+CSL-001993,STR-0001,PAT-00743,2026-07-24,Toux,Diarrhée aiguë,31,F
+CSL-001994,STR-0020,PAT-00094,2026-07-27,Fièvre,Malnutrition aiguë,50,M
+CSL-001995,STR-0012,PAT-03526,2025-12-31,Toux,Diarrhée aiguë,8,F
+CSL-001996,STR-0002,PAT-00692,2026-09-16,Vaccination,Hypertension artérielle,31,F
+CSL-001997,STR-0006,PAT-02441,2026-08-17,Suivi de grossesse,Infection respiratoire aiguë,11,M
+CSL-001998,STR-0005,PAT-03780,2026-01-27,Suivi de grossesse,Paludisme simple,41,F
+CSL-001999,STR-0014,PAT-01064,2026-02-24,Suivi de grossesse,Diabète,27,F
+CSL-002000,STR-0015,PAT-01422,2026-06-30,Toux,Diabète,54,M

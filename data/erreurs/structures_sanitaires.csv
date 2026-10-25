@@ -1,0 +1,21 @@
+id_structure,nom,type_structure,region,district,date_creation
+STR-0001,CSPS de Banfora 1,CSPS,Cascades,Banfora,2023-07-28
+STR-0002,CMA de Sindou 2,CMA,Cascades,Sindou,2005-08-08
+STR-0003,CSPS de Bobo-Dioulasso 3,CSPS,Hauts-Bassins,Bobo-Dioulasso,2002-08-31
+STR-0004,Clinique privée de Banfora 4,Clinique privée,Cascades,Banfora,2011-03-04
+STR-0005,CSPS de Fada N'Gourma 5,CSPS,Est,Fada N'Gourma,2010-02-23
+STR-0006,CMA de Ouagadougou 6,CMA,Centre,Ouagadougou,2009-05-29
+STR-0007,Clinique privée de Ouahigouya 7,Clinique privée,Nord,Ouahigouya,2006-07-25
+STR-0008,CMA de Houndé 8,CMA,Hauts-Bassins,Houndé,2005-04-20
+STR-0009,CSPS de Bogandé 9,CSPS,Est,Bogandé,2020-05-15
+STR-0010,CHR de Houndé 10,CHR,Hauts-Bassins,Houndé,2004-10-09
+STR-0011,CMA de Dédougou 11,CMA,Boucle du Mouhoun,Dédougou,2021-11-27
+STR-0012,CSPS de Dédougou 12,CSPS,Boucle du Mouhoun,Dédougou,2016-03-03
+STR-0013,CHR de Fada N'Gourma 13,CHR,Est,Fada N'Gourma,2002-11-23
+STR-0014,CSPS de Tougan 14,CSPS,Boucle du Mouhoun,Tougan,2002-10-30
+STR-0015,Clinique privée de Sindou 15,Clinique privée,Cascades,Sindou,2005-01-01
+STR-0016,CSPS de Kombissiri 16,CSPS,Centre,Kombissiri,2009-04-03
+STR-0017,Clinique privée de Yako 17,Clinique privée,Nord,Yako,2009-09-24
+STR-0018,CSPS de Dédougou 18,CSPS,Boucle du Mouhoun,Dédougou,2019-01-04
+STR-0019,CHR de Ouagadougou 19,CHR,Centre,Ouagadougou,2022-04-19
+STR-0020,CSPS de Ouagadougou 20,CSPS,Centre,Ouagadougou,2002-09-19
