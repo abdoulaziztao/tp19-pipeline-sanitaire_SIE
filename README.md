@@ -37,4 +37,8 @@ Voir tests/RESULTATS_ATTENDUS.md. Vérification : docker compose exec warehouse-
 
 ## Équipe (Groupe 7, SIE)
 
-Membre 1 (données), Membre 2 (Airbyte), Membre 3 (Dagster), Membre 4 (FastAPI), Membre 5 (DevOps et qualité). Remplacer par les noms.
+SAVADOGO ADJARATOU (données), 
+TAO Aziz (Airbyte), 
+OUEDRAOGO Adama (Dagster), 
+SIMPORE Carine (FastAPI), 
+SOUARA Audrey (DevOps et qualité). 
